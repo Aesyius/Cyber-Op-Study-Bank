@@ -1,0 +1,1 @@
+Data structures in programming are specialized formats or containers used to organize, store, and manipulate data efficiently. They include arrays, linked lists, stacks, queues, trees, and dictionaries. Data structures are important for managing complex data, optimizing algorithms, and enhancing program performance.

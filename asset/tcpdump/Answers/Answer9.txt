@@ -1,0 +1,1 @@
+tcpdump does not decrypt encrypted traffic but can capture encrypted packets and analyze packet headers, protocol information, and connection details. Packet payload analysis may require additional tools or decryption keys.

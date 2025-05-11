@@ -1,0 +1,1 @@
+Having an incident response plan for firewall rule violations ensures that there are procedures in place to respond to and mitigate the impact of security breaches. It helps minimize damage and recover quickly.

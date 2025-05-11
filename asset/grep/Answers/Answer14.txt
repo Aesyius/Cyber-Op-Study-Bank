@@ -1,0 +1,1 @@
+Multiple "grep" commands can be combined using pipes ("|") for advanced search operations. For example: grep "pattern1" file.txt | grep "pattern2"

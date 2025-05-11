@@ -1,0 +1,1 @@
+A Certificate Authority (CA) is a trusted entity that issues digital certificates to verify the identity of websites and servers in HTTPS connections. Its role in HTTPS security is to validate and authenticate the server's identity, ensuring secure and trusted communication.

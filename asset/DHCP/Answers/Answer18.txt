@@ -1,0 +1,1 @@
+DHCP handles broadcast and unicast messages in network communication as follows: ●DHCP Discover and DHCP Request messages are broadcast by clients to discover DHCP servers and request IP addresses. ●DHCP Offer and DHCP Acknowledge messages from servers are unicast to specific clients based on their MAC addresses, completing the DHCP lease process.

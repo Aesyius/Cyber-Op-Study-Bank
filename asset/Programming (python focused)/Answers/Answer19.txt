@@ -1,0 +1,1 @@
+File handling in programming involves reading from and writing to files on disk. In Python, you can open files using the open() function, read data from files using file objects and methods like read() and readlines(), and write data to files using methods like write() and writelines().

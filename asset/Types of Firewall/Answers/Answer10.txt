@@ -1,0 +1,1 @@
+A network-based firewall is placed at strategic points within the network and monitors traffic between different network segments. A host-based firewall is installed on individual devices and monitors traffic to and from that specific device.

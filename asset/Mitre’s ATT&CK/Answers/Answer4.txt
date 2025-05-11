@@ -1,0 +1,1 @@
+Tactics in MITRE ATT&CK represent the adversary’s goals or objectives throughout an attack (e.g., Initial Access, Execution). Techniques are the specific methods used to achieve these goals (e.g., Phishing, PowerShell). Techniques can have multiple sub-techniques that describe variations or specific implementations of the main technique.

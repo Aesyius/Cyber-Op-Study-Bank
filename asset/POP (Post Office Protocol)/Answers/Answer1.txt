@@ -1,0 +1,1 @@
+POP (Post Office Protocol) is a protocol used for email retrieval from a mail server to a client device. Its primary purpose in email communication is to allow users to access and download emails from the server to their local email clients or applications.

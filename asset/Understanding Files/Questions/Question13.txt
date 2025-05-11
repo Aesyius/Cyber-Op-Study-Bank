@@ -1,0 +1,1 @@
+What specific characteristics of ransomware make it different from other types of malicious files like spyware or rootkits?

@@ -1,0 +1,1 @@
+Routers facilitate communication between multiple LANs within a WAN by using routing protocols that manage how data is directed across the larger network. This enables seamless interaction between local networks.

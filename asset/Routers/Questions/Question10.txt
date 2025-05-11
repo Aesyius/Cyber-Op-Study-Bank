@@ -1,0 +1,1 @@
+How does Quality of Service (QoS) in routers help prioritize traffic in a LAN compared to a WAN?

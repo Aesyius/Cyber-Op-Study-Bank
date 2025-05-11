@@ -1,0 +1,1 @@
+What are methods and attributes in Python classes, and how are they accessed?

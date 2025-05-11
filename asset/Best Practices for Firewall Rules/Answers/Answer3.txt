@@ -1,0 +1,1 @@
+Redundant or obsolete firewall rules can create security risks and impact performance. Removing these rules helps streamline rule sets and improves security.

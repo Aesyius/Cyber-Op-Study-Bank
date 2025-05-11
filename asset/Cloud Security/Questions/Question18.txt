@@ -1,0 +1,1 @@
+What is the role of encryption keys in securing cloud data, and how should they be managed?

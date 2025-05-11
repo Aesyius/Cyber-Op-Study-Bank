@@ -1,0 +1,1 @@
+Tools and libraries available for working with Base64 encoding in different environments include: ●Python: base64 module ●Java: java.util.Base64 class ●JavaScript: Built-in btoa() and atob() functions ●C#: Convert.ToBase64String() and Convert.FromBase64String() methods

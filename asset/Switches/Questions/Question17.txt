@@ -1,0 +1,1 @@
+How can switches be used to segment network traffic for security purposes?

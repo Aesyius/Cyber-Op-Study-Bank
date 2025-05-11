@@ -1,0 +1,1 @@
+The Ticket Granting Service (TGS) issues service tickets to the client based on the Ticket Granting Ticket (TGT). The client presents the TGT to the TGS to obtain a service ticket for accessing specific network resources.

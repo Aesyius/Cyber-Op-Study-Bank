@@ -1,0 +1,1 @@
+How does Kerberos ensure secure communication between the client and a service?

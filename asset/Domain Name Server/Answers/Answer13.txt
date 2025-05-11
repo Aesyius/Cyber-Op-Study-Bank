@@ -1,0 +1,1 @@
+DNS propagation is the process by which updated DNS records are distributed across global DNS servers. It typically takes from a few minutes to 48 hours for changes to fully propagate due to TTL settings and caching.

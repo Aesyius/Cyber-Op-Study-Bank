@@ -1,0 +1,1 @@
+Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It typically involves dividing large tables into smaller, related tables and defining relationships between them.

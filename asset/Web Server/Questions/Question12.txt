@@ -1,0 +1,1 @@
+How does load balancing work in web server environments?

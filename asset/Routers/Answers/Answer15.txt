@@ -1,0 +1,1 @@
+Interior routing protocols (like OSPF) are used within a single organization’s network (LAN), while exterior routing protocols (like BGP) manage routing between different organizations (WANs). Each protocol is designed for its specific routing environment.

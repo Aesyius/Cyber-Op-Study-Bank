@@ -1,0 +1,1 @@
+Port mirroring is a feature that allows a switch to send a copy of network packets seen on one port to another port. It is used for monitoring and analyzing traffic, often in conjunction with network analysis tools.

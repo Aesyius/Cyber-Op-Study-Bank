@@ -1,0 +1,1 @@
+A SIEM system handles large volumes of data by using scalable architecture for efficient data collection, aggregation, and indexing, ensuring that data is managed and retrieved effectively.

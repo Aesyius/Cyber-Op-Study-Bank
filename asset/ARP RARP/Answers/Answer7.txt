@@ -1,0 +1,1 @@
+ARP spoofing is a malicious technique where an attacker sends falsified ARP messages to associate their MAC address with a legitimate IP address in the network. This can lead to traffic interception, redirection, or denial of service attacks, compromising network security.

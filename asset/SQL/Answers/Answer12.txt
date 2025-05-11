@@ -1,0 +1,1 @@
+Subqueries in SQL are nested queries that are used inside another query. They can be used to retrieve data based on results from another query, perform calculations, or filter data dynamically.

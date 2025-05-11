@@ -1,0 +1,1 @@
+Explain how routers contribute to network diagnostics and troubleshooting in both LAN and WAN environments

@@ -1,0 +1,1 @@
+The structure of an IPv4 datagram includes a header and a payload. The header contains fields such as version, header length, type of service, total length, identification, flags, fragment offset, time to live (TTL), protocol, header checksum, source IP address, and destination IP address.

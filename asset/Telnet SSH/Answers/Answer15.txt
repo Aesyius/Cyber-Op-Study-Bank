@@ -1,0 +1,1 @@
+SSH handles tunneling and port forwarding by securely forwarding network traffic between local and remote systems over an encrypted SSH connection. This allows users to access network services securely across networks.

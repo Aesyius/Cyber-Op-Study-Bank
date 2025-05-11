@@ -1,0 +1,1 @@
+Common methods for optimizing web server performance include: • Using caching mechanisms (like Varnish or Redis). • Optimizing images and other media files for faster loading. • Minifying CSS and JavaScript files. • Using Content Delivery Networks (CDNs) to serve content closer to users.

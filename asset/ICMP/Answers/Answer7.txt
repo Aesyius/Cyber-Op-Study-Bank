@@ -1,0 +1,1 @@
+The "Time Exceeded" ICMP message is sent when a packet's TTL (Time to Live) counter reaches zero, preventing the packet from looping indefinitely in the network. It indicates that a packet has expired before reaching its destination.

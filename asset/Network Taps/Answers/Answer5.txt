@@ -1,0 +1,1 @@
+Using a network tap for security monitoring provides several benefits, including unobtrusive traffic capture, the ability to analyze all data without packet loss, and support for high-speed networks. This enhances the effectiveness of intrusion detection systems.

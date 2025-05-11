@@ -1,0 +1,1 @@
+The main differences between the OSI model and the TCP/IP model include the number of layers (OSI has 7 layers, while TCP/IP has 4 layers), the naming of layers, and the approach to protocol design and implementation.

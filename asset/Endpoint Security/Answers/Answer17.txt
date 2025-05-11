@@ -1,0 +1,1 @@
+Multi-factor authentication (MFA) plays a critical role in endpoint security by adding an extra layer of protection to the authentication process. Even if an attacker obtains a user's password, MFA requires additional verification, making it harder for unauthorized users to gain access to endpoints.

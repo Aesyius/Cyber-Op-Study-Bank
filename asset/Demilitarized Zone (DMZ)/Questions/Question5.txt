@@ -1,0 +1,1 @@
+Explain the difference between a single firewall and dual firewall DMZ setup.

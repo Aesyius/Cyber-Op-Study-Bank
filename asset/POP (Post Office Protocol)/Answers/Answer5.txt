@@ -1,0 +1,1 @@
+POP3 (Post Office Protocol version 3) is the latest version of POP and is designed for email retrieval. Earlier versions of POP, such as POP1 and POP2, had limited functionalities and lacked features like message deletion synchronization.

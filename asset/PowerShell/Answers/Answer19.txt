@@ -1,0 +1,1 @@
+PowerShell can be used to automate security tasks, such as monitoring running processes for anomalies, managing security settings, applying updates, scanning logs for potential issues, and responding to threats in real-time by executing remediation scripts.

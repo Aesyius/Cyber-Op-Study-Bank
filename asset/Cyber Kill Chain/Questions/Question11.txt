@@ -1,0 +1,1 @@
+How do attackers exploit vulnerabilities and gain access to systems during the exploitation stage?

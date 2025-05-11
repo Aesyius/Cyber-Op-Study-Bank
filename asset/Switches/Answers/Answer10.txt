@@ -1,0 +1,1 @@
+Quality of Service (QoS) can be implemented on switches to prioritize certain types of traffic. This ensures that critical applications receive the necessary bandwidth and low latency, improving overall network performance.

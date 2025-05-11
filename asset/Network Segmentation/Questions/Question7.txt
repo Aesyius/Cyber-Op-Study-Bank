@@ -1,0 +1,1 @@
+What role do firewalls play in network segmentation?

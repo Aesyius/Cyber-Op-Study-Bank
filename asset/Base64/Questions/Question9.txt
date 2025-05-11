@@ -1,0 +1,1 @@
+Explain the concept of padding in Base64 encoding and its role in ensuring proper alignment of data.

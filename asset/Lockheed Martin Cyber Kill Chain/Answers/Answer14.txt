@@ -1,0 +1,1 @@
+Attackers might exploit various vulnerabilities during the Exploitation stage, such as unpatched software, zero- day vulnerabilities, weak passwords, or social engineering tactics. Identifying and addressing these vulnerabilities is key to preventing exploitation.

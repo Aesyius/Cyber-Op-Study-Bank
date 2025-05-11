@@ -1,0 +1,1 @@
+How does the "sort" command handle case sensitivity in sorting?

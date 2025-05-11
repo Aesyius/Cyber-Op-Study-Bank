@@ -1,0 +1,1 @@
+Explain the difference between a Layer 2 switch and a Layer 3 switch.

@@ -1,0 +1,1 @@
+Explain the role of content negotiation in HTTP requests.

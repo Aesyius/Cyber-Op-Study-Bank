@@ -1,0 +1,1 @@
+Using "awk" with patterns allows you to filter input based on specific criteria, while using it with specific commands or scripts allows you to perform custom actions or transformations on matched lines.

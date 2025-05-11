@@ -1,0 +1,1 @@
+An IP datagram is a basic unit of data in the Internet Protocol (IP) suite used for transmitting data across networks. Its role is to encapsulate data from higher-layer protocols (such as TCP or UDP) and provide addressing, routing, and fragmentation information for reliable transmission.

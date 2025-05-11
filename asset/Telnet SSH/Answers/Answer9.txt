@@ -1,0 +1,1 @@
+Public-key cryptography in SSH authentication involves generating a public-private key pair, where the public key is shared with the SSH server. During authentication, the server challenges the client to prove ownership of the private key, ensuring secure and non-repudiable authentication.

@@ -1,0 +1,1 @@
+Wireshark provides protocol statistics and traffic trends analysis features, including packet counters, byte counters, protocol hierarchy statistics, flow graphs, and conversation statistics. These tools help in understanding network traffic patterns and protocol usage.

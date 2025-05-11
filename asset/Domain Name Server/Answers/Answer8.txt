@@ -1,0 +1,1 @@
+A recursive DNS resolver is responsible for querying other DNS servers to find the answer to a client’s request, while an authoritative DNS server holds the actual DNS records for a domain. The recursive resolver sends queries to different servers until it reaches the authoritative one.

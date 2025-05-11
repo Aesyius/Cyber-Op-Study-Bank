@@ -1,0 +1,1 @@
+TCP handles congestion control by monitoring network congestion through mechanisms like TCP window size adjustments, slow start, congestion avoidance, and fast retransmit. It dynamically adjusts data transmission rates to avoid network congestion.

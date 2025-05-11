@@ -1,0 +1,1 @@
+What is a regular expression (regex), and what is its purpose in text processing?

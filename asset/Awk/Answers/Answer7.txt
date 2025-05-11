@@ -1,0 +1,1 @@
+"awk" allows the use of variables and arithmetic expressions for data manipulation. Variables can store values, and arithmetic expressions can perform calculations. For example: awk '{total = $2 + $3} END {print "Total:", total}' filename

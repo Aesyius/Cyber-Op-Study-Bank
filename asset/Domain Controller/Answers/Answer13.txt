@@ -1,0 +1,1 @@
+Tools such as Active Directory Users and Computers (ADUC), PowerShell, and the Group Policy Management Console (GPMC) can be used to manage and monitor domain controllers. These tools allow administrators to create, modify, and enforce policies and manage user accounts.

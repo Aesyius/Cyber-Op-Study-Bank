@@ -1,0 +1,1 @@
+How can logging and monitoring be used to optimize firewall rules?

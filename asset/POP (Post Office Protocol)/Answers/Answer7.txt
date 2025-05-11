@@ -1,0 +1,1 @@
+POP handles email synchronization between multiple devices by downloading emails to each device independently. However, POP does not synchronize actions such as message deletion, read status, or folder organization between devices, leading to potential inconsistencies.

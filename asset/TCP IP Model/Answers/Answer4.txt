@@ -1,0 +1,1 @@
+Below is the completed chart with Layer names and corresponding protocols/services/devices of the TCP/IP model: TCP/IP LayerProtocols/Services/Devices ApplicationHTTP, FTP, SMTP, DNS, Telnet, SNMP TransportTCP, UDP InternetIP, ICMP, ARP Network AccessEthernet, Wi-Fi, MAC addresses, NICs

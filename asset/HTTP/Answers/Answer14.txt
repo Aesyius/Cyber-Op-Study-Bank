@@ -1,0 +1,1 @@
+HTTP/1.1 and HTTP/2 are protocols for web communication. Key differences include: ●HTTP/1.1: Uses multiple TCP connections, limited concurrency, text-based headers, and lacks efficient multiplexing. ●HTTP/2: Supports multiplexing, header compression, server push, and binary framing for improved performance and efficiency.

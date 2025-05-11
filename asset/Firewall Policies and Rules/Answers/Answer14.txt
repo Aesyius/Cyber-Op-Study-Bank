@@ -1,0 +1,1 @@
+A firewall rule set is a collection of individual firewall rules that together define the firewall’s behavior. It is important to organize and manage the rule set to maintain effective security.

@@ -1,0 +1,1 @@
+Endpoint security solutions help prevent ransomware attacks by detecting and blocking malicious files and behavior before they can encrypt data. These solutions often include backup and recovery options to restore data if an attack occurs.

@@ -1,0 +1,1 @@
+In PowerShell, you can define an array using the @ symbol, like $array = @(1, 2, 3). Arrays can hold multiple values, and they are useful for storing lists of data that you want to iterate through or manipulate.

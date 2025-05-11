@@ -1,0 +1,1 @@
+How does the performance of regex patterns vary depending on the complexity and size of the input text?

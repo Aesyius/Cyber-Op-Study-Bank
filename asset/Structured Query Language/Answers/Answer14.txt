@@ -1,0 +1,1 @@
+To prevent SQL injection attacks, developers should: • Use parameterized queries or prepared statements. • Validate and sanitize user input. • Employ stored procedures and limit user privileges.

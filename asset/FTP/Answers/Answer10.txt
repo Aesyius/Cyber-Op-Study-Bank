@@ -1,0 +1,1 @@
+Common FTP security vulnerabilities include: ●Plain text transmission of credentials (username, password) without encryption. ●FTP bounce attacks exploiting the FTP protocol's data connection mechanism. ●Weak FTP server configurations allowing unauthorized access or file manipulation. ●Lack of access control and improper file permissions on the FTP server.

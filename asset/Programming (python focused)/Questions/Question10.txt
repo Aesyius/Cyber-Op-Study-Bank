@@ -1,0 +1,1 @@
+How do you define and call a function in Python, and what are function parameters?

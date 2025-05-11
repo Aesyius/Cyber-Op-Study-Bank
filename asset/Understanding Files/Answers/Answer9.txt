@@ -1,0 +1,1 @@
+Hashing can be applied in file integrity monitoring by taking hashes of critical files and periodically rechecking them. If the hash changes, it indicates the file may have been altered, potentially signaling tampering or malicious activity.

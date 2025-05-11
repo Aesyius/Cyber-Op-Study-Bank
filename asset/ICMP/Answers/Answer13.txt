@@ -1,0 +1,1 @@
+The "Fragmentation Needed" ICMP message is sent when a packet is too large to pass through a router or link that has a smaller MTU (Maximum Transmission Unit) without fragmentation, but the packet is marked as "Do Not Fragment." This message informs the sender that it needs to reduce the packet size.

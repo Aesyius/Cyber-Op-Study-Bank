@@ -1,0 +1,1 @@
+Which layer of the TCP/IP model is responsible for logical addressing and packet routing?

@@ -1,0 +1,1 @@
+Mail servers often integrate with anti-virus and content filtering services to scan incoming and outgoing emails for malware, phishing attempts, or prohibited content, enhancing security and compliance.

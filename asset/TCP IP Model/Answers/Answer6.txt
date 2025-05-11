@@ -1,0 +1,1 @@
+The Transport Layer in the TCP/IP model is responsible for end-to-end communication and data reliability. It manages flow control, error detection, and error recovery. Common transport protocols include TCP for reliable, connection-oriented communication, and UDP for unreliable, connectionless communication.

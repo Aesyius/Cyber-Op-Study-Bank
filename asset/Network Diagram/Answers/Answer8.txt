@@ -1,0 +1,1 @@
+IP addressing and subnets play a vital role in network diagrams by indicating IP addresses assigned to devices, subnet masks, network segments, and addressing schemes used for routing and communication within the network.

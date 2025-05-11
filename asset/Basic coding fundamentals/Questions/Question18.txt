@@ -1,0 +1,1 @@
+What are syntax errors and runtime errors in coding?

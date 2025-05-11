@@ -1,0 +1,1 @@
+The MITRE ATT&CK framework helps in understanding and mitigating advanced persistent threats (APTs) by documenting the sophisticated tactics and techniques used by APT groups. This information allows organizations to anticipate and defend against complex, targeted attacks.

@@ -1,0 +1,1 @@
+Extracting information from text using regex capture groups involves defining capturing groups within patterns to isolate and extract specific substrings from the input text. Captured groups can then be accessed or manipulated as needed.

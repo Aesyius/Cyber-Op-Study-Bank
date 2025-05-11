@@ -1,0 +1,1 @@
+Firewall rules impact network performance by introducing latency due to rule processing. Optimizing rule sets and using efficient hardware can minimize this impact.

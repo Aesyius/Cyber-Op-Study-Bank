@@ -1,0 +1,1 @@
+Explain the role of tcpdump in intrusion detection systems (IDS) and network forensics investigations.

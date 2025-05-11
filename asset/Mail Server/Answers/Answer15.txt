@@ -1,0 +1,1 @@
+Greylisting temporarily rejects emails from unknown senders, requiring the sending server to resend the email after a short delay. This technique helps prevent spam by stopping mass email campaigns from poorly configured servers.

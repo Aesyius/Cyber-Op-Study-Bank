@@ -1,0 +1,1 @@
+The ICMP "Destination Unreachable" message is sent when a packet cannot reach its destination due to issues such as network unavailability, host unreachable, or protocol mismatch. It informs the source that the destination or part of the route is inaccessible.

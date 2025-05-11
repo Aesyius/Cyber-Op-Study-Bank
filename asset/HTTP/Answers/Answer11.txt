@@ -1,0 +1,1 @@
+HTTP handles redirection (status code 3xx) by sending a redirect response with a new URL. The client's browser then makes a new request to the redirected URL to fetch the resource.

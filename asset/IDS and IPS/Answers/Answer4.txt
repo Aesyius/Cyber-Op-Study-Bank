@@ -1,0 +1,1 @@
+There are several common types of IDS, including Network-based IDS (NIDS) and Host-based IDS (HIDS). NIDS monitors network traffic, while HIDS monitors activities on individual hosts or devices, providing comprehensive coverage across network layers and endpoints.

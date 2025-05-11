@@ -1,0 +1,1 @@
+Describe scenarios where CyberChef is highly useful for data transformation and analysis, and situations where it may not be the best tool to use.

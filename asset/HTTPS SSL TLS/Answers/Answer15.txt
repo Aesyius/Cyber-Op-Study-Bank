@@ -1,0 +1,1 @@
+HTTPS handles session management and cookies by encrypting session data and cookies exchanged between clients and servers, preventing unauthorized access or tampering with sensitive information.

@@ -1,0 +1,1 @@
+The FTP control connection is used for sending commands, authentication, and managing the FTP session. The data connection is used for actual file transfers, directory listings, and data retrieval/upload.

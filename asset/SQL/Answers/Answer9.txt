@@ -1,0 +1,1 @@
+SQL functions are built-in functions that perform operations on data. Common types of SQL functions include aggregate functions (e.g., SUM, AVG), string functions (e.g., CONCAT, SUBSTRING), numeric functions (e.g., ROUND, ABS), and date/time functions (e.g., NOW, DATE_FORMAT).

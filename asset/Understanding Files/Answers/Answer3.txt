@@ -1,0 +1,1 @@
+Understanding PE headers helps determine how an executable interacts with system resources, such as which system functions it calls and where it intends to load into memory. This insight helps in assessing the potential impact of the executable on the system and identifying malicious intent.

@@ -1,0 +1,1 @@
+How does NAT facilitate communication between private and public IP addresses?

@@ -1,0 +1,1 @@
+Packet coloring in Wireshark allows users to apply color rules based on specific criteria (e.g., protocol type, source/destination IP addresses, packet flags) to visually differentiate packets and highlight important information during analysis.

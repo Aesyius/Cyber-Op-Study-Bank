@@ -1,0 +1,1 @@
+In incident response and forensic analysis, network taps provide valuable data that can help investigators understand the nature and extent of a security breach or incident. They allow for detailed examination of network traffic leading up to and during an incident.

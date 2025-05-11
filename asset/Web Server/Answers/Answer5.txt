@@ -1,0 +1,1 @@
+Static content refers to fixed resources, such as HTML files, images, and CSS files, that do not change in response to user input. In contrast, dynamic content is generated on-the-fly by server-side scripts based on user interactions or database queries.

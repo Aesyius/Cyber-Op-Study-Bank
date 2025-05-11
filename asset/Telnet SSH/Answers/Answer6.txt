@@ -1,0 +1,1 @@
+SSH (Secure Shell) is a network protocol used for secure remote access, file transfer, and command execution on remote systems. Its primary purpose is to provide secure communication and authentication over insecure networks.

@@ -1,0 +1,1 @@
+Network taps ensure data integrity by copying traffic directly from the network link without altering it. This guarantees that the captured data is an accurate representation of the original traffic.

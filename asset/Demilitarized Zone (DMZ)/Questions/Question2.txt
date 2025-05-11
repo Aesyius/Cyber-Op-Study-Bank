@@ -1,0 +1,1 @@
+Why is a DMZ used in network security architecture?

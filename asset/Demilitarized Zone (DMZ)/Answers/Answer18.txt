@@ -1,0 +1,1 @@
+VPNs can be integrated with a DMZ to provide secure remote access to internal network resources. The VPN server can be placed in the DMZ to handle authentication and encryption of remote connections.

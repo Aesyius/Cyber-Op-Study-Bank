@@ -1,0 +1,1 @@
+How does Kerberos handle user passwords, and why are they not directly transmitted over the network?

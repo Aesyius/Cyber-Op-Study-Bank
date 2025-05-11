@@ -1,0 +1,1 @@
+What are the limitations of using MD5 or SHA-1 for file integrity, and why would SHA-256 be preferred in many cases?

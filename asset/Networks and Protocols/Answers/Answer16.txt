@@ -1,0 +1,1 @@
+The OSI model is significant in troubleshooting network issues as it provides a structured approach to understanding network protocols and interactions. By analyzing each layer separately, network administrators can identify and resolve issues more effectively.

@@ -1,0 +1,1 @@
+The main difference between TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) is in their reliability and connection-oriented nature. TCP provides reliable, ordered, and error-checked delivery of data with a connection setup and teardown process, while UDP offers faster but unreliable, connectionless data transmission.

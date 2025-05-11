@@ -1,0 +1,1 @@
+RARP can handle dynamic IP address allocation by associating MAC addresses with available IP addresses in its database and assigning them to requesting devices dynamically as needed.

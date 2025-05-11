@@ -1,0 +1,1 @@
+NAT refers to the general process of translating network addresses, while NAPT (Network Address and Port Translation), also known as PAT (Port Address Translation), specifically includes port numbers in the translation process. NAPT allows multiple devices to share a single public IP address by using different port numbers for each internal device.

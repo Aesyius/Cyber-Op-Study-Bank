@@ -1,0 +1,1 @@
+FTP stands for File Transfer Protocol, and its primary purpose in computer networking is to facilitate the transfer of files between a client and a server over a network, typically the internet.

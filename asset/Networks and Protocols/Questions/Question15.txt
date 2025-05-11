@@ -1,0 +1,1 @@
+Explain the concept of encapsulation and how it relates to the OSI model layers.

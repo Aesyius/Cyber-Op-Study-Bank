@@ -1,0 +1,1 @@
+tcpdump can be integrated with other tools and scripts through shell commands, piping captured data to analysis tools, or using scripting languages to automate capture and analysis workflows.

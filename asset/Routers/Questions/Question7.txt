@@ -1,0 +1,1 @@
+What role does the default gateway play in a LAN, and how does it relate to WAN routing?

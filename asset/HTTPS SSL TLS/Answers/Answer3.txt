@@ -1,0 +1,1 @@
+HTTPS ensures secure communication over the internet by encrypting data using SSL/TLS protocols, authenticating servers with digital certificates, and establishing a secure connection through a process called SSL/TLS handshake.

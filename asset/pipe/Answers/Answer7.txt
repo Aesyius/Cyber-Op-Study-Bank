@@ -1,0 +1,1 @@
+The shell (e.g., Bash, Zsh) plays a crucial role in handling command-line pipes by managing the flow of data between commands and ensuring proper execution of piped commands based on their input and output streams.

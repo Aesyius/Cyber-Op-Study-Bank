@@ -1,0 +1,1 @@
+An array in coding is a data structure that stores a collection of elements of the same data type in contiguous memory locations. Arrays allow programmers to group related data items, access elements by index or position, iterate over elements, and perform batch operations efficiently. Arrays are used to store multiple values under a single variable name.

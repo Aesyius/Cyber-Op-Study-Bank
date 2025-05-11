@@ -1,0 +1,1 @@
+Best practices for maintaining the security of a DMZ include regular patching, strong access controls, continuous monitoring, and limiting the services exposed in the DMZ. It's also important to regularly review and update security policies.

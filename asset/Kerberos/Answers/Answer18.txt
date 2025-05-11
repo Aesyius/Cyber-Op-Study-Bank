@@ -1,0 +1,1 @@
+Delegation in Kerberos allows a service to act on behalf of the user to access other services. It is commonly used in scenarios where the service needs to authenticate to other services on the user’s behalf.

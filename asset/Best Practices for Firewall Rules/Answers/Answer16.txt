@@ -1,0 +1,1 @@
+Threat intelligence contributes to the creation of effective firewall rules by providing information about current threats and attack patterns. This helps in creating rules that block known malicious activities.

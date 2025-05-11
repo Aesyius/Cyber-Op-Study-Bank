@@ -1,0 +1,1 @@
+Protocol analyzers in Zeek dissect network protocols to extract metadata, headers, and payloads for detailed analysis. Signature-based detection uses predefined patterns and signatures to detect known threats, attacks, and malicious activity within network traffic.

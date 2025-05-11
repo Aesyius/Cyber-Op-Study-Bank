@@ -1,0 +1,1 @@
+UDP handles unreliable data transmission by sending datagrams without acknowledgment or retransmission mechanisms. If a datagram is lost or corrupted, UDP does not attempt to recover or retransmit it.

@@ -1,0 +1,1 @@
+File headers and magic numbers help determine the true nature of a file regardless of its extension, making it easier to detect files that have been disguised to appear as legitimate software.

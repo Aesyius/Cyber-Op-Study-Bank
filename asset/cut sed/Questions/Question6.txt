@@ -1,0 +1,1 @@
+How does the "-f" option in "cut" specify which fields to extract?

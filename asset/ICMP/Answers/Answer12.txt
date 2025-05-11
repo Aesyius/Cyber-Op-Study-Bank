@@ -1,0 +1,1 @@
+An organization might block ICMP traffic to reduce the risk of attacks like network scanning or DoS attacks. While ICMP is useful for diagnostics, it can also provide attackers with information about the network.

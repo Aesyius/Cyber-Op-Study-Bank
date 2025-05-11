@@ -1,0 +1,1 @@
+Common deployment models for IPS include inline IPS (actively blocking or filtering traffic inline with network flow) and host-based IPS (HIPS) installed on individual hosts to protect them from local threats.

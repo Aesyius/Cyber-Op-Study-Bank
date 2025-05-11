@@ -1,0 +1,1 @@
+DHCP configures DNS server and default gateway settings by providing clients with DNS server IP addresses and gateway IP addresses as part of the DHCP lease. This enables clients to resolve domain names to IP addresses and access external networks through the default gateway.

@@ -1,0 +1,1 @@
+How does an IDS detect and analyze network traffic for potential security threats?

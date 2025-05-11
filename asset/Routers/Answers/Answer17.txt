@@ -1,0 +1,1 @@
+Routing tables contain information about available routes and metrics for each path. In LAN routers, entries are simpler and often static, while WAN routers have more complex entries reflecting various protocols and long-distance connections.

@@ -1,0 +1,1 @@
+A simple hash comparison might fail if the malware has been slightly modified to create a different hash (e.g., using polymorphic techniques). In such cases, additional steps like fuzzy hashing or behavioral analysis would be needed to detect similarities with known threats.

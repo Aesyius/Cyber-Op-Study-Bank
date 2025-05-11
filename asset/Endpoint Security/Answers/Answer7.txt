@@ -1,0 +1,1 @@
+Patch management is significant in maintaining endpoint security because it ensures that devices are updated with the latest security patches and software updates. This helps close vulnerabilities that could be exploited by attackers to gain access to endpoints.

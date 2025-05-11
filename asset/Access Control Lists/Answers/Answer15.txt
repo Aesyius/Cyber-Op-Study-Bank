@@ -1,0 +1,1 @@
+ACLs enforce security policies by defining rules that specify which traffic is allowed or denied based on predefined criteria. This helps implement access controls and ensures compliance with security requirements.

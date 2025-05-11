@@ -1,0 +1,1 @@
+What are the implications of the Unified Kill Chain model for post-attack analysis and forensics?

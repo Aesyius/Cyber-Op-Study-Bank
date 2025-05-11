@@ -1,0 +1,1 @@
+The Telnet client-server model involves a Telnet client application running on a user's device (client), which establishes a connection to a Telnet server running on a remote device. The client sends commands and requests to the server, which executes them and sends back responses.

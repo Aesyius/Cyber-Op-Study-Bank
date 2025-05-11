@@ -1,0 +1,1 @@
+The ROT13 cipher, also known as "rotate by 13 places," is a simple letter substitution cipher where each letter in the plaintext is shifted 13 positions down or up the alphabet. It is a special case of the Caesar cipher with a fixed key of 13.

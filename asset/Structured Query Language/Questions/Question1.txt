@@ -1,0 +1,1 @@
+What is SQL, and what is its primary purpose in databases?

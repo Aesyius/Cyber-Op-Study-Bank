@@ -1,0 +1,1 @@
+What are some common programming paradigms, such as procedural programming, object-oriented programming, and functional programming?

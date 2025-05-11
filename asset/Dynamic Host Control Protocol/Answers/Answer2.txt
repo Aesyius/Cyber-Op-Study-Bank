@@ -1,0 +1,1 @@
+The DHCP process starts with a DHCP client sending a DHCPDISCOVER message to locate available DHCP servers. The server responds with a DHCPOFFER, and the client replies with a DHCPREQUEST, which is finalized by a DHCPACK from the server, confirming the lease.

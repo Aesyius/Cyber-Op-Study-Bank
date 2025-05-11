@@ -1,0 +1,1 @@
+SIEM systems assist in threat detection and incident response by aggregating data from multiple sources, correlating events to detect suspicious patterns, and generating alerts to notify security teams about potential threats.

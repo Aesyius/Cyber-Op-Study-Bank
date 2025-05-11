@@ -1,0 +1,1 @@
+Pre-authentication is a process where the client must encrypt a timestamp with its password-derived key before requesting a Ticket Granting Ticket (TGT). This ensures that the client is legitimate and helps prevent offline password guessing attacks.

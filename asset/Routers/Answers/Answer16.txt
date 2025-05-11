@@ -1,0 +1,1 @@
+Routers handle IPv4 and IPv6 traffic by supporting both address types. They translate and route packets accordingly, ensuring compatibility and connectivity across different network segments.

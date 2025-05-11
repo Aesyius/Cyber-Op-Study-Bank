@@ -1,0 +1,1 @@
+Key components of a SIEM architecture include data collectors, which gather and forward data; a correlation engine, which analyzes and links data; data storage for archiving; and dashboards and reporting tools for presenting data and alerts to users.

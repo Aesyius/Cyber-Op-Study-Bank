@@ -1,0 +1,1 @@
+Wireshark provides various views and displays for analyzing captured packets, including packet list view, packet details view, protocol hierarchy view, IO graph view, statistics view, and more. These displays help in examining different aspects of captured traffic.

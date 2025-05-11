@@ -1,0 +1,1 @@
+Endpoint security integrates with network security to provide comprehensive protection by ensuring that all devices connected to the network are secure. This integration helps prevent the spread of malware and other threats across the network and provides a unified security strategy.

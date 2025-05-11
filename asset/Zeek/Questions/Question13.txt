@@ -1,0 +1,1 @@
+Describe the use of Zeek's scripting language for creating custom analyzers and alerting rules.

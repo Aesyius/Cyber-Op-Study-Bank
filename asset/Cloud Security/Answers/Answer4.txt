@@ -1,0 +1,1 @@
+Common security risks associated with using cloud services include data breaches, misconfigurations, insufficient identity and access management, and insecure APIs. These risks can lead to unauthorized access, data loss, and regulatory non-compliance.

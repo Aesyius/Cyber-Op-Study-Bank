@@ -1,0 +1,1 @@
+An extended ACL filters traffic based on source and destination IP addresses, as well as protocols and ports. This provides more granular control compared to standard ACLs. For instance, an extended ACL can permit HTTP traffic from one network to another but deny FTP traffic.

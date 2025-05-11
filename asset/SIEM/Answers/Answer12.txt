@@ -1,0 +1,1 @@
+A data collector in a SIEM system gathers logs and event data from various sources, such as network devices and applications, and forwards this data to the SIEM for further analysis.

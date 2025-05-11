@@ -1,0 +1,1 @@
+Common DNS security threats include DNS cache poisoning, DNS hijacking, and DDoS attacks. These threats can be mitigated by using DNSSEC (DNS Security Extensions), secure configurations, and rate limiting.

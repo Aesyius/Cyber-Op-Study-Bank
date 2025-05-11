@@ -1,0 +1,1 @@
+When a switch encounters frame flooding or unknown unicast traffic, it sends the frame out of all ports except the incoming port. This allows the frame to reach the intended recipient, even if the destination MAC address is not in the MAC address table.

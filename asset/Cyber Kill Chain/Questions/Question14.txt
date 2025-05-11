@@ -1,0 +1,1 @@
+Describe the command and control (C2) stage in the Cyber Kill Chain and its role.

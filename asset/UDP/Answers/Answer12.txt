@@ -1,0 +1,1 @@
+Ports in UDP communication identify the sending and receiving applications or services. They allow multiple applications to use UDP on the same device by distinguishing between different services.

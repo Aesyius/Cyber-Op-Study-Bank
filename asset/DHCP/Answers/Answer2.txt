@@ -1,0 +1,1 @@
+The DHCP client-server model involves DHCP clients (devices such as computers, smartphones, or network printers) requesting network configuration information from DHCP servers. The DHCP server responds by leasing IP addresses, subnet masks, default gateways, DNS server addresses, and other settings to the clients.

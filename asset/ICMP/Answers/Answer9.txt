@@ -1,0 +1,1 @@
+Traceroute uses ICMP by sending packets with increasing TTL values to trace the path that data takes from the source to the destination. Each router along the path returns an ICMP "Time Exceeded" message, allowing the tool to map the route.

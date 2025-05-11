@@ -1,0 +1,1 @@
+Using "uniq" with the "-c" option prefixes lines with the number of occurrences of each line. Without this option, "uniq" simply outputs the unique lines.

@@ -1,0 +1,1 @@
+A snapshot taken before executing malware can be used to revert the virtual machine to its original clean state after the analysis. This allows repeated testing and examination without permanently affecting the system.

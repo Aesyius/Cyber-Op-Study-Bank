@@ -1,0 +1,1 @@
+A network diagram is a visual representation of a network's architecture, components, connections, and relationships between devices or systems. Its purpose in network design and documentation is to provide a clear and comprehensive view of the network infrastructure, aiding in planning, troubleshooting, and management.

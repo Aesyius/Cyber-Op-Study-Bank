@@ -1,0 +1,1 @@
+Regex modifiers like "i" (case-insensitive) and "g" (global) modify the matching behavior. "i" makes the pattern case-insensitive, and "g" performs global matching, finding all occurrences of the pattern in the input text.

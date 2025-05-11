@@ -1,0 +1,1 @@
+Example of Encryption: If we encrypt the message "HELLO" with a key of 3, each letter is shifted three positions to the right, resulting in "KHOOR." Example of Decryption: Using the same key (3), "KHOOR" is decrypted by shifting each letter three positions to the left, giving us the original message "HELLO" again.

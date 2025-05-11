@@ -1,0 +1,1 @@
+A domain controller is a server that responds to security authentication requests within a Windows domain. It is responsible for allowing users to log in and access resources by validating their credentials and enforcing security policies.

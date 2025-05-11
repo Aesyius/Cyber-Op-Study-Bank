@@ -1,0 +1,1 @@
+The ORDER BY clause in SQL is used for sorting query results based on specified columns. It allows you to control the order in which rows are returned, such as sorting in ascending or descending order.

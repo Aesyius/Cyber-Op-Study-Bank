@@ -1,0 +1,1 @@
+Key components of an ACL entry include the criteria for matching traffic (e.g., source IP address, destination IP address, protocol), and the action to be taken (e.g., permit or deny). Each entry specifies conditions and the associated permissions or restrictions.

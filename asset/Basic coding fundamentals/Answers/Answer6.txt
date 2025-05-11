@@ -1,0 +1,1 @@
+A loop in coding is a control structure that allows repetitive execution of a block of code based on a specified condition or iteration count. Loops are used to automate repetitive tasks, iterate over data collections, and perform batch operations efficiently. Common types of loops include while loops, for loops, and do-while loops.

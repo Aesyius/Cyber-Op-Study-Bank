@@ -1,0 +1,1 @@
+The Caesar Cipher is primarily designed for the English alphabet. For other languages or character sets, modifications to the cipher would be needed to account for different alphabets or symbols.

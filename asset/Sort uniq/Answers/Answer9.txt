@@ -1,0 +1,1 @@
+The syntax of the "uniq" command is: uniq [OPTION]... [INPUT [OUTPUT]] Commonly used options with the "uniq" command include: ●-c: Prefix lines by the number of occurrences. ●-d: Only output duplicate lines. ●-u: Only output unique lines. ●-i: Ignore differences in case when comparing lines.

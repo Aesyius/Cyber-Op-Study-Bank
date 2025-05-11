@@ -1,0 +1,1 @@
+Group Policy Objects (GPOs) are used to enforce specific configurations and security settings across all computers and users in a domain. They can define settings such as password policies, software installation, and desktop configurations.

@@ -1,0 +1,1 @@
+Factors to consider when selecting a network tap include the network speed (e.g., 1G, 10G, or 40G), the type of traffic to capture, power requirements (for active taps), and the physical form factor for installation. Compatibility with existing infrastructure is also crucial.

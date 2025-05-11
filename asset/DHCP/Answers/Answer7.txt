@@ -1,0 +1,1 @@
+DHCP reservation is a feature that allows DHCP servers to assign specific IP addresses to designated clients based on their MAC addresses. This ensures that certain devices always receive the same IP address, providing consistency and simplifying network management.

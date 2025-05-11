@@ -1,0 +1,1 @@
+DNS redundancy can be ensured by using multiple DNS servers in different locations (primary and secondary servers). This ensures that if one DNS server fails, another can handle the queries without interruption.

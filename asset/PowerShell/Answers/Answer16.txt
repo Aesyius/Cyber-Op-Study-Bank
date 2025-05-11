@@ -1,0 +1,1 @@
+The Get-Date cmdlet is used to get the current system date and time. You can format the output to suit your needs using the -Format parameter, such as Get-Date -Format "yyyy-MM-dd".

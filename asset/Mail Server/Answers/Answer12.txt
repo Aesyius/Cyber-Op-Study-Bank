@@ -1,0 +1,1 @@
+A relay allows a mail server to forward messages to other servers on behalf of a client. It is essential for routing emails between different domains and servers while preventing unauthorized relays (open relays).

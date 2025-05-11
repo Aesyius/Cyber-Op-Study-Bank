@@ -1,0 +1,1 @@
+A DHCP client is any device (such as a computer or phone) that requests network configuration settings, while a DHCP server is a device (often a router or dedicated server) that provides IP addresses and other settings to clients.

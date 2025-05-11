@@ -1,0 +1,1 @@
+Logging in firewall policies records details of traffic that matches specified rules. This information is useful for monitoring, troubleshooting, and auditing purposes.

@@ -1,0 +1,1 @@
+Regularly reviewing firewall rules is important to identify and remove obsolete or redundant rules. This helps maintain an effective security posture and reduces complexity.

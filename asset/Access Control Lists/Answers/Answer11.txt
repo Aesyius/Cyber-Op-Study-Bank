@@ -1,0 +1,1 @@
+The order of ACL entries is significant because ACLs are processed top-down. The first rule that matches the traffic criteria is applied, and subsequent rules are ignored. This means that specific rules should be placed before more general rules.

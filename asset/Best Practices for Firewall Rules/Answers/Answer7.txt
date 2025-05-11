@@ -1,0 +1,1 @@
+Automating firewall rule management provides benefits such as consistency, efficiency, and reduced human error. Automation tools can help enforce policies and streamline rule updates.

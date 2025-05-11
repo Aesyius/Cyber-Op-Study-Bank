@@ -1,0 +1,1 @@
+The "sort" command handles sorting text files by comparing lines of text character by character, using the ASCII values of characters for comparison. By default, it sorts in ascending order based on characters.

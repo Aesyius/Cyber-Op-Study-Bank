@@ -1,0 +1,1 @@
+The GROUP BY clause in SQL is used for grouping rows that have the same values in specified columns. It is commonly used with aggregate functions like COUNT, SUM, AVG, etc., for data aggregation.

@@ -1,0 +1,1 @@
+DNS spoofing (or poisoning) is a type of attack where incorrect DNS data is inserted into a resolver’s cache, causing users to be redirected to malicious sites. This can be prevented using DNSSEC, which ensures that DNS responses are verified.

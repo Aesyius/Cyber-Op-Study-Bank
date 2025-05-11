@@ -1,0 +1,1 @@
+Zeek, formerly known as Bro, is an open-source network security monitoring platform designed for real- time analysis and visibility into network traffic. Its primary purpose is to provide network security practitioners with actionable insights, threat detection capabilities, and monitoring tools to enhance cybersecurity posture.

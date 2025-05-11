@@ -1,0 +1,1 @@
+Describe the FTP response codes and their meanings (e.g., 200, 500, 550).

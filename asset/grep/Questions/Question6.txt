@@ -1,0 +1,1 @@
+How does the "-i" option in "grep" handle case insensitivity during search?

@@ -1,0 +1,1 @@
+Describe how the MITRE ATT&CK framework can be used to map out an adversary’s tactics and techniques.

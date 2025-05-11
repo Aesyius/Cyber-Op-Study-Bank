@@ -1,0 +1,1 @@
+ARP handles conflicts or duplicate IP addresses by updating its ARP cache with the most recently received ARP reply. Devices use ARP probes to detect IP address conflicts and resolve them by reassigning IP addresses or notifying administrators.

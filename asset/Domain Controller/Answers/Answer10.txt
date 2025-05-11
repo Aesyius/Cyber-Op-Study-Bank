@@ -1,0 +1,1 @@
+A domain controller can enforce password policies by using Group Policy to define rules such as minimum password length, complexity requirements, and expiration periods. These settings are applied to all user accounts within the domain.

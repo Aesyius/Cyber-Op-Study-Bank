@@ -1,0 +1,1 @@
+A physical network diagram focuses on the actual physical components and connections in a network, such as devices, cables, and ports. In contrast, a logical network diagram emphasizes the logical relationships and configurations, such as IP addressing schemes, VLAN assignments, and routing protocols, without detailing physical locations.

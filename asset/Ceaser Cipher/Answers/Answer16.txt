@@ -1,0 +1,1 @@
+Breaking a message encrypted with the Caesar Cipher without knowing the key involves guessing the key through brute force or using statistical analysis based on letter frequencies in the ciphertext.

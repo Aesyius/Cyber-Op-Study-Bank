@@ -1,0 +1,1 @@
+Network taps handle encrypted traffic by capturing it as-is; however, they do not decrypt it. To monitor encrypted traffic, additional solutions like SSL decryption devices may be required to analyze the content.

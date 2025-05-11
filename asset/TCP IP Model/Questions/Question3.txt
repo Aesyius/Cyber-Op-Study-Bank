@@ -1,0 +1,1 @@
+What is the role of the Network Interface Layer in the TCP/IP model, and which protocols or technologies operate at this layer?

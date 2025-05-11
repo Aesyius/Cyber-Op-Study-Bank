@@ -1,0 +1,1 @@
+The ROT13 cipher is often used for text obfuscation, where readability is preserved while making the text less straightforward to understand at first glance. It's also used in encoding and decoding tasks where security is not a primary concern.

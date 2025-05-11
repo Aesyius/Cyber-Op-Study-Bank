@@ -1,0 +1,1 @@
+Signature-based detection involves comparing observed network traffic or system activities against a database of known attack signatures or patterns. Anomaly-based detection, on the other hand, establishes a baseline of normal behavior and flags deviations or anomalies as potential threats.

@@ -1,0 +1,1 @@
+IPv6 address autoconfiguration impacts IP datagram transmission by enabling devices to automatically configure IPv6 addresses without manual intervention. It simplifies network setup and management.

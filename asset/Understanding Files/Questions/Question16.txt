@@ -1,0 +1,1 @@
+How would using a combination of strings analysis and file hashing provide a more comprehensive picture during a cybersecurity investigation?

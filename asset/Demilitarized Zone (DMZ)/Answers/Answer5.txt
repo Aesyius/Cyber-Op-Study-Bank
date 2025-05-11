@@ -1,0 +1,1 @@
+A single firewall DMZ setup uses one firewall to separate the DMZ from both the internal and external networks. A dual firewall setup uses two firewalls, with one firewall separating the DMZ from the external network and another firewall separating the DMZ from the internal network.

@@ -1,0 +1,1 @@
+Describe the process of alerting and reporting in an IDS when suspicious activity is detected.

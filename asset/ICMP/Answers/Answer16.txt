@@ -1,0 +1,1 @@
+ICMP error messages report issues, such as unreachable destinations or timeouts, while informational messages (e.g., Echo Request/Reply) provide status or diagnostic information. Both types of messages are critical for maintaining network health.

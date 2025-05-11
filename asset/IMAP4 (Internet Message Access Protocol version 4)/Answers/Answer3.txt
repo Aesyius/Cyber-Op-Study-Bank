@@ -1,0 +1,1 @@
+IMAP4 handles email folders and message storage on the server by organizing emails into folders such as Inbox, Sent, Drafts, and user-created folders. Messages are stored on the server, allowing users to access and manage their emails from multiple devices while maintaining synchronization.

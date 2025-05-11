@@ -1,0 +1,1 @@
+Explain how you would use PowerShell to get the current system date and time.

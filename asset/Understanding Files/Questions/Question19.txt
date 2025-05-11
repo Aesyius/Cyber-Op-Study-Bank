@@ -1,0 +1,1 @@
+How might your approach differ when analyzing a trojan compared to analyzing a keylogger?

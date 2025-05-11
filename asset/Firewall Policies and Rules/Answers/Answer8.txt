@@ -1,0 +1,1 @@
+Firewall rules can control access to specific ports by specifying the port numbers in the rule criteria. This helps limit access to services running on those ports and reduces the attack surface.

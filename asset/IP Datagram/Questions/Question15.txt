@@ -1,0 +1,1 @@
+How does IPv4 handle packet forwarding and routing across networks?

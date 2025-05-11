@@ -1,0 +1,1 @@
+To update existing records in a SQL database, you use the UPDATE statement. For example: UPDATE employees SET salary = salary * 1.1 WHERE department_id = 2; increases the salary of all employees in department 2 by 10%.

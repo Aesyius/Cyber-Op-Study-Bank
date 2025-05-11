@@ -1,0 +1,1 @@
+How does threat intelligence contribute to the creation of effective firewall rules?

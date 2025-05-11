@@ -1,0 +1,1 @@
+The "awk" command handles field separators and delimiters using the "-F" option. By default, it uses whitespace (spaces or tabs) as the field separator, but you can specify custom delimiters like commas in CSV files.

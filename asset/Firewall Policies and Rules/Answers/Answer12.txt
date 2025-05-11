@@ -1,0 +1,1 @@
+Overly permissive firewall rules can create security vulnerabilities by allowing unnecessary or unauthorized access. They increase the risk of attacks and data breaches.

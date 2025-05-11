@@ -1,0 +1,1 @@
+ROT13 can be seen as a special case of the Caesar cipher with a specific key value of 13. In the Caesar cipher, any integer from 1 to 25 can be used as the key to shift letters, while ROT13 uses a fixed key of 13.

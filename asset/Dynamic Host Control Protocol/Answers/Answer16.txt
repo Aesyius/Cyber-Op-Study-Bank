@@ -1,0 +1,1 @@
+DHCP security concerns include rogue DHCP servers and DHCP starvation attacks. These can be mitigated by using DHCP snooping, IP address binding, and other network security measures.

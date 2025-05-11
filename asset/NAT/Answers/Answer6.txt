@@ -1,0 +1,1 @@
+Outbound NAT translation occurs when a device in a private network initiates communication with an external network. The NAT device modifies the source IP address in outgoing packets from a private IP address to a public IP address, allowing the response packets to be routed back to the correct internal device.

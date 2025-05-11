@@ -1,0 +1,1 @@
+Base64 encoding can handle text data, images, and binary files by converting them into a series of Base64 characters according to the encoding algorithm. The resulting Base64 string represents the original data in a text-friendly format.

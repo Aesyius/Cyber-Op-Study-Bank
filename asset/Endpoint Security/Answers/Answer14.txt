@@ -1,0 +1,1 @@
+Organizations can enforce endpoint security policies on remote or off-network devices by using virtual private networks (VPNs), mobile device management (MDM) solutions, and cloud-based security tools. These measures ensure that remote devices comply with security policies, even when not connected to the corporate network.

@@ -1,0 +1,1 @@
+The "-i" option in "sed" allows you to edit files in place, meaning the changes are made directly to the original file without creating backups.

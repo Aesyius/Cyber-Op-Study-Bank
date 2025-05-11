@@ -1,0 +1,1 @@
+Data residency refers to the physical location where data is stored, and it is significant in cloud security because different countries have different laws regarding data privacy and protection. Organizations must ensure that their data complies with local regulations, especially when using global cloud providers.

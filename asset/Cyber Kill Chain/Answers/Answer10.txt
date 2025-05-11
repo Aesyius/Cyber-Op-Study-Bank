@@ -1,0 +1,1 @@
+The exploitation stage in the Cyber Kill Chain involves exploiting vulnerabilities in the target system to gain unauthorized access. Attackers may exploit vulnerabilities in operating systems, applications, or misconfigurations to execute malicious code and escalate privileges.

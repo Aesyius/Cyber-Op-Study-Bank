@@ -1,0 +1,1 @@
+What are SQL functions, and what types of functions are commonly used?

@@ -1,0 +1,1 @@
+Link aggregation combines multiple physical connections into a single logical link to increase bandwidth and provide redundancy. This improves performance and provides failover capabilities if one link fails.

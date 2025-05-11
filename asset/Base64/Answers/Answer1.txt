@@ -1,0 +1,1 @@
+Base64 encoding is a method of converting binary data into a format that is represented using ASCII characters. Its primary purpose is to ensure that binary data can be safely transmitted and stored as text- based data, particularly in environments that may not support binary data transmission.

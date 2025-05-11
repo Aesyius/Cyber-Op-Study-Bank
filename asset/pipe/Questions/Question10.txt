@@ -1,0 +1,1 @@
+How can you combine pipes with redirection operators (">" and "<") for input and output management?

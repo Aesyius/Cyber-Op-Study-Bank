@@ -1,0 +1,1 @@
+File servers manage access to shared resources by using permissions and authentication mechanisms. These can include setting up user accounts, groups, and defining who has read, write, or modify access to specific files or directories.

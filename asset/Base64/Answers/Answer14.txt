@@ -1,0 +1,1 @@
+Base64 encoding is commonly used in web technologies for transmitting data in URLs (e.g., query parameters, URL paths) and HTML attributes (e.g., data URIs for embedding images or resources). It helps avoid encoding conflicts and ensures data integrity during transmission.

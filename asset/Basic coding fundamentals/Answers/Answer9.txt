@@ -1,0 +1,1 @@
+Functions or methods in coding are reusable blocks of code that perform specific tasks or operations. Functions encapsulate logic, promote code modularity, enable code reuse, improve readability, and facilitate abstraction and organization of code. They can accept inputs (parameters), perform computations or actions, and return outputs (return values).

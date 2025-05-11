@@ -1,0 +1,1 @@
+What is a constant, and how is it different from a variable?

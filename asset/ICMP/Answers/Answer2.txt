@@ -1,0 +1,1 @@
+ICMP differs from TCP and UDP as it is not used for transmitting application data but for network diagnostics and error reporting. TCP and UDP are transport layer protocols used for data transfer, while ICMP operates at the network layer and handles network-level messaging.

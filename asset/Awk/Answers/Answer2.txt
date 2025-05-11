@@ -1,0 +1,1 @@
+The syntax of the "awk" command is: awk [OPTIONS] 'pattern {action}' [inputfile...] Commonly used options include: ●"-F": Specify the input field separator. ●"-v VAR=value": Assign a value to a variable. ●"-f scriptfile": Specify an external script file.

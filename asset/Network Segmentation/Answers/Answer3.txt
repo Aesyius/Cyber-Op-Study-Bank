@@ -1,0 +1,1 @@
+Common methods used to segment a network include VLANs (Virtual Local Area Networks), firewalls, and access control lists (ACLs). These methods help in creating distinct network segments with specific security policies.

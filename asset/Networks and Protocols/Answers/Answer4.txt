@@ -1,0 +1,1 @@
+The Data Link Layer of the OSI model is associated with protocols such as Ethernet, IEEE 802.3, IEEE 802.11 (Wi-Fi), and technologies like MAC addresses and switches.

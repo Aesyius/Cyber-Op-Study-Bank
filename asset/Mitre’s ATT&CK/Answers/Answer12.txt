@@ -1,0 +1,1 @@
+The MITRE ATT&CK framework supports threat hunting and incident response by providing detailed information on adversary behaviors and tactics. Analysts use this information to search for indicators of compromise (IoCs), identify suspicious activities, and respond to incidents more effectively.

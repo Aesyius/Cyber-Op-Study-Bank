@@ -1,0 +1,1 @@
+Explain the delivery stage in the Cyber Kill Chain and how attackers deliver their malicious payloads.

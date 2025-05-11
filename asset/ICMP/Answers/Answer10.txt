@@ -1,0 +1,1 @@
+ICMP poses security risks because it can be exploited in network reconnaissance, denial-of-service (DoS) attacks, and other malicious activities. Attackers can use ICMP to map out network topology or flood a network with traffic.

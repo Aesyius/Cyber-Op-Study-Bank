@@ -1,0 +1,1 @@
+The TCP header contains control information necessary for managing TCP connections, including source and destination port numbers, sequence and acknowledgment numbers, TCP flags, window size, and checksum for error detection.

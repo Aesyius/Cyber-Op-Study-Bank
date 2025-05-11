@@ -1,0 +1,1 @@
+How does an IPS handle attacks such as DDoS (Distributed Denial of Service) and buffer overflow?

@@ -1,0 +1,1 @@
+How does HTTPS handle encryption and decryption of data transmitted over the network?

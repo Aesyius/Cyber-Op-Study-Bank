@@ -1,0 +1,1 @@
+Key differences between the TCP/IP model and other networking models include the number of layers, the naming and functionality of layers, and the protocols and technologies associated with each layer. The TCP/IP model is more widely used and directly corresponds to internet protocols and technologies.

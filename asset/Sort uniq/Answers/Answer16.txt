@@ -1,0 +1,1 @@
+You can use pipes ("|") to pass the output of one command as input to another command. For example: cat file.txt | sort | uniq

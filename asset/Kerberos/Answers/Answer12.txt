@@ -1,0 +1,1 @@
+Mutual authentication means that both the client and the service authenticate each other. In Kerberos, the service also verifies the client’s identity by ensuring that the service ticket is valid and that the client possesses the corresponding session key.

@@ -1,0 +1,1 @@
+NAT traversal in peer-to-peer communication involves techniques such as UDP hole punching, where NAT devices allow inbound traffic for established outbound connections, and relay servers, which facilitate communication between peers behind restrictive NATs by relaying data through an intermediary server.

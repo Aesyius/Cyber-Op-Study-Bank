@@ -1,0 +1,1 @@
+UDP does not handle congestion control like TCP. Instead, it relies on the sending and receiving applications to manage data flow and handle any congestion issues.

@@ -1,0 +1,1 @@
+The "awk" command processes and manipulates text data by scanning each line of input, applying specified patterns to filter lines, and executing actions on matching lines. It can extract fields, perform calculations, apply conditional statements, and generate formatted output.

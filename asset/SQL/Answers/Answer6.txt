@@ -1,0 +1,1 @@
+The FROM clause in an SQL query specifies the tables or views from which to retrieve data. It is essential for identifying the data sources involved in the query.

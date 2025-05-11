@@ -1,0 +1,1 @@
+A Ticket Granting Ticket (TGT) has a limited lifespan, typically a few hours, after which it expires. If allowed, the TGT can be renewed without the user having to re-authenticate, but this renewal must happen before the ticket expires.

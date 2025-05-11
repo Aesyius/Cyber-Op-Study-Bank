@@ -1,0 +1,1 @@
+An ‘attack technique’ in the context of MITRE ATT&CK is a method that adversaries use to achieve their objectives. It is represented in the framework with a unique identifier and description, and is categorized under a specific tactic.

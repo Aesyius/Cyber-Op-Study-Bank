@@ -1,0 +1,1 @@
+How does HTTP handle authentication and authorization?

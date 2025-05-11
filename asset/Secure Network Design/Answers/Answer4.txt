@@ -1,0 +1,1 @@
+Network hardening involves securing network devices and systems by removing unnecessary services, applying patches, and configuring strong security settings. It reduces the attack surface and vulnerabilities.

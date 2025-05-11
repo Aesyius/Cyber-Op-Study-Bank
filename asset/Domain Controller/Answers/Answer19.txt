@@ -1,0 +1,1 @@
+Recovering a failed domain controller involves restoring it from a backup or performing an authoritative or non-authoritative restore of the Active Directory. The recovery process may also require re-establishing replication with other domain controllers.

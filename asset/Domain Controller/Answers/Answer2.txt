@@ -1,0 +1,1 @@
+Authentication in a domain-controlled environment involves verifying a user’s identity by checking their credentials (username and password) against the information stored in the domain controller's database. Authorization follows, where the domain controller determines the user’s permissions and what resources they can access.

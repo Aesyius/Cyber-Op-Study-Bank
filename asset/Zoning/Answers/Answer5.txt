@@ -1,0 +1,1 @@
+Zoning by VLAN (Virtual Local Area Network) in Ethernet networks involves segregating network traffic based on VLAN IDs. Each VLAN represents a separate logical network, and zoning by VLAN ensures that devices within the same VLAN can communicate while restricting access between different VLANs, thus enhancing network security and segmentation.

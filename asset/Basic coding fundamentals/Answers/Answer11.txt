@@ -1,0 +1,1 @@
+Parameters in function definitions are placeholders or variables used to accept inputs or arguments passed to the function when it is called. Arguments, on the other hand, are actual values or expressions provided to a function when it is invoked. Parameters define the structure and behavior of functions, while arguments supply data or values for function execution.

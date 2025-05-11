@@ -1,0 +1,1 @@
+Conditional branching in programming refers to the ability to execute different code paths or statements based on specified conditions or logical expressions. Conditional branching is achieved using if-else statements, switch-case statements, ternary operators, or other conditional constructs. It allows programs to make decisions dynamically based on runtime conditions.

@@ -1,0 +1,1 @@
+Explain the purpose of an ICMP Echo Request and Echo Reply message.

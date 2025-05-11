@@ -1,0 +1,1 @@
+A DNS resolver is a server that processes DNS queries from clients by querying other DNS servers until it resolves the requested domain name to an IP address. It acts as the intermediary between the user and the DNS hierarchy.

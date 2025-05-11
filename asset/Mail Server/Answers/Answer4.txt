@@ -1,0 +1,1 @@
+POP3 (Post Office Protocol 3) downloads emails from the server to the local device and typically deletes the server’s copy, while IMAP (Internet Message Access Protocol) keeps emails on the server and allows synchronized access from multiple devices.

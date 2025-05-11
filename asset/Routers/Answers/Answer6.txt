@@ -1,0 +1,1 @@
+Routers manage broadcast traffic in a LAN by forwarding it to all devices within the local network. In a WAN, multicast traffic is handled by directing it only to specified groups, reducing unnecessary traffic.

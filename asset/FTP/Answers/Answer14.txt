@@ -1,0 +1,1 @@
+Alternative FTP protocols or extensions include: ●FTPS (FTP Secure): Adds SSL/TLS encryption to FTP connections for secure file transfers. ●FTPES (FTP over Explicit SSL/TLS): Similar to FTPS but uses separate control and data channels with explicit SSL/TLS negotiation.

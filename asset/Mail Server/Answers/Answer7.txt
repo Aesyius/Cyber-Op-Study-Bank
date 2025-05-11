@@ -1,0 +1,1 @@
+An email queue temporarily holds outgoing or incoming emails on the mail server when immediate delivery is not possible. It helps manage delivery retries and ensures efficient message transmission.

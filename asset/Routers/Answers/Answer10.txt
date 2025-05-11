@@ -1,0 +1,1 @@
+QoS in routers prioritizes network traffic by classifying and managing packets based on their importance. In LANs, it may prioritize real-time traffic like VoIP, while in WANs, it may manage bandwidth allocation across multiple locations.

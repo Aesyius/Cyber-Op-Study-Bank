@@ -1,0 +1,1 @@
+Zeek can be integrated with other security tools and SIEM systems through log file exports, standardized formats (e.g., JSON, syslog), and API integrations. This integration enhances threat detection, incident response, and correlation of security events across the security infrastructure.

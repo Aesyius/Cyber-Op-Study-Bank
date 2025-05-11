@@ -1,0 +1,1 @@
+Organizations can disrupt the Command and Control stage by monitoring for unusual outbound traffic, blocking known malicious IP addresses, and using network security tools to detect and prevent unauthorized communications.

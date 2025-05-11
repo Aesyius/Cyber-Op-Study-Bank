@@ -1,0 +1,1 @@
+The "Router Advertisement" ICMP message is part of IPv6’s Neighbor Discovery Protocol (NDP), where routers announce their presence to hosts on the network, providing them with routing information. This helps hosts configure themselves without needing a DHCP server.

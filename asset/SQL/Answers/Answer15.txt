@@ -1,0 +1,1 @@
+The UPDATE statement in SQL modifies existing data in a table. It allows you to change the values of specific columns in one or more rows based on specified conditions using the WHERE clause.

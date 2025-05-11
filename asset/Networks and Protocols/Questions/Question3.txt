@@ -1,0 +1,1 @@
+What is the primary purpose of the Physical Layer in the OSI model, and what types of devices operate at this layer?

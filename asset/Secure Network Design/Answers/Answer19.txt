@@ -1,0 +1,1 @@
+Considerations for integrating wireless networks into a secure network design include using strong encryption (WPA3), secure authentication methods, and proper segmentation of wireless traffic. Wireless networks should be isolated from critical resources.

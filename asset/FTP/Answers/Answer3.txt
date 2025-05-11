@@ -1,0 +1,1 @@
+FTP operates in two modes: ●Active Mode: The FTP server initiates a data connection to the client's specified port for data transfer. ●Passive Mode: The client initiates both control and data connections to the server, with the server listening on a specified data port.

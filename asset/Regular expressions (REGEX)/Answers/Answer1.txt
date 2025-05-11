@@ -1,0 +1,1 @@
+A regular expression (regex) is a sequence of characters that define a search pattern, typically used for pattern matching and text processing tasks. Its purpose in text processing is to efficiently search, extract, validate, or manipulate specific patterns within strings of text.

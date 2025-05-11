@@ -1,0 +1,1 @@
+Strings analysis provides insight into readable content, while file hashing ensures integrity and identity. Together, they allow you to both understand a file’s behavior and verify that it hasn’t been tampered with.

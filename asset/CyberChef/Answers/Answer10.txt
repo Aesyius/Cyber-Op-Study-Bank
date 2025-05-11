@@ -1,0 +1,1 @@
+CyberChef's "bake" operation is used for converting structured data (e.g., JSON, XML) into a format suitable for processing or analysis. The "parse" operation, on the other hand, is used to parse and extract data from formatted text or binary data.

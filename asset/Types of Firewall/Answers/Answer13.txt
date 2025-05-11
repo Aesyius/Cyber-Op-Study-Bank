@@ -1,0 +1,1 @@
+A cloud firewall operates in a cloud environment and provides firewall services for cloud resources. It can be implemented as a virtual appliance or a cloud-native service, protecting cloud workloads and traffic.

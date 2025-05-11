@@ -1,0 +1,1 @@
+RARP stands for Reverse Address Resolution Protocol. It differs from ARP in that it maps MAC addresses to IP addresses, primarily used in legacy systems for diskless workstations to obtain their IP addresses.

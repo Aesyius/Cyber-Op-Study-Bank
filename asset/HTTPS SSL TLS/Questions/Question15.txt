@@ -1,0 +1,1 @@
+How does HTTPS handle session management and cookies?

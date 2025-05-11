@@ -1,0 +1,1 @@
+Real-time monitoring in SIEM is crucial because it allows for the immediate detection of and response to security incidents. This capability helps in minimizing the potential impact of threats by providing timely alerts and facilitating quick actions.

@@ -1,0 +1,1 @@
+Explain the concept of zoning by VLAN (Virtual Local Area Network) in Ethernet networks.

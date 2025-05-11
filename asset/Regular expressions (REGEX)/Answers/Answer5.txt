@@ -1,0 +1,1 @@
+Character classes in regex allow you to specify sets or ranges of characters to match. For example, "[a-z]" matches lowercase letters, "[0-9]" matches digits, and "[A-Za-z0-9]" matches alphanumeric characters.

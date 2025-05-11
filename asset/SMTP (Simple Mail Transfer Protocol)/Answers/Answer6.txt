@@ -1,0 +1,1 @@
+SMTP authentication methods, such as SMTP-AUTH and STARTTLS, are used for secure email transmission. SMTP-AUTH allows email clients to authenticate with SMTP servers using credentials, while STARTTLS encrypts the SMTP communication to prevent eavesdropping.

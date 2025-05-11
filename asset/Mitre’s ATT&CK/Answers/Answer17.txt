@@ -1,0 +1,1 @@
+The MITRE ATT&CK framework supports the creation of defensive measures and detection strategies by providing detailed descriptions of adversary techniques and methods. This information is used to develop detection rules, configure security tools, and implement controls that address specific attack vectors.

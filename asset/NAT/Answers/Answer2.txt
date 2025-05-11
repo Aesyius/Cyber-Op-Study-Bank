@@ -1,0 +1,1 @@
+Static NAT involves manually mapping a specific private IP address to a corresponding public IP address in a one-to-one relationship. Dynamic NAT, on the other hand, dynamically assigns public IP addresses from a pool to private IP addresses on a first-come, first-served basis, allowing multiple internal devices to share a smaller pool of public IP addresses.

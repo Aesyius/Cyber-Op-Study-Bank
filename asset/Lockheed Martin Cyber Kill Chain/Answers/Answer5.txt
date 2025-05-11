@@ -1,0 +1,1 @@
+In the Delivery stage, the attacker transmits the weaponized payload to the target environment. Common methods include email attachments, malicious links, drive-by downloads, or physical media like USB drives.

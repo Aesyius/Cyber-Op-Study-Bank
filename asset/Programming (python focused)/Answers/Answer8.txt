@@ -1,0 +1,1 @@
+Loops in programming are control structures that repeat a block of code based on a specified condition or iteration count. A for loop in Python iterates over a sequence (such as a list, tuple, or range) or an iterable object, executing code for each element or item in the sequence.

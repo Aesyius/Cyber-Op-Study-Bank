@@ -1,0 +1,1 @@
+FTP can handle large file transfers or multi-file transfers by splitting files into smaller chunks (if supported by the client and server), resuming interrupted transfers, and using efficient data transfer mechanisms.

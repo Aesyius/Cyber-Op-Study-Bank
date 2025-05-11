@@ -1,0 +1,1 @@
+An A record is a DNS record that maps a domain name to an IPv4 address. It is the most basic and essential record used to resolve a domain to the server's IP address.

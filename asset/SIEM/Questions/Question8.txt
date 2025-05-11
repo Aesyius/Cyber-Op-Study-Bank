@@ -1,0 +1,1 @@
+How does a SIEM system integrate with other security tools?

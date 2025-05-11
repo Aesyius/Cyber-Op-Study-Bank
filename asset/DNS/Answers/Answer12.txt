@@ -1,0 +1,1 @@
+DNS propagation refers to the time it takes for DNS changes (such as updating DNS records or changing DNS settings) to be distributed and updated across DNS servers worldwide. It can impact DNS resolution until changes propagate fully.

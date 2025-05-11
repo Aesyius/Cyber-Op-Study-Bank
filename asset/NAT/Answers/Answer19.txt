@@ -1,0 +1,1 @@
+NAT interacts differently with IPv4 and IPv6 protocols due to their address formats and translation requirements. While NAT is commonly used with IPv4 to conserve public address space, IPv6 provides a larger address space and promotes end-to-end connectivity without the same NAT constraints.

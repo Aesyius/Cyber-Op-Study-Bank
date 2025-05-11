@@ -1,0 +1,1 @@
+Zeek handles encrypted traffic by decrypting SSL/TLS connections when provided with the necessary keys and certificates. This allows Zeek to analyze encrypted packets and extract metadata and content for security analysis and monitoring.

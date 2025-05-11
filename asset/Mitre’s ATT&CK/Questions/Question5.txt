@@ -1,0 +1,1 @@
+What is an ‘attack technique’ in the context of MITRE ATT&CK, and how is it represented in the framework?

@@ -1,0 +1,1 @@
+Explain the importance of securing mobile devices as part of an endpoint security strategy.

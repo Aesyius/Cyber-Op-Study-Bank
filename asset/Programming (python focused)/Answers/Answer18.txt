@@ -1,0 +1,1 @@
+Lambda functions in Python, also known as anonymous functions, are small, inline functions defined without a name using the lambda keyword. They are often used for concise coding, especially for short, one-time-use functions or as arguments to higher-order functions like map, filter, and sort.

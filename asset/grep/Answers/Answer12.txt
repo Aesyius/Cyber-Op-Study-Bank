@@ -1,0 +1,1 @@
+Examples of using "grep" with regular expressions: ●Search for lines starting with "pattern": grep "^pattern" file.txt ●Search for lines ending with "pattern": grep "pattern$" file.txt

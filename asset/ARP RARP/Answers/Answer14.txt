@@ -1,0 +1,1 @@
+A RARP server in a network environment maintains a database of MAC-to-IP address mappings and responds to RARP requests from clients to provide them with IP addresses based on their MAC addresses.

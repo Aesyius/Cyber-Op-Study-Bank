@@ -1,0 +1,1 @@
+Explain the process of generating actionable insights and reports from Zeek logs.

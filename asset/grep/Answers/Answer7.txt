@@ -1,0 +1,1 @@
+The "-r" option in "grep" allows searching recursively through directories and their subdirectories to find matches in multiple files.

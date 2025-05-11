@@ -1,0 +1,1 @@
+How do you declare and initialize a variable in a programming language?

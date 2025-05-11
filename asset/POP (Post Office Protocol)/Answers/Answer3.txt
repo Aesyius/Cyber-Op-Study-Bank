@@ -1,0 +1,1 @@
+The main POP commands used during email retrieval include: ●USER: Specifies the username for authentication. ●PASS: Specifies the password for authentication. ●LIST: Lists the email messages available on the server. ●RETR: Retrieves a specific email message from the server. ●DELE: Marks an email message for deletion (optional, used to delete messages from the server).

@@ -1,0 +1,1 @@
+Symbols and icons used in network diagrams represent various network devices and components. Common symbols include rectangles for servers, circles for routers, squares for switches, cloud icons for external networks or the internet, and arrows for connections or communication paths.

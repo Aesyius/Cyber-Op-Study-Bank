@@ -1,0 +1,1 @@
+Methods for mitigating ICMP-related security vulnerabilities include rate-limiting ICMP traffic, blocking unnecessary ICMP types, using firewalls to filter malicious ICMP packets, and disabling ICMP on external interfaces. These measures help protect the network while preserving its diagnostic capabilities.

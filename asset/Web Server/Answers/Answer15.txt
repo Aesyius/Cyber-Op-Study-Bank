@@ -1,0 +1,1 @@
+A web server is designed primarily for serving static and dynamic web content, while an application server provides a platform for running server-side applications and processing business logic. Application servers often integrate with web servers to deliver dynamic content.

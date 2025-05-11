@@ -1,0 +1,1 @@
+Explain the difference between POP3 and earlier versions of POP.

@@ -1,0 +1,1 @@
+What are SQL constraints, and how do they enforce data integrity?

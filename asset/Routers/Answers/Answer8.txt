@@ -1,0 +1,1 @@
+Routers handle packet fragmentation by breaking down large packets into smaller ones when necessary. In LANs, this is less common due to typically larger MTU (Maximum Transmission Unit) sizes. In WANs, it’s more frequent due to varying MTUs across different links.

@@ -1,0 +1,1 @@
+Segmentation supports different security policies for different parts of a network by allowing tailored security measures for each segment. For example, stricter policies can be applied to segments containing sensitive data.

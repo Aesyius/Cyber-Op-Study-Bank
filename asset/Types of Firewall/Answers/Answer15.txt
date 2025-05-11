@@ -1,0 +1,1 @@
+A virtual firewall runs as a software instance on virtualized platforms, providing firewall services for virtual networks and environments. It offers similar functionality to physical firewalls but is designed for virtualized infrastructure.

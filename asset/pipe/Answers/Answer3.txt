@@ -1,0 +1,1 @@
+To chain multiple commands together using the pipe operator, you simply use "|" between each command. For example: command1 | command2 | command3

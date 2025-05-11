@@ -1,0 +1,1 @@
+What is the difference between a static routing table and a dynamic routing table in routers?

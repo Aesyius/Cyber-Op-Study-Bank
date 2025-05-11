@@ -1,0 +1,1 @@
+Advantages of hardware firewalls include dedicated resources for performance and security, while disadvantages include higher cost and complexity in deployment. They are usually more reliable but less flexible compared to software firewalls.

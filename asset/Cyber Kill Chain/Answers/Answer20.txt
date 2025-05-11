@@ -1,0 +1,1 @@
+The Cyber Kill Chain model struggles with modern cybersecurity threats due to its linear approach, which may not account for evolving, multi-vector attacks, insider threats, advanced persistent threats, cloud and mobile environments, and the rapid pace of some attacks.

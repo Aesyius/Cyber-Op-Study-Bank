@@ -1,0 +1,1 @@
+Describe the difference between a network-based firewall and a host-based firewall.

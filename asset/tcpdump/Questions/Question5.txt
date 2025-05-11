@@ -1,0 +1,1 @@
+In what scenarios is tcpdump the best choice for capturing and analyzing network traffic, and where might it be less practical due to its command-line nature?

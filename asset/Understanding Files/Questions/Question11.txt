@@ -1,0 +1,1 @@
+Suppose you are tasked with identifying the type of malicious file affecting a system. What steps would you take to determine if it's a worm, virus, or trojan?

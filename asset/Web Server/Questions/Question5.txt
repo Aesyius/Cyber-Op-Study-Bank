@@ -1,0 +1,1 @@
+What is static content on a web server, and how does it differ from dynamic content?

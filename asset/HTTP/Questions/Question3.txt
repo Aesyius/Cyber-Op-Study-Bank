@@ -1,0 +1,1 @@
+What are the main HTTP methods (verbs), and what are their purposes?

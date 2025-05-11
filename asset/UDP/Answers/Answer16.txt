@@ -1,0 +1,1 @@
+UDP has lower overhead compared to TCP because it does not include reliability mechanisms such as acknowledgments, sequence numbers, and flow control. However, this also means that UDP does not provide the same level of reliability as TCP.

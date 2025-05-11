@@ -1,0 +1,1 @@
+The structure of a domain name consists of several components: ●Top-Level Domain (TLD): The highest level in the domain hierarchy, such as .com, .org, .net, .edu, etc. ●Second-Level Domain (SLD): The domain name directly to the left of the TLD, such as example in example.com. ●Subdomain: Optional additional levels of hierarchy that precede the SLD, such as www in www.example.com.

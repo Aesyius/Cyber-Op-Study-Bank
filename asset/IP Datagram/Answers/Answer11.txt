@@ -1,0 +1,1 @@
+Common IPv4 datagram sizes vary but typically include standard MTUs (Maximum Transmission Units) of 576 bytes for IPv4 datagrams without fragmentation and 1500 bytes for Ethernet networks. MTU considerations are crucial for efficient data transmission without fragmentation overhead.

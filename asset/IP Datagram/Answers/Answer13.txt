@@ -1,0 +1,1 @@
+An IP address subnet mask defines the network and host portions of an IP address. It is used in conjunction with IP addresses to determine network addresses, subnetting, and routing within a network.

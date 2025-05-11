@@ -1,0 +1,1 @@
+Examples of using the "cut" command to extract fields from CSV files: ●Extract the first field from a CSV file: cut -d ',' -f 1 filename.csv ●Extract multiple fields from a CSV file: cut -d ',' -f 2,4,6 filename.csv

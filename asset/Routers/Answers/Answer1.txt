@@ -1,0 +1,1 @@
+A router is a networking device that forwards data packets between computer networks. In LANs, it connects local devices and facilitates communication within the network. In WANs, it connects multiple LANs over long distances, enabling broader communication.

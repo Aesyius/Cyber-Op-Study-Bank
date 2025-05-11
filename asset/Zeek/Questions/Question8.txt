@@ -1,0 +1,1 @@
+Explain the role of protocol analyzers and signature-based detection in Zeek.

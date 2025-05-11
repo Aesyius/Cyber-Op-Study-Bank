@@ -1,0 +1,1 @@
+A DNS zone file is a text file that contains DNS records for a specific DNS zone (domain). It typically includes records such as A, AAAA, CNAME, MX, TXT, NS, and SOA records that define the domain's DNS configuration.

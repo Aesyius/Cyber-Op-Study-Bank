@@ -1,0 +1,1 @@
+A firewall policy is a set of rules and guidelines that determine how the firewall should handle network traffic. It is important because it defines the security posture and access controls for an organization’s network.

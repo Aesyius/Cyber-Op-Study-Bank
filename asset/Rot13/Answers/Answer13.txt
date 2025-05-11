@@ -1,0 +1,1 @@
+Weaknesses of ROT13 include its low level of security due to being a simple substitution cipher and its vulnerability to frequency analysis attacks, especially for longer messages.

@@ -1,0 +1,1 @@
+Common pitfalls when using the pipe operator include forgetting to escape special characters, overlooking potential data format mismatches between commands, and encountering issues with large data volumes causing performance degradation.

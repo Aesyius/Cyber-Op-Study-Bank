@@ -1,0 +1,1 @@
+DHCP handles IP address leasing by allocating IP addresses from a pool of available addresses for a specified lease duration. When a client's lease expires or when it requests renewal, DHCP either reassigns the same IP address or provides a new one, depending on availability and configuration settings.

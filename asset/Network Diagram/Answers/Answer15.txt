@@ -1,0 +1,1 @@
+Network diagrams can document network protocols (TCP/IP, DHCP, DNS), services (web servers, email servers), access controls (firewalls, ACLs), routing protocols (OSPF, BGP), VLAN configurations, QoS policies, and network device configurations (switch VLAN assignments, router interfaces).

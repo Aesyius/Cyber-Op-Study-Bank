@@ -1,0 +1,1 @@
+The four main DHCP messages exchanged are: • DHCPDISCOVER (client to server to find a DHCP server) • DHCPOFFER (server to client offering an IP address) • DHCPREQUEST (client to server requesting the offered address) • DHCPACK (server to client confirming the lease)

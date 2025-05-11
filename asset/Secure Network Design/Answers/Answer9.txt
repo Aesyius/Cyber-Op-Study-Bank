@@ -1,0 +1,1 @@
+Network topology, which describes the layout and interconnections of network devices, is important in secure network design. A well-planned topology enhances performance, resilience, and security.

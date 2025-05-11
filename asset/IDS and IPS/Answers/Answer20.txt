@@ -1,0 +1,1 @@
+The role and capabilities of IDS and IPS technologies have evolved in response to the changing threat landscape, with increased emphasis on real-time threat detection, automated response mechanisms, and integration with broader security architectures to provide robust protection against cyber threats.

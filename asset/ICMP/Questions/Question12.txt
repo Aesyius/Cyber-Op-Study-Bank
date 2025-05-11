@@ -1,0 +1,1 @@
+Why might an organization choose to block ICMP traffic on their network?

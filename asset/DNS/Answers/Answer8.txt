@@ -1,0 +1,1 @@
+Authoritative DNS servers are DNS servers that store and provide authoritative DNS records for specific domains. They are responsible for providing accurate and up-to-date DNS information for the domains they manage.

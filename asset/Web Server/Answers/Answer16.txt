@@ -1,0 +1,1 @@
+A Content Delivery Network (CDN) is a distributed network of servers that deliver web content to users based on their geographical location. CDNs cache static content on multiple servers, reducing latency and improving load times.

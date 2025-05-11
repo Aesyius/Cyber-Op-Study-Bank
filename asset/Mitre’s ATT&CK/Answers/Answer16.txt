@@ -1,0 +1,1 @@
+The MITRE ATT&CK framework can be integrated into a security operations center (SOC) workflow by aligning monitoring, detection, and response activities with the tactics and techniques documented in the framework. This helps SOC teams in building relevant use cases, alerts, and response plans.

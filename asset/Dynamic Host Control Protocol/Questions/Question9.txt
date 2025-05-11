@@ -1,0 +1,1 @@
+What happens when a DHCP lease expires, and how is it renewed?

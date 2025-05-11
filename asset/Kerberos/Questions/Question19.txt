@@ -1,0 +1,1 @@
+How does Kerberos integrate with Active Directory in Windows environments?

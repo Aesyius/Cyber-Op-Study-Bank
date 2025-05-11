@@ -1,0 +1,1 @@
+How does IMAP4 handle email folders and message storage on the server?

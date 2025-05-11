@@ -1,0 +1,1 @@
+Utilities that rely on ICMP for network testing include ping (for testing connectivity) and traceroute (for mapping network paths). These tools help diagnose network issues by sending ICMP packets to test responses from devices.

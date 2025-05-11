@@ -1,0 +1,1 @@
+A Cloud Access Security Broker (CASB) is a security tool that sits between cloud users and cloud service providers to enforce security policies, monitor usage, and detect threats. CASBs help organizations maintain visibility and control over their cloud environments.

@@ -1,0 +1,1 @@
+Setting up Wireshark to capture network traffic involves selecting the appropriate network interface (NIC) for capture, configuring capture filters if needed, starting the capture process, and then analyzing the captured packets using display filters and analysis tools.

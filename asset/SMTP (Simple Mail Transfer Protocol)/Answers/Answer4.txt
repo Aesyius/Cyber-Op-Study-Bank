@@ -1,0 +1,1 @@
+SMTP handles email delivery between mail servers by establishing a connection between the sender's SMTP server and the recipient's SMTP server. The recipient's SMTP server then stores the incoming email message in the recipient's mailbox for later retrieval.

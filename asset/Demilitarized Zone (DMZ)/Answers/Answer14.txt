@@ -1,0 +1,1 @@
+Monitoring and logging in a DMZ are important for detecting and responding to security incidents. Regularly reviewing logs helps identify suspicious activities and potential security breaches.

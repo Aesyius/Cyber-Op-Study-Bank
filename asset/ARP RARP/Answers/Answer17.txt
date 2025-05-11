@@ -1,0 +1,1 @@
+Some limitations or drawbacks of RARP include its reliance on preconfigured mappings in RARP servers, lack of support in modern networks, and potential security risks if not properly secured against spoofing attacks.

@@ -1,0 +1,1 @@
+Using "cut" with delimiters ("-d") allows you to extract fields based on a specific character or string that separates fields in each line. Using character positions ("-c") allows you to extract fields based on the positions of characters in each line, without regard to delimiters.

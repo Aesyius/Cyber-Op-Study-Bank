@@ -1,0 +1,1 @@
+Encryption in mail servers works by securing the email transmission using SSL/TLS to encrypt the connection between mail clients and servers or between two servers, ensuring that emails cannot be intercepted in transit.

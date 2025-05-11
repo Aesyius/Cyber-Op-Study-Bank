@@ -1,0 +1,1 @@
+Explain the significance of ARP cache or ARP table in network devices.

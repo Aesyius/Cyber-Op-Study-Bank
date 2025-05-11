@@ -1,0 +1,1 @@
+How does NAT handle port forwarding (NAT-PMP, UPnP) for internal services?

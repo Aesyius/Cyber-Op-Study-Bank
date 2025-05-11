@@ -1,0 +1,1 @@
+The IP protocol field in an IPv4 datagram identifies the upper-layer protocol used in the payload (e.g., TCP, UDP, ICMP) to facilitate proper demultiplexing and delivery to the appropriate protocol handler.

@@ -1,0 +1,1 @@
+HTTP handles statelessness in web communication by not maintaining the state (session data) between consecutive requests by default. Session state can be managed using techniques like HTTP cookies, URL parameters, or server-side sessions.

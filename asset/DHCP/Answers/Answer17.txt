@@ -1,0 +1,1 @@
+DHCPv6 is an extension of DHCP for IPv6 networks, providing similar functionality to DHCPv4 but adapted for IPv6 addressing and configuration requirements. DHCPv6 includes enhancements such as stateless address autoconfiguration, dynamic IPv6 address assignment, and DHCPv6 relay agents for multi-subnet support.

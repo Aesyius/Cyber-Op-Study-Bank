@@ -1,0 +1,1 @@
+Network diagrams can be used for capacity planning and optimizing network performance by visualizing network traffic flows, identifying potential bottlenecks or congestion points, planning for network expansions or upgrades, and optimizing resource allocation based on traffic patterns and usage.

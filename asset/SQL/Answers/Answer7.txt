@@ -1,0 +1,1 @@
+The WHERE clause in SQL filters data based on specified conditions. It allows you to retrieve rows that meet specific criteria, such as filtering by column values or using logical operators.

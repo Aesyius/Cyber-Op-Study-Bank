@@ -1,0 +1,1 @@
+Limitations of using network taps include potential single points of failure, physical access requirements, and challenges with managing large volumes of data captured. Additionally, passive taps may not capture traffic on VLANs without proper configuration.

@@ -1,0 +1,1 @@
+Network monitoring and logging play a crucial role in maintaining a secure network design by providing visibility into network activities and detecting potential threats. Regular analysis of logs helps identify and respond to security incidents promptly.

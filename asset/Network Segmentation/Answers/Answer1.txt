@@ -1,0 +1,1 @@
+Network segmentation is the practice of dividing a computer network into smaller, isolated segments to enhance security and improve performance. This limits the spread of potential security breaches and helps in enforcing access controls.

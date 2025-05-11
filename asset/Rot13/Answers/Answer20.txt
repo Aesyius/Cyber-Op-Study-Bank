@@ -1,0 +1,1 @@
+Modern-day applications of ROT13 include: ●Text transformations in certain programming tasks or scripting. ●Online forums or platforms that use ROT13 for hiding spoilers or revealing content upon user interaction. ●Educational environments to demonstrate basic concepts of ciphers and encryption algorithms.

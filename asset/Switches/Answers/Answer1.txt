@@ -1,0 +1,1 @@
+A switch is a networking device that connects devices within a local area network (LAN). It receives incoming data packets, processes them, and forwards them to the appropriate destination based on MAC addresses.

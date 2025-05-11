@@ -1,0 +1,1 @@
+UDP does not handle packet sequencing and reordering. It assumes that packets will arrive in the order they were sent, and any reordering or sequencing needs to be managed by the application layer if required.

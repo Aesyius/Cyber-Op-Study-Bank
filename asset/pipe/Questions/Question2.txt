@@ -1,0 +1,1 @@
+Describe how the pipe operator connects the output of one command to the input of another command.

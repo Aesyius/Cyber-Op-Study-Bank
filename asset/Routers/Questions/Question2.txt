@@ -1,0 +1,1 @@
+How does a router determine the best path for data packets in a LAN versus a WAN?

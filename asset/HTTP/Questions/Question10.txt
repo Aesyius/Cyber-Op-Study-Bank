@@ -1,0 +1,1 @@
+Describe the concept of caching in HTTP and its benefits.

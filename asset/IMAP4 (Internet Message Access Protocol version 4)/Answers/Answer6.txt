@@ -1,0 +1,1 @@
+IMAP4 handles email synchronization across multiple devices by maintaining a synchronized view of email folders, message statuses, and actions (e.g., deletions, moves) across all devices connected to the same IMAP account. Changes made on one device are reflected on other devices accessing the same account.

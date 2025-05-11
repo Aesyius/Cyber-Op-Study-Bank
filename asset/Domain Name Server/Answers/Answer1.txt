@@ -1,0 +1,1 @@
+A Domain Name Server (DNS) is a system that translates human-readable domain names (e.g., www.example.com) into machine-readable IP addresses. It enables users to access websites using easy- to-remember names rather than numerical IP addresses.

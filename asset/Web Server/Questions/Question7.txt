@@ -1,0 +1,1 @@
+What is a web server log, and what kind of information can be found in it?

@@ -1,0 +1,1 @@
+Router redundancy involves deploying multiple routers to ensure network reliability and minimize downtime. This is crucial for both LANs and WANs to maintain continuous connectivity, especially in business environments.

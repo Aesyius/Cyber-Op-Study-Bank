@@ -1,0 +1,1 @@
+NAT, or Network Address Translation, is a process used in computer networking to modify network address information in IP packet headers while they are in transit across a routing device. Its primary purpose is to allow multiple devices within a local network to share a single public IP address for communication with external networks, such as the Internet.

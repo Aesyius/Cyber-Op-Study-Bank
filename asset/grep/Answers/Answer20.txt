@@ -1,0 +1,1 @@
+Common pitfalls or mistakes to avoid when using the "grep" command include not using appropriate options for case sensitivity, failing to escape special characters in regex patterns, and overlooking the use of context options for better understanding of matched lines.

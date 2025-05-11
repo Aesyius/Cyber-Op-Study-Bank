@@ -1,0 +1,1 @@
+How does FTP handle file permissions and access control?

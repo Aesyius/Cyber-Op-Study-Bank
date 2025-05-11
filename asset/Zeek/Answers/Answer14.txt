@@ -1,0 +1,1 @@
+Zeek's scripting language enables the creation of custom analyzers for specific protocols, services, or security events. It allows users to define alerting rules, logging formats, and response actions tailored to their network environment and security objectives.

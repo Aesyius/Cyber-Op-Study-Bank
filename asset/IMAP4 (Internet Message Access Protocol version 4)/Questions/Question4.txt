@@ -1,0 +1,1 @@
+Explain the IMAP4 commands used for email retrieval, folder management, and message manipulation.

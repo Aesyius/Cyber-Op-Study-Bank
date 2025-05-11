@@ -1,0 +1,1 @@
+ACL placement affects network performance and security by determining where and how traffic is filtered. Proper placement ensures that traffic is filtered efficiently without introducing unnecessary latency or blocking legitimate traffic.

@@ -1,0 +1,1 @@
+How does Zeek handle encrypted traffic, and what capabilities exist for analyzing encrypted packets?

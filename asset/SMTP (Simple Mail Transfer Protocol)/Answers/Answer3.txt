@@ -1,0 +1,1 @@
+The main components of an SMTP transaction include the sender's email client or server, the sender's SMTP server, the recipient's SMTP server, and the recipient's email server. These components work together to ensure the successful delivery of email messages.

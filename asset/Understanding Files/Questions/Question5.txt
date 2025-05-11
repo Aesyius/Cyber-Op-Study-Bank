@@ -1,0 +1,1 @@
+When analyzing strings, what challenges might you face if the content is obfuscated? How would you handle this?

@@ -1,0 +1,1 @@
+A TCP socket is a combination of IP address and port number that uniquely identifies an endpoint in a TCP connection. It consists of a source IP address, source port, destination IP address, and destination port.

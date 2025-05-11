@@ -1,0 +1,1 @@
+Techniques used in the reconnaissance stage of the Cyber Kill Chain include passive information gathering (e.g., public records, social media), active scanning (e.g., port scanning, network mapping), and social engineering (e.g., phishing, pretexting).

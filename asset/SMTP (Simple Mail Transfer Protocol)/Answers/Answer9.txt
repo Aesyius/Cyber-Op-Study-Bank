@@ -1,0 +1,1 @@
+SMTP relaying refers to the process of forwarding email messages from one SMTP server to another. While SMTP relaying is essential for routing emails across different domains, it can pose security risks if not properly configured, leading to spamming or unauthorized email transmission.

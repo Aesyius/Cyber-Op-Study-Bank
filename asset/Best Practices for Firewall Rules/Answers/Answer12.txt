@@ -1,0 +1,1 @@
+Common mistakes to avoid when configuring firewall rules include creating overly broad rules, neglecting to document changes, and failing to review rules regularly. Avoiding these mistakes helps maintain effective security.

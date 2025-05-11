@@ -1,0 +1,1 @@
+The main types of firewalls are packet-filtering firewalls, stateful inspection firewalls, proxy firewalls, next- generation firewalls (NGFWs), and application-layer firewalls. Each type offers different levels of security and functionality.

@@ -1,0 +1,1 @@
+Wireshark profiles and configurations allow users to customize settings, display filters, and preferences for different analysis scenarios. Profiles can be tailored for network troubleshooting, security analysis, performance monitoring, etc.

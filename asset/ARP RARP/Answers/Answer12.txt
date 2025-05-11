@@ -1,0 +1,1 @@
+The RARP process involves a RARP server responding to RARP requests from diskless workstations by mapping MAC addresses to IP addresses based on preconfigured mappings in the RARP server's database.

@@ -1,0 +1,1 @@
+Security audits on a domain controller can be performed by reviewing security logs for authentication attempts, changes to user accounts, and modifications to Group Policy. Tools such as Security Information and Event Management (SIEM) systems can assist in monitoring and analyzing these logs for unusual activity.

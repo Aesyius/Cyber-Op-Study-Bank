@@ -1,0 +1,1 @@
+The GROUP BY clause is used in SQL to arrange identical data into groups. It often accompanies aggregate functions (like COUNT, SUM, AVG) to summarize data. For example: SELECT department, COUNT(*) FROM employees GROUP BY department; counts employees in each department.

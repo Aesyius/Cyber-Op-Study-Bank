@@ -1,0 +1,1 @@
+ACLs differ from traditional firewall rules in that ACLs are typically used to control access to network devices and resources based on various criteria such as IP addresses and protocols. Firewalls often use ACLs as part of their rule sets but also include additional features like stateful inspection and deep packet inspection.

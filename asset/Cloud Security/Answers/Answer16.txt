@@ -1,0 +1,1 @@
+Monitoring and logging are essential for maintaining cloud security because they provide visibility into cloud activity, detect anomalies, and generate audit trails. Regularly reviewing logs helps identify potential security incidents and ensures compliance with security policies.

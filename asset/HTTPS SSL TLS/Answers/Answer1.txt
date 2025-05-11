@@ -1,0 +1,1 @@
+HTTPS stands for Hypertext Transfer Protocol Secure. Its primary purpose is to provide a secure and encrypted communication protocol over the internet, ensuring confidentiality, integrity, and authenticity of data exchanged between clients and servers.

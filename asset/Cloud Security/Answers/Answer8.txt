@@ -1,0 +1,1 @@
+Multi-factor authentication (MFA) is a security mechanism that requires users to provide two or more verification factors to access a system or service. In cloud security, MFA adds an extra layer of protection by ensuring that even if a password is compromised, additional verification is needed for access.

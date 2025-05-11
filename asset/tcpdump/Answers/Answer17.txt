@@ -1,0 +1,1 @@
+tcpdump handles protocol decoding by examining packet headers and payload data, reconstructing TCP sessions for sequence analysis, and providing insights into network protocols, communication patterns, and session-level details.

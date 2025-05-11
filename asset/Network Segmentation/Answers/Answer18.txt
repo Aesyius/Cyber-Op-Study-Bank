@@ -1,0 +1,1 @@
+In a multi-tenant environment, segmentation ensures that each tenant’s data and systems are isolated from others. This prevents cross-tenant access and potential security breaches.

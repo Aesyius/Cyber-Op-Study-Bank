@@ -1,0 +1,1 @@
+‘Adversary emulation’ within the MITRE ATT&CK framework involves simulating the tactics, techniques, and procedures used by real-world adversaries. This helps organizations test their defenses and response capabilities against realistic threat scenarios.

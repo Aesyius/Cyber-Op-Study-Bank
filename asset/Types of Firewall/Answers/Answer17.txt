@@ -1,0 +1,1 @@
+Firewalls integrate with intrusion detection/prevention systems (IDS/IPS) by using IDS/IPS to monitor and analyze traffic for malicious activities. When a threat is detected, the firewall can block the malicious traffic based on IDS/IPS alerts.

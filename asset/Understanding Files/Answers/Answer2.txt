@@ -1,0 +1,1 @@
+Magic numbers help identify file types by providing a unique identifier at the beginning of the file. They are crucial in detecting if a file extension has been altered to disguise its true nature, such as when an executable is disguised as a harmless document.

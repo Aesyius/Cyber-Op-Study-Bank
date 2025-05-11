@@ -1,0 +1,1 @@
+Reconnaissance is the initial stage of the Cyber Kill Chain where attackers gather information about their target, such as network topology, system configurations, employee roles, and potential vulnerabilities. This stage is crucial for attackers to plan and execute targeted attacks effectively.

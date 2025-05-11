@@ -1,0 +1,1 @@
+How can a DMZ be used to isolate and protect critical assets?

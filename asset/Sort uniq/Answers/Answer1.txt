@@ -1,0 +1,1 @@
+The "sort" command in Linux is used to sort the lines of text files or input provided through standard input (stdin). Its primary purpose is to arrange text data in ascending or descending order based on specified criteria.

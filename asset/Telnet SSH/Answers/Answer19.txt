@@ -1,0 +1,1 @@
+SSH handles remote command execution using the SSH shell (interactive session) or SSH command-line tools (non-interactive session). For file transfers, SSH supports protocols such as SCP (Secure Copy) and SFTP (SSH File Transfer Protocol) for secure file transfer operations.

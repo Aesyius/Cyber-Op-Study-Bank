@@ -1,0 +1,1 @@
+Mail servers handle large attachments by limiting the maximum size of an email. If an email exceeds the limit, it is either rejected or split into smaller parts. Compression tools can also be used to reduce attachment size.

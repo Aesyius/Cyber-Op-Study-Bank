@@ -1,0 +1,1 @@
+What is the purpose of the DELETE statement in SQL?

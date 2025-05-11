@@ -1,0 +1,1 @@
+Wireshark allows users to export and save captured packets in various formats, such as PCAP (Packet Capture), CSV (Comma-Separated Values), TXT (plain text), or PDML (Packet Details Markup Language). Exported captures can be shared, archived, or further analyzed using other tools.

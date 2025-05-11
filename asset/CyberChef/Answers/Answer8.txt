@@ -1,0 +1,1 @@
+CyberChef handles cryptographic operations such as AES (Advanced Encryption Standard) encryption and decryption through dedicated operations that allow users to specify keys, modes, and input data for encryption or decryption tasks.

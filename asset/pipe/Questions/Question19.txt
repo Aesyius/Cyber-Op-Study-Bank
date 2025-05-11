@@ -1,0 +1,1 @@
+Explain the role of environment variables in command-line pipes.

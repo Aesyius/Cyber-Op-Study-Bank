@@ -1,0 +1,1 @@
+Variations or extensions of the ROT13 cipher include: ●ROT47: A variant of ROT13 that includes more characters, including numbers and special symbols, increasing the shift amount to 47 positions. ●ROT18: A combination of ROT13 and ROT5 (shifting digits by 5 positions), primarily used for alphanumeric text encryption.

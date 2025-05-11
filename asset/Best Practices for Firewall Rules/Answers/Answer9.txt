@@ -1,0 +1,1 @@
+Logging and monitoring optimize firewall rules by providing visibility into network traffic and rule effectiveness. Analyzing logs helps identify and adjust rules to improve security.

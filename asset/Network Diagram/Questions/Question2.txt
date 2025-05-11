@@ -1,0 +1,1 @@
+Describe the different types of network diagrams commonly used in IT environments.

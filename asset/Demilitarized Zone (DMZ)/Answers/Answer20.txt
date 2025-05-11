@@ -1,0 +1,1 @@
+The concept of a DMZ evolves with modern network architectures, such as zero trust, by emphasizing strict access controls and continuous monitoring. In a zero trust model, even DMZ components are treated as untrusted and require verification for access.

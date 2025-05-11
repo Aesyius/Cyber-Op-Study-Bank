@@ -1,0 +1,1 @@
+A reverse proxy server acts as an intermediary for requests from clients seeking resources from another server. It can distribute load, improve security by hiding the backend server, and cache responses for better performance.

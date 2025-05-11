@@ -1,0 +1,1 @@
+Defense in depth is a strategy that uses multiple layers of security controls throughout the network. If one control fails, others still provide protection, creating a more robust security posture.

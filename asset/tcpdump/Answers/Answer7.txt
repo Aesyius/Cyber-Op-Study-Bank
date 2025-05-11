@@ -1,0 +1,1 @@
+To specify network interfaces and capture filters in tcpdump for targeted packet capture, you can use options like -i for interfaces and various filter expressions to capture specific types of traffic.

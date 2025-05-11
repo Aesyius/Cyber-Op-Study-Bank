@@ -1,0 +1,1 @@
+Explain encapsulation and de-encapsulation in Networking?

@@ -1,0 +1,1 @@
+"awk" can be combined with other commands such as "grep," "sed," and "sort" using pipes ("|") for complex text processing workflows. For example, combining "awk" with "grep" to filter specific lines and then using "awk" to extract fields from the filtered output.

@@ -1,0 +1,1 @@
+The Caesar Cipher has historical significance as one of the earliest encryption techniques. Its use by Julius Caesar for military communications adds to its cultural relevance in cryptography.

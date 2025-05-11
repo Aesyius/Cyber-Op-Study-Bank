@@ -1,0 +1,1 @@
+The command and control (C2) stage in the Cyber Kill Chain involves setting up communication channels between the attacker's infrastructure and the compromised systems. This allows attackers to remotely control compromised systems, exfiltrate data, and issue commands.

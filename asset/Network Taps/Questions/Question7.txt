@@ -1,0 +1,1 @@
+What types of traffic can be captured by a network tap?

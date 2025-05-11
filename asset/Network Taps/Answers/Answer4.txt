@@ -1,0 +1,1 @@
+Unlike a network switch, which directs traffic between devices and can create multiple collision domains, a network tap passively captures all traffic between two points without altering it. This allows for complete visibility into the data flow.

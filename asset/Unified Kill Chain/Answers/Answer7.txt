@@ -1,0 +1,1 @@
+Understanding the ‘In’ phase is crucial for defending against cyber threats because it helps identify potential entry points and methods used by attackers to gain initial access. By focusing on this phase, organizations can implement stronger defenses and detection mechanisms to prevent successful breaches.

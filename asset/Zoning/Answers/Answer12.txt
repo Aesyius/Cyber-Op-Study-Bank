@@ -1,0 +1,1 @@
+Challenges associated with zoning in large-scale networks include: ●Complexity in managing and maintaining zoning configurations across multiple devices and zones. ●Ensuring consistency and compliance with access control policies and security requirements. ●Addressing potential performance bottlenecks or connectivity issues caused by misconfigured or overlapping zones.

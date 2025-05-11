@@ -1,0 +1,1 @@
+The actions on objectives stage of the Cyber Kill Chain represents the ultimate goals of the attacker, which could vary depending on the nature of the attack and the attacker's motivations. Common objectives include data exfiltration, system disruption, financial gain, espionage, or sabotage.

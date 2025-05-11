@@ -1,0 +1,1 @@
+Checksums in UDP packets provide a simple error detection mechanism. The checksum field contains a checksum value calculated over the UDP header and data to detect transmission errors.

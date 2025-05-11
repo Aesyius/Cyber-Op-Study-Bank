@@ -1,0 +1,1 @@
+Describe the role of threat intelligence in a SIEM system.

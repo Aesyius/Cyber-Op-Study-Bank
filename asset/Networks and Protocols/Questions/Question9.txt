@@ -1,0 +1,1 @@
+What is the purpose of the Application Layer in the OSI model, and which application-level protocols operate here?

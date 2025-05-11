@@ -1,0 +1,1 @@
+Network diagrams support network security assessments and audits by providing a visual representation of the network infrastructure, security controls, access policies, and communication paths. Auditors can review diagrams to assess compliance with security standards, identify vulnerabilities, and recommend improvements.

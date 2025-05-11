@@ -1,0 +1,1 @@
+The HAVING clause is used to filter groups of records created by the GROUP BY clause based on aggregate conditions. For example: SELECT department, COUNT(*) FROM employees GROUP BY department HAVING COUNT(*) > 10; returns departments with more than 10 employees.

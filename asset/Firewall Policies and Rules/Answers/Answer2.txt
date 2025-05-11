@@ -1,0 +1,1 @@
+Creating a firewall policy involves identifying the security requirements, defining the traffic flow, and establishing rules that allow or deny traffic based on these requirements. The process includes assessing risks, consulting stakeholders, and testing the policy.

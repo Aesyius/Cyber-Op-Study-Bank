@@ -1,0 +1,1 @@
+Kerberos protects against replay attacks by using time stamps in its messages. The client and the KDC must have synchronized clocks, and tickets are only valid for a short window of time.

@@ -1,0 +1,1 @@
+Regular expressions (regex) can be used with "sed" for more complex text manipulations such as pattern matching, capturing groups, and conditional replacements. This enhances the flexibility and power of "sed" for text processing tasks.

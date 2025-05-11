@@ -1,0 +1,1 @@
+ACLs can be used in conjunction with other security mechanisms, such as firewalls or VPNs, to provide layered security. For example, ACLs can restrict traffic at the network layer, while firewalls provide additional filtering and VPNs secure communication.

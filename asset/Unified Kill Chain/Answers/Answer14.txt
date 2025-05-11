@@ -1,0 +1,1 @@
+Within the Unified Kill Chain model, ‘detection’ involves identifying indicators and signs of malicious activity across all phases of the attack. Effective detection mechanisms include monitoring network traffic, system logs, and behavioral anomalies to identify and respond to threats.

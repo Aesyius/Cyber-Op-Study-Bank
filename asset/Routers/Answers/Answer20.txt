@@ -1,0 +1,1 @@
+Routers contribute to network diagnostics and troubleshooting by providing tools like ping and traceroute, which rely on ICMP messages to test connectivity and identify routing issues. They help network administrators isolate problems in both LAN and WAN environments.

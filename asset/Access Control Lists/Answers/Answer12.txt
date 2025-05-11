@@ -1,0 +1,1 @@
+ACLs filter traffic based on IP addresses and protocols by specifying criteria such as source and destination IP addresses, protocol types (e.g., TCP, UDP), and port numbers. This allows for precise control over which types of traffic are allowed or denied.

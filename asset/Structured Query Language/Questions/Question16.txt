@@ -1,0 +1,1 @@
+What is a foreign key, and how does it relate to referential integrity?

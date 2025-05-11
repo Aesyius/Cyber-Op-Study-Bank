@@ -1,0 +1,1 @@
+Explain how TShark handles encrypted traffic and packet decryption for analysis.

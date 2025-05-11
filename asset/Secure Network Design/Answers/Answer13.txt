@@ -1,0 +1,1 @@
+Intrusion detection and prevention systems (IDS/IPS) monitor network traffic for suspicious activities and block or alert on potential threats. They are essential for detecting and responding to attacks.

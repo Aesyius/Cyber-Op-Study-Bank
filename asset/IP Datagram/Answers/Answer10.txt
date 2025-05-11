@@ -1,0 +1,1 @@
+The IPv4 options field allows for special cases such as timestamping, source routing, and record route. These options are rarely used in typical IP datagrams and are mainly reserved for specific network configurations.

@@ -1,0 +1,1 @@
+Searching for exact matches with "grep" means finding lines that contain the exact characters or string specified in the pattern. Using regular expressions allows for more complex pattern matching, including wildcard characters, character classes, quantifiers, and anchors.

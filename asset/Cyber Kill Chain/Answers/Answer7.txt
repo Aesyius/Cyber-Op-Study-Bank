@@ -1,0 +1,1 @@
+Attackers typically weaponize their attacks by embedding malicious code in documents, emails, or websites, exploiting known vulnerabilities in software or protocols, or leveraging zero-day exploits for which no patch is available.

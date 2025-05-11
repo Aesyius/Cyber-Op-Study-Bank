@@ -1,0 +1,1 @@
+Default deny policies block all traffic unless explicitly allowed by a rule, providing maximum security. Default allow policies permit all traffic unless explicitly denied, which can be less secure.

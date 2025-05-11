@@ -1,0 +1,1 @@
+FTP response codes are three-digit numeric codes sent by FTP servers to indicate the status or result of commands. Common FTP response codes and their meanings include: ●200: Command successful. ●500: Syntax error, command not recognized. ●550: Requested action not taken, file not found or permission denied.

@@ -1,0 +1,1 @@
+DNS zones are distinct portions of the DNS namespace managed by specific DNS servers. Each zone contains records related to domains, subdomains, and addresses and allows decentralized control of DNS data.

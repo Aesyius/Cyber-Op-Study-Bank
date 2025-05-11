@@ -1,0 +1,1 @@
+What are HTTP cookies, and how are they used for session management?

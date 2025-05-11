@@ -1,0 +1,1 @@
+The "tee" command is used in conjunction with pipes to redirect output to both a file and another command simultaneously. For example: command1 | tee output.txt | command2

@@ -1,0 +1,1 @@
+SIEM systems support compliance requirements by collecting and storing logs according to regulatory standards, providing reporting and auditing capabilities, and implementing security controls to meet specific regulatory requirements.

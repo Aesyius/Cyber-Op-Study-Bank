@@ -1,0 +1,1 @@
+NAT impacts end-to-end connectivity by introducing an intermediary (the NAT device) between communicating hosts. While NAT can improve security and address conservation, it may pose challenges for applications or services that rely on direct peer-to-peer communication or require visibility of original IP addresses.

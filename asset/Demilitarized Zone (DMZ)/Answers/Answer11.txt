@@ -1,0 +1,1 @@
+A DMZ can be used to isolate and protect critical assets by placing them in a separate segment that is exposed to external traffic while keeping them isolated from the internal network. This minimizes the risk of an attacker reaching sensitive internal systems.

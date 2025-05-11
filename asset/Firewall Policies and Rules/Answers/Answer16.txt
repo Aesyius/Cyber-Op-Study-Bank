@@ -1,0 +1,1 @@
+Network Address Translation (NAT) in firewall policies translates private IP addresses to public IP addresses and vice versa. It helps conserve IP addresses and provides an additional layer of security.

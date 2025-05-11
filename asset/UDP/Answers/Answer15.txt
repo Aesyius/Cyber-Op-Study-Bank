@@ -1,0 +1,1 @@
+UDP does not ensure message integrity or reliability. It relies on higher-layer protocols or applications to handle any error detection, retransmissions, or message integrity checks if required.

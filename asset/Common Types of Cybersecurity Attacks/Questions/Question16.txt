@@ -1,0 +1,1 @@
+Describe the characteristics and risks associated with cryptojacking attacks.

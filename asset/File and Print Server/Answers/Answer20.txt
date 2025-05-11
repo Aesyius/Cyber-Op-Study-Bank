@@ -1,0 +1,1 @@
+A file server ensures high availability and redundancy through techniques such as clustering, RAID configurations, and load balancing. Redundancy ensures that if one server fails, another can take over without disruption.

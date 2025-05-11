@@ -1,0 +1,1 @@
+The Transport Layer in the OSI model is responsible for end-to-end communication and error recovery. Protocols such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) operate at this layer.

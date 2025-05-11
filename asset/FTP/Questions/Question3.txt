@@ -1,0 +1,1 @@
+Explain the two modes of FTP operation: active mode and passive mode.

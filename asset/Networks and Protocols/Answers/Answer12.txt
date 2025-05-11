@@ -1,0 +1,1 @@
+An example of a device that operates primarily at the Physical Layer of the OSI model is a network cable (e.g., Ethernet cable) used to transmit electrical signals representing data bits.

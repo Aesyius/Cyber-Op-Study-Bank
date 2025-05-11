@@ -1,0 +1,1 @@
+Log management focuses on the collection, storage, and analysis of log data for troubleshooting and compliance purposes. In contrast, SIEM extends this functionality by providing advanced capabilities such as real-time monitoring, event correlation, and security incident response.

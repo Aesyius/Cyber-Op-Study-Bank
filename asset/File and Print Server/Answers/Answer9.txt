@@ -1,0 +1,1 @@
+A print server queues print jobs from multiple clients, prioritizes them, and sends them to the designated printers. It manages the distribution of print jobs and ensures that each print job is processed in the correct order without conflicts.

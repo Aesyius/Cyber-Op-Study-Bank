@@ -1,0 +1,1 @@
+What types of services are commonly hosted in a DMZ?

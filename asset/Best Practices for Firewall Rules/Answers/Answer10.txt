@@ -1,0 +1,1 @@
+Audit trails in firewall rule management record changes and access to firewall configurations. They provide accountability and help in investigating security incidents.

@@ -1,0 +1,1 @@
+Describe the symbols and icons used to represent devices, servers, routers, switches, etc., in network diagrams.

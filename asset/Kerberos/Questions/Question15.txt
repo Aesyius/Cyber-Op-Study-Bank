@@ -1,0 +1,1 @@
+What is pre-authentication in Kerberos, and how does it enhance security?

@@ -1,0 +1,1 @@
+Managed switches provide advanced features such as VLAN support, traffic monitoring, and configuration options, while unmanaged switches offer basic connectivity without configuration. Managed switches give administrators more control over network performance and security.

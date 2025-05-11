@@ -1,0 +1,1 @@
+Explain the difference between tactics and techniques in the MITRE ATT&CK framework.

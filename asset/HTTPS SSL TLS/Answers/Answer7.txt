@@ -1,0 +1,1 @@
+The key components of an HTTPS URL include: ●Protocol: HTTPS indicates a secure connection using SSL/TLS encryption. ●Domain Name: The address of the website or server (e.g., www.example.com). ●Port: Typically port 443 for HTTPS connections. ●Path: The specific resource or page requested on the server.

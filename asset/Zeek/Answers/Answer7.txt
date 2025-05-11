@@ -1,0 +1,1 @@
+Zeek supports a wide range of protocols and technologies for analysis, including: ●Ethernet, IP, TCP, UDP, ICMP, DNS, HTTP, HTTPS, FTP, SMTP, SNMP, SSH, TLS/SSL, DHCP, SIP, and more. ●File extraction and analysis for detecting malware, suspicious files, and data exfiltration. ●Encrypted traffic analysis with support for SSL/TLS decryption and visibility into encrypted payloads.

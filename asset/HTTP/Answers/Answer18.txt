@@ -1,0 +1,1 @@
+Proxies in HTTP communication act as intermediaries between clients and servers, forwarding requests, and responses. They can provide caching, filtering, load balancing, security, and anonymity services.

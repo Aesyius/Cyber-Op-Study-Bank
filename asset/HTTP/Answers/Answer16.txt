@@ -1,0 +1,1 @@
+Common security vulnerabilities in HTTP-based applications include: ●Cross-Site Scripting (XSS) ●Cross-Site Request Forgery (CSRF) ●SQL Injection ●Clickjacking ●Man-in-the-Middle (MITM) attacks ●Insecure Direct Object References (IDOR) ●Session hijacking or fixation

@@ -1,0 +1,1 @@
+Setting up Zeek to monitor network traffic on different interfaces involves configuring Zeek nodes with the appropriate network interfaces, specifying capture filters or sensors, defining analysis policies and scripts, and monitoring the generated logs and alerts.

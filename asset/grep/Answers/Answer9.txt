@@ -1,0 +1,1 @@
+The "-l" option in "grep" lists filenames that contain the matched pattern instead of displaying the actual matched lines.

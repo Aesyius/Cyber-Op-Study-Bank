@@ -1,0 +1,1 @@
+Network diagrams aid in troubleshooting network issues by providing a visual map of the network, helping identify connectivity problems, faulty devices, bottlenecks, or misconfigurations. They also assist in planning upgrades by visualizing the existing infrastructure and potential changes.

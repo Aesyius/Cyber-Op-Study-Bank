@@ -1,0 +1,1 @@
+Examples of actions attackers might take during the Actions on Objectives stage include data theft, destroying or encrypting data, installing additional malware, or using compromised systems to launch further attacks.

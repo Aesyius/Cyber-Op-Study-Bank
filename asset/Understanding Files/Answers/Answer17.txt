@@ -1,0 +1,1 @@
+Network monitoring in a virtual environment helps you observe any external communication attempts made by the malicious file, such as contacting command and control servers, which can provide crucial information about its purpose and behavior.

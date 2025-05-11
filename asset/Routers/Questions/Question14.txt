@@ -1,0 +1,1 @@
+How does a router’s DHCP service operate in a LAN, and what challenges might arise in a WAN?

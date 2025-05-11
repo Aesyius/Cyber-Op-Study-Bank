@@ -1,0 +1,1 @@
+Protocols commonly associated with the Network Access Layer of the TCP/IP model include Ethernet for wired networks, Wi-Fi (IEEE 802.11) for wireless networks, MAC addresses for hardware addressing, and network interface cards (NICs) for physical connectivity.

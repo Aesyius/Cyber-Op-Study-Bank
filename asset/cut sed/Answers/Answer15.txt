@@ -1,0 +1,1 @@
+"sed" can be used with patterns (regular expressions) to match and manipulate text based on specific criteria. It can also operate on specific lines or ranges of lines using line addresses.

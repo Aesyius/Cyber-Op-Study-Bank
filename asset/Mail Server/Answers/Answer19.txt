@@ -1,0 +1,1 @@
+SPF (Sender Policy Framework), DKIM (DomainKeys Identified Mail), and DMARC (Domain-based Message Authentication, Reporting, and Conformance) are email authentication methods that protect against spoofing and phishing by verifying email origin and content integrity.

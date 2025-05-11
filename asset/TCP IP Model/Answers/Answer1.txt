@@ -1,0 +1,1 @@
+TCP/IP stands for Transmission Control Protocol/Internet Protocol. It is a suite of communication protocols used for network communication and forms the basis of the Internet. TCP/IP differs from the OSI model in several ways, including the number of layers (TCP/IP has 4 layers while OSI has 7 layers), the naming of layers, and the overall structure of the model.

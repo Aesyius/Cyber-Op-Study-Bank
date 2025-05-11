@@ -1,0 +1,1 @@
+To troubleshoot a print server that is not processing jobs, you would check the print queue for errors, verify network connectivity, restart the print spooler service, ensure that the correct drivers are installed, and verify that the printer is online.

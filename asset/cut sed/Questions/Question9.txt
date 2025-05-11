@@ -1,0 +1,1 @@
+Explain how to use the "cut" command in combination with pipes and other commands for text processing.

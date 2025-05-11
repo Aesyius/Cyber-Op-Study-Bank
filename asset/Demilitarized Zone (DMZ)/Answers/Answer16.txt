@@ -1,0 +1,1 @@
+A DMZ can be implemented in a cloud environment by using virtual network segmentation and cloud-based firewalls. This ensures that public-facing services are isolated from internal cloud resources.

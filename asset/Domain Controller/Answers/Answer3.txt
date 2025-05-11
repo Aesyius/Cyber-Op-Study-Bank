@@ -1,0 +1,1 @@
+Key services provided by a domain controller include user account management, security policy enforcement, authentication services, and directory services via Active Directory. It acts as the central repository for user accounts and related security information.

@@ -1,0 +1,1 @@
+Capture filters in Wireshark are used to specify which packets to capture based on criteria such as source/destination IP addresses, protocols, port numbers, etc. Display filters, on the other hand, are used to filter and display captured packets in real-time or from saved capture files based on specific criteria.

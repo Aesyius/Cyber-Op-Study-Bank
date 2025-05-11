@@ -1,0 +1,1 @@
+Describe the DHCP client-server model and how it facilitates IP address assignment.

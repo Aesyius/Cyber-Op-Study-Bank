@@ -1,0 +1,1 @@
+Common network security threats considered during the design phase include malware, phishing, DDoS attacks, insider threats, and zero-day vulnerabilities. Addressing these threats requires comprehensive planning and controls.

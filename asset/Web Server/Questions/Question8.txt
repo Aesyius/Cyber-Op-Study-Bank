@@ -1,0 +1,1 @@
+What is a virtual host, and how does it work on a web server?

@@ -1,0 +1,1 @@
+FTP handles file permissions and access control based on the server's file system permissions. Users are granted specific permissions (read, write, execute) based on their FTP account settings and server configurations.

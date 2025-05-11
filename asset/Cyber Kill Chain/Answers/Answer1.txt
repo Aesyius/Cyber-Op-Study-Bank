@@ -1,0 +1,1 @@
+The primary purpose of the Cyber Kill Chain model is to provide a structured framework for understanding and defending against cyber attacks. It helps organizations identify and mitigate threats at each stage of an attack.

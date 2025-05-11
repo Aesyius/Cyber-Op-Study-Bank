@@ -1,0 +1,1 @@
+Explain the difference between a DNS resolver and a DNS server.

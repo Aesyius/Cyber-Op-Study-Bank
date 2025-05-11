@@ -1,0 +1,1 @@
+The principle of least privilege involves granting only the minimum access necessary for users or systems to perform their functions. In firewall rules, this means creating specific rules that allow only the required traffic.

@@ -1,0 +1,1 @@
+The primary function of a mail server is to send, receive, store, and manage email for users on a network. It ensures that emails are transmitted across networks and delivered to the intended recipients.

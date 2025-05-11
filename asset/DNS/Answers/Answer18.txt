@@ -1,0 +1,1 @@
+DNS handles IPv6 addresses using AAAA records, which map domain names to IPv6 addresses. DNS servers support both IPv4 and IPv6 addressing for DNS resolution.

@@ -1,0 +1,1 @@
+File permissions on a file server are managed through access control lists (ACLs), which specify the level of access users and groups have over files and folders. These permissions can be set to allow or deny actions like reading, writing, or modifying files.

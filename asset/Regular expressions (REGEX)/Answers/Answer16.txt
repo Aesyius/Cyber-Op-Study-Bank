@@ -1,0 +1,1 @@
+Regex can be used for data validation and input sanitization in web applications by defining patterns that validate input formats (e.g., email addresses, phone numbers) or sanitize input by removing or replacing unwanted characters.

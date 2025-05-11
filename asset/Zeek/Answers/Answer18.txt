@@ -1,0 +1,1 @@
+Zeek contributes to incident response and forensics investigations by providing detailed network traffic analysis, packet-level visibility, session reconstruction, and logging of security events. It aids in identifying the root cause of security incidents, analyzing attack vectors, and conducting post-incident analysis.

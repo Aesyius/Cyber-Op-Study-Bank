@@ -1,0 +1,1 @@
+How does NAT impact network security and address space conservation?

@@ -1,0 +1,1 @@
+‘Sub-techniques’ are more detailed variations of a main technique, providing specific ways that a technique can be implemented. They help to refine the understanding of how a technique can be used in different contexts or scenarios.

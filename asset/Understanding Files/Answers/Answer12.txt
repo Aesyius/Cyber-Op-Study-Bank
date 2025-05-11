@@ -1,0 +1,1 @@
+Understanding the type of malicious file helps determine the mitigation strategy. For example, worms require network isolation to prevent spreading, while trojans may require identifying and removing the disguised malicious software.

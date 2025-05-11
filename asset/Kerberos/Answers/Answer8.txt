@@ -1,0 +1,1 @@
+The client in the Kerberos process requests authentication from the Key Distribution Center (KDC), presents its Ticket Granting Ticket (TGT) to the Ticket Granting Service (TGS), and uses the service ticket to authenticate with the desired service.

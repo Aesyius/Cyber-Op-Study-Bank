@@ -1,0 +1,1 @@
+Dashboards and reporting tools in a SIEM system enhance its functionality by providing visual representations of data, generating reports for analysis and compliance, and allowing users to create custom queries to focus on specific areas.

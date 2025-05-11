@@ -1,0 +1,1 @@
+The default gateway in a LAN is the router that connects the local network to external networks, including the internet. In WANs, the default gateway may point to another router that facilitates connections to multiple LANs or external networks.

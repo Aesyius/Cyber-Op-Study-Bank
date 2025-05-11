@@ -1,0 +1,1 @@
+Encapsulation is the process of adding headers or trailers to data as it moves down the OSI layers. Each layer adds its information, encapsulating the data, and at the receiving end, each layer removes its header or trailer in a process called decapsulation.

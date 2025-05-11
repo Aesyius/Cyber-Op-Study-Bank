@@ -1,0 +1,1 @@
+What is the role of a Cloud Access Security Broker (CASB) in cloud security?

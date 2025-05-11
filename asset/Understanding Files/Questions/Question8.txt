@@ -1,0 +1,1 @@
+In which scenarios would fuzzy hashing be more useful than a traditional cryptographic hash like SHA- 256?

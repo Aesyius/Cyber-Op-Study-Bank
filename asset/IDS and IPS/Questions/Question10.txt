@@ -1,0 +1,1 @@
+Describe the main features and capabilities of an IPS, including packet filtering and blocking.

@@ -1,0 +1,1 @@
+How does an ACL differ from traditional firewall rules?

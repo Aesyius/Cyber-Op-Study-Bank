@@ -1,0 +1,1 @@
+The SOA (Start of Authority) record is the first record in a DNS zone file and provides information about the zone, such as the primary name server and email of the administrator. It also includes the zone's version number, which helps manage updates.

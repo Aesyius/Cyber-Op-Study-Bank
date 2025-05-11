@@ -1,0 +1,1 @@
+Caching in HTTP allows browsers and proxy servers to store and reuse previously fetched resources, reducing the need for repeated requests and improving web page load times. It includes mechanisms like Expires headers, Cache-Control directives, and ETags.

@@ -1,0 +1,1 @@
+What is a digital certificate, and how is it used in HTTPS?

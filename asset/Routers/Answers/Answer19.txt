@@ -1,0 +1,1 @@
+Routers in WANs face challenges such as higher latency, varying bandwidth, and potential points of failure due to the complexity of long-distance connections, compared to the more straightforward, lower-latency environment of LANs.

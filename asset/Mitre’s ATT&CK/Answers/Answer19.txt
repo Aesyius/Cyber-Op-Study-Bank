@@ -1,0 +1,1 @@
+MITRE ATT&CK handles updates and changes by continuously reviewing and incorporating new information on adversary tactics, techniques, and procedures. This ensures the framework remains current and relevant as new threats and attack methods emerge.

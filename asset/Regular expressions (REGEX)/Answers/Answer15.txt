@@ -1,0 +1,1 @@
+Advanced regex techniques include non-capturing groups "(?:)", possessive quantifiers "++", atomic groups "(?>)", conditional patterns "(?(condition)yes|no)", and recursive patterns. These techniques provide additional flexibility and control in pattern matching.

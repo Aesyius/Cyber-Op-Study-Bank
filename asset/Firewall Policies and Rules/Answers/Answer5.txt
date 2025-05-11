@@ -1,0 +1,1 @@
+Allow rules permit specified traffic to pass through the firewall, while deny rules block specified traffic. Both types of rules are used to control access to network resources and services.

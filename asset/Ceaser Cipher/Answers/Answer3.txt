@@ -1,0 +1,1 @@
+The key or parameter in the Caesar Cipher is the number of positions each letter is shifted. It can be any integer from 1 to 25. If the key is known, decryption is straightforward; however, without the key, decryption becomes a brute-force guessing game.

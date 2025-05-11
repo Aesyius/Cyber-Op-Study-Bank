@@ -1,0 +1,1 @@
+UDP is preferred over TCP in scenarios where speed, low latency, and reduced overhead are more important than guaranteed delivery or reliability. Real-time applications, live streaming, VoIP, online gaming, and multicast applications often use UDP.

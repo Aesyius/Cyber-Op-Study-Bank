@@ -1,0 +1,1 @@
+A Unified Threat Management (UTM) device integrates multiple security functions, including firewall capabilities, antivirus, intrusion detection, and content filtering, into a single device. It simplifies security management and provides comprehensive protection.

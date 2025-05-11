@@ -1,0 +1,1 @@
+Explain the role of the "sed" command in shell scripting and batch processing tasks.

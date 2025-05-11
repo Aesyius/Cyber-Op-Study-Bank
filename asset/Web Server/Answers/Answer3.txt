@@ -1,0 +1,1 @@
+When a web server receives an incoming HTTP request, it processes the request by checking the requested resource, retrieving it from storage, and sending back an appropriate HTTP response. This response includes the requested content (like an HTML page) along with an HTTP status code indicating success or failure.

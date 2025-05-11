@@ -1,0 +1,1 @@
+A risk-based approach to firewall rule management prioritizes rules based on the level of risk they mitigate. This ensures that the most critical security needs are addressed first.

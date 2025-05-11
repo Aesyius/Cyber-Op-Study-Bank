@@ -1,0 +1,1 @@
+In "awk" commands, patterns are conditions that determine which lines of input to process, while actions are the commands or operations to perform on matched lines. Patterns and actions are enclosed in single quotes ('') and separated by curly braces ({ }).

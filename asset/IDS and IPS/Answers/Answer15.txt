@@ -1,0 +1,1 @@
+Advanced features in modern IPS solutions include SSL inspection (decrypting and inspecting SSL/TLS-encrypted traffic for threats), application-layer protection (detecting and blocking application-level attacks), and integration with threat intelligence feeds for real-time threat detection and response.

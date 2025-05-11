@@ -1,0 +1,1 @@
+IDS can be deployed in different modes, such as inline mode (actively intercepting and analyzing traffic, capable of blocking threats in real-time) and passive mode (monitoring traffic without disrupting network flow, primarily for detection and alerting purposes).

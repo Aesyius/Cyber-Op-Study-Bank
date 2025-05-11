@@ -1,0 +1,1 @@
+A recursive DNS query occurs when a DNS resolver queries other DNS servers on behalf of a client. It will ask multiple DNS servers, starting from the root, until it finds the authoritative DNS server that holds the requested domain’s information.

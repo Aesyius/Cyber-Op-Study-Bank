@@ -1,0 +1,1 @@
+A digital certificate is a cryptographic document issued by a trusted Certificate Authority (CA) that verifies the identity of a website or server. In HTTPS, digital certificates are used to authenticate the server to the client, ensuring that the connection is secure and trustworthy.

@@ -1,0 +1,1 @@
+The key components of a firewall rule include the source and destination IP addresses, source and destination ports, protocol (e.g., TCP, UDP), and the action (allow or deny). These elements define how the rule applies to network traffic.

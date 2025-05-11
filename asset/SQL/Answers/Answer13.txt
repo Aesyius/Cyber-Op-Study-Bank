@@ -1,0 +1,1 @@
+SQL constraints are rules defined on columns or tables to enforce data integrity and consistency. Examples include NOT NULL (ensures a column cannot have NULL values), UNIQUE (ensures values in a column are unique), PRIMARY KEY (unique identifier for rows), FOREIGN KEY (establishes relationships between tables), and CHECK (enforces specified conditions).

@@ -1,0 +1,1 @@
+Describe a situation where a simple hash comparison could fail to detect malicious activity, and what additional steps you would take.

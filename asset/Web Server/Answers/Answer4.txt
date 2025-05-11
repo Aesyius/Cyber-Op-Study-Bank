@@ -1,0 +1,1 @@
+HTTP (Hypertext Transfer Protocol) is the protocol used for transferring data over the web, while HTTPS (HTTP Secure) includes an additional layer of security using SSL/TLS encryption. HTTPS is important for protecting sensitive information, such as login credentials and payment data, during transmission.

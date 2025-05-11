@@ -1,0 +1,1 @@
+Describe how to use the "-r" option in "grep" to search recursively through directories.

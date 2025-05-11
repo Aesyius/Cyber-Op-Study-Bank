@@ -1,0 +1,1 @@
+Network protocols such as TCP (Transmission Control Protocol), UDP (User Datagram Protocol), IP (Internet Protocol), and ICMP (Internet Control Message Protocol) fit into the TCP/IP model layers as follows: ●TCP and UDP are transport layer protocols. ●IP is an internet layer protocol. ●ICMP is used for network diagnostics and error reporting, operating at the internet layer.

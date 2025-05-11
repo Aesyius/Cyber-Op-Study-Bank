@@ -1,0 +1,1 @@
+The objective of the Actions on Objectives stage is to achieve the attacker’s goals, such as data exfiltration, destruction, or further penetration into the network. This stage can vary widely depending on the attacker’s intent.

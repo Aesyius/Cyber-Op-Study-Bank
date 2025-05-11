@@ -1,0 +1,1 @@
+An ICMP packet consists of a type field (indicating the message type), code field (providing additional information), checksum field (for error-checking), and data field (containing the actual message or part of the original packet). The structure helps ICMP send different types of messages, such as error reports or status updates.

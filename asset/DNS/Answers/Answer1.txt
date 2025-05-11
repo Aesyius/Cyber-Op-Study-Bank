@@ -1,0 +1,1 @@
+DNS stands for Domain Name System. Its primary purpose in computer networking is to translate domain names (e.g., example.com) into IP addresses (e.g., 192.0.2.1) that computers can understand and use to communicate over the internet.

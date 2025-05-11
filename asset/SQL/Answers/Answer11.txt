@@ -1,0 +1,1 @@
+The JOIN operation in SQL combines rows from two or more tables based on a related column between them. Common types of joins include INNER JOIN (returns rows that have matching values in both tables), LEFT JOIN (returns all rows from the left table and matching rows from the right table), and so on.

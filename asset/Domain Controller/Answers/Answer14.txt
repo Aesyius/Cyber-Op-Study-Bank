@@ -1,0 +1,1 @@
+In a Windows Server environment, a domain controller plays a crucial role by managing network security, authenticating users, and providing directory services. It is central to the administration of Windows domains and enforcing security policies.

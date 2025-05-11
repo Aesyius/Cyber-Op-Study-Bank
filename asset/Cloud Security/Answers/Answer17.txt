@@ -1,0 +1,1 @@
+Cloud providers address insider threats by implementing strict access controls, monitoring user activity, and enforcing policies such as least privilege. Additionally, they use tools like User Behavior Analytics (UBA) to detect suspicious behavior that may indicate insider threats.

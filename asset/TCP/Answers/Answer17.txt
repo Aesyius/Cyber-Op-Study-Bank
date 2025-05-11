@@ -1,0 +1,1 @@
+The URG flag in TCP is used to indicate urgent data in a TCP segment, requiring immediate attention and separate handling by the receiving application.

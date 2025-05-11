@@ -1,0 +1,1 @@
+Explain the difference between GET and POST HTTP methods.

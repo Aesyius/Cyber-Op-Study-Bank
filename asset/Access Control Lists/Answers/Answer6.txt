@@ -1,0 +1,1 @@
+An ACL in network access control specifies rules for allowing or denying traffic based on criteria such as IP addresses, protocols, and port numbers. It is applied to network interfaces on routers and switches to control the flow of traffic between different network segments.

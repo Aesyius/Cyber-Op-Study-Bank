@@ -1,0 +1,1 @@
+Testing and debugging regex patterns involve using online regex testing tools, built-in regex debuggers in IDEs, or writing test cases with sample input text to verify pattern matching behavior.

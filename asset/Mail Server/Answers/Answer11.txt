@@ -1,0 +1,1 @@
+To block spam, a mail server can implement technologies like SPF, DKIM, and DMARC, along with spam filtering tools that analyze incoming emails for spam characteristics and block or quarantine suspicious messages.

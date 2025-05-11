@@ -1,0 +1,1 @@
+Security policies shape firewall rules by defining the overall security objectives and requirements. Firewall rules implement these policies to enforce access controls and protect resources.

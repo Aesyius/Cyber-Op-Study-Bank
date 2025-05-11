@@ -1,0 +1,1 @@
+Explain how a network tap can be used to capture both inbound and outbound traffic simultaneously.

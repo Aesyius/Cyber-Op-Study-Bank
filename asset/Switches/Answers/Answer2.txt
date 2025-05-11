@@ -1,0 +1,1 @@
+A Layer 2 switch operates at the Data Link layer and uses MAC addresses to forward frames. In contrast, a Layer 3 switch operates at the Network layer and can route traffic between different networks using IP addresses.

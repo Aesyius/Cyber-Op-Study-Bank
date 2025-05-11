@@ -1,0 +1,1 @@
+Anchors like "^" and "$" are used in regex to match the start and end of a line or string, respectively. "^" asserts the start of a line or string, while "$" asserts the end.

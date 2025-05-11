@@ -1,0 +1,1 @@
+Creating and configuring an ACL involves defining the criteria for matching traffic, specifying the actions to be taken, and applying the ACL to the appropriate network interface. This is done using the device's configuration commands and interface settings.

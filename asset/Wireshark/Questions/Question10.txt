@@ -1,0 +1,1 @@
+Explain the role of packet dissection and protocol decoding in Wireshark.

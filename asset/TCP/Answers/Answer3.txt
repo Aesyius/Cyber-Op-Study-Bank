@@ -1,0 +1,1 @@
+TCP ensures reliable data delivery through mechanisms such as acknowledgment of received packets, retransmission of lost packets, sequencing of packets for correct order delivery, and flow control to manage data transmission rates.

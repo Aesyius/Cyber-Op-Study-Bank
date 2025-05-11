@@ -1,0 +1,1 @@
+What are some common SMTP error codes and their meanings (e.g., 550, 554)?

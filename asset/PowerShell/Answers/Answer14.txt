@@ -1,0 +1,1 @@
+You can filter the output of a cmdlet using Where-Object. For instance, Get-Process | Where-Object { $_.CPU -gt 100 } filters processes to show only those using more than 100 units of CPU.

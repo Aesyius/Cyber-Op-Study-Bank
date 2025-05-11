@@ -1,0 +1,1 @@
+Explain the difference between using "uniq" with and without the "-c" option.

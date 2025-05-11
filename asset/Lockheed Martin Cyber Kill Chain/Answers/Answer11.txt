@@ -1,0 +1,1 @@
+Intelligence gathering in the Reconnaissance stage involves collecting data about the target's infrastructure, security measures, and personnel. This information is crucial for planning the attack and choosing the right tools and techniques.

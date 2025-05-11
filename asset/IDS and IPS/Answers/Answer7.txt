@@ -1,0 +1,1 @@
+Limitations or challenges associated with IDS include false positives (incorrectly identifying normal activities as threats), false negatives (failing to detect actual security incidents), and the need for continuous tuning and updating of detection rules to adapt to evolving threats.

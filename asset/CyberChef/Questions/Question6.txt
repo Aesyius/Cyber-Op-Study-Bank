@@ -1,0 +1,1 @@
+Describe the process of creating and chaining operations in CyberChef for complex data transformations.

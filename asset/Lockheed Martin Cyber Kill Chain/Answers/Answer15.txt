@@ -1,0 +1,1 @@
+Detecting and stopping malware during the Installation stage is important because it prevents the attacker from establishing a foothold in the network. Once installed, malware can be difficult to remove and can provide ongoing access to the attacker.

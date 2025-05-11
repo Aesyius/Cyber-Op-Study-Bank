@@ -1,0 +1,1 @@
+Some Unix-like systems may have variations or alternatives to the pipe operator, although the basic functionality of connecting command output remains consistent across different systems.

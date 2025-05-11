@@ -1,0 +1,1 @@
+How can you perform Base64 encoding and decoding using programming languages such as Python, Java, or JavaScript?

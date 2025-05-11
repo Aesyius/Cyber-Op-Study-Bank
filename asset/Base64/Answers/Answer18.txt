@@ -1,0 +1,1 @@
+Common mistakes or misconceptions related to Base64 encoding include: ● Assuming that Base64 encoding provides data encryption or security. ●Encoding data unnecessarily, especially if it's already in a text-based format. ●Overlooking the increase in data size when using Base64 encoding.

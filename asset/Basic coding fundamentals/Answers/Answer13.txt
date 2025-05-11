@@ -1,0 +1,1 @@
+User input in a program can be handled using input/output (I/O) operations, input functions, or user interface components depending on the programming language or environment. Programmers can prompt users for input, read input from standard input streams, capture user interactions, or process data entered by users interactively or through input forms.

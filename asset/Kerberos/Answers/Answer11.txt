@@ -1,0 +1,1 @@
+Time synchronization is crucial in Kerberos because tickets and messages include time stamps. If the client and KDC clocks are not synchronized, authentication can fail. Kerberos typically allows for a small time discrepancy (e.g., 5 minutes).

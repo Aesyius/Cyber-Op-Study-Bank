@@ -1,0 +1,1 @@
+What are the differences between NAT and proxy servers in network communication?

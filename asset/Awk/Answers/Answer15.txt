@@ -1,0 +1,1 @@
+"awk" can handle input from standard input (stdin), specified files, or data piped from other commands. It processes each line of input sequentially, applying specified patterns and actions as needed.

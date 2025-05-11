@@ -1,0 +1,1 @@
+How does NAT handle ICMP (Internet Control Message Protocol) packets?

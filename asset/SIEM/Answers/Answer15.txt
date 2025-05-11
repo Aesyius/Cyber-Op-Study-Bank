@@ -1,0 +1,1 @@
+A correlation engine in a SIEM system analyzes and links events from different sources based on predefined rules to detect patterns that might indicate a security threat.

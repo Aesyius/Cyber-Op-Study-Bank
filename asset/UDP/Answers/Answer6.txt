@@ -1,0 +1,1 @@
+Connectionless communication in UDP means that each UDP datagram is sent independently without establishing a persistent connection between sender and receiver. There is no session setup or teardown process as in TCP.

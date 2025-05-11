@@ -1,0 +1,1 @@
+Wireshark can reconstruct packets into TCP streams to view complete conversations between hosts. TCP stream analysis helps in understanding communication sequences, identifying retransmissions, and detecting anomalies in TCP-based protocols.

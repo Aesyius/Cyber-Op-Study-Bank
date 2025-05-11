@@ -1,0 +1,1 @@
+ARP stands for Address Resolution Protocol. Its primary purpose in computer networking is to map IP addresses to MAC addresses for communication within a local network.

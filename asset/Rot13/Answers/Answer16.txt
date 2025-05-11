@@ -1,0 +1,1 @@
+Strategies for breaking or decrypting ROT13 ciphertext include: ●Recognizing the pattern and applying ROT13 twice to obtain the original plaintext. ●Frequency analysis based on English letter frequency to identify common patterns in the ciphertext.

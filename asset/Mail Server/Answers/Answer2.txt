@@ -1,0 +1,1 @@
+The two main types of mail servers are: • (MTA) SMTP (Simple Mail Transfer Protocol) servers: Responsible for sending and routing outgoing emails. • (MDA) POP3/IMAP servers: Handle receiving and storing emails for users, with POP3 downloading messages and IMAP allowing remote access to emails.

@@ -1,0 +1,1 @@
+What are some common deployment models for IPS, such as inline IPS and host-based IPS (HIPS)?

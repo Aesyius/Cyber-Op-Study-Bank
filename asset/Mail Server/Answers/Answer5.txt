@@ -1,0 +1,1 @@
+When an email is sent, the sender’s mail server uses SMTP to transfer the message to the recipient’s mail server. The recipient’s server stores the message, and the user retrieves it via POP3 or IMAP.

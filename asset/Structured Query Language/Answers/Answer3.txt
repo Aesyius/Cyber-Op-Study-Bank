@@ -1,0 +1,1 @@
+The SELECT statement in SQL is used to retrieve data from one or more tables in a database. It allows users to specify which columns to retrieve and can include filters, sorting, and grouping options.

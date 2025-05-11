@@ -1,0 +1,1 @@
+Zeek handles packet dissection by parsing network packets into protocol headers and payloads, allowing for detailed protocol decoding and analysis. It reconstructs sessions by correlating packets belonging to the same network session, aiding in behavior analysis and threat detection.

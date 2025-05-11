@@ -1,0 +1,1 @@
+DNS resolves domain names to IP addresses through a process called DNS resolution, where DNS servers query and communicate to find the corresponding IP address for a given domain name. This process involves recursive and iterative queries.

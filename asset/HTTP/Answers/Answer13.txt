@@ -1,0 +1,1 @@
+The difference between HTTP and HTTPS (HTTP Secure) is that HTTPS adds a layer of encryption (SSL/TLS) to secure data transmitted between the client and server, providing confidentiality, integrity, and authentication.

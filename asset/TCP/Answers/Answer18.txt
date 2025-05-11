@@ -1,0 +1,1 @@
+The TCP connection termination process involves a four-way handshake: a. The client sends a FIN packet to initiate connection termination. b. The server responds with an ACK for the FIN (FIN-ACK). c. The server then sends its own FIN to the client. d. Finally, the client responds with an ACK for the server's FIN (FIN- ACK).

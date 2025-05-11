@@ -1,0 +1,1 @@
+A cmdlet is a lightweight command in PowerShell, used to perform a single specific task. It follows the "Verb-Noun" naming convention, such as Get-Process or Set-ExecutionPolicy, making commands intuitive and easy to understand.

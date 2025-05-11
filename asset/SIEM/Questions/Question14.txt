@@ -1,0 +1,1 @@
+How do dashboards and reporting tools enhance the functionality of a SIEM system?

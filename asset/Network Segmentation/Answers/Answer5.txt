@@ -1,0 +1,1 @@
+Physical segmentation involves using separate physical devices and network infrastructure, while logical segmentation uses software and configuration settings to create isolated segments within the same physical infrastructure.

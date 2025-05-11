@@ -1,0 +1,1 @@
+If a snapshot of a virtual machine is taken before malware execution, how can it be used effectively during analysis?

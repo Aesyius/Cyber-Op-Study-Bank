@@ -1,0 +1,1 @@
+Adding a new printer to a print server in a Windows environment involves installing the appropriate printer driver, configuring the printer’s IP address, and sharing it with the network. The printer can then be added to the server via the Devices and Printers settings.

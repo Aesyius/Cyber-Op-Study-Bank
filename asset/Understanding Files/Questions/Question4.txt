@@ -1,0 +1,1 @@
+If you extracted strings from a file and found URLs or API calls, what conclusions could you draw, and what would be your next steps?

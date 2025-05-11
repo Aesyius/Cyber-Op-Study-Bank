@@ -1,0 +1,1 @@
+SSH handles data encryption using symmetric encryption algorithms (e.g., AES) for confidentiality and integrity verification using cryptographic hashes (e.g., HMAC) to ensure data integrity during transmission.

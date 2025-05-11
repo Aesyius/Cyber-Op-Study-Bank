@@ -1,0 +1,1 @@
+Wireshark can capture encrypted traffic, but it cannot decrypt the encrypted packets unless the encryption keys are provided. This limitation exists because Wireshark operates at the network layer and cannot decrypt higher-layer encrypted payloads without access to the encryption keys.

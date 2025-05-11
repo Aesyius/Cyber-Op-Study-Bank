@@ -1,0 +1,1 @@
+Switches maintain security through features such as port security, VLANs, and Access Control Lists (ACLs). These features restrict access to the network and limit the potential impact of unauthorized devices.

@@ -1,0 +1,1 @@
+TShark handles protocol decoding, session reconstruction, and TCP sequence analysis similarly to Wireshark. It dissects packets to extract protocol-specific information, reconstructs sessions to analyze conversations, and performs TCP sequence analysis to identify issues such as retransmissions or out-of- order packets.

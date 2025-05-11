@@ -1,0 +1,1 @@
+Replication between multiple domain controllers ensures that all controllers have the same information. Changes made on one domain controller are propagated to others, typically using a multi-master replication model, which helps maintain data consistency across the domain.

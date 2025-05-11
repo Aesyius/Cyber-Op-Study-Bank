@@ -1,0 +1,1 @@
+What is router redundancy, and why is it important for both LAN and WAN designs?

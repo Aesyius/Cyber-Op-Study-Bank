@@ -1,0 +1,1 @@
+The process of importing and exporting recipes in CyberChef involves saving recipes as JSON files and using the import/export options within the CyberChef interface. This allows users to reuse, share, and collaborate on data transformation recipes.

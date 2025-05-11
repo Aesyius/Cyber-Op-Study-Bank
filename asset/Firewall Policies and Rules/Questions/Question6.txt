@@ -1,0 +1,1 @@
+Explain the concept of default deny and default allow policies.

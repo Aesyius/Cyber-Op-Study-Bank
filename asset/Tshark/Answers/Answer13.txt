@@ -1,0 +1,1 @@
+TShark can be integrated with other tools and scripts for automated network analysis workflows. It can be used in conjunction with shell scripts, Python scripts, or other command-line utilities to automate packet capture, analysis, and reporting tasks.

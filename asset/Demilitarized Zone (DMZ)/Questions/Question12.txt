@@ -1,0 +1,1 @@
+Explain the concept of a reverse proxy and its use in a DMZ.

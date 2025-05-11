@@ -1,0 +1,1 @@
+User and Entity Behavior Analytics (UEBA) involves analyzing the behavior of users and entities to detect deviations from normal patterns. In SIEM, UEBA is used to improve threat detection by identifying unusual or suspicious activities.

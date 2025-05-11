@@ -1,0 +1,1 @@
+Network segmentation integrates with other security measures, such as intrusion detection systems (IDS), by providing isolated environments that can be monitored separately. This enhances the overall security posture.

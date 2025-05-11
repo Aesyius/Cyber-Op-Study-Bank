@@ -1,0 +1,1 @@
+tcpdump can monitor network performance by capturing and analyzing packet timestamps, round-trip times, packet loss rates, bandwidth usage, and traffic patterns related to network protocols and applications.

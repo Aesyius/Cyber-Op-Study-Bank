@@ -1,0 +1,1 @@
+Describe the use of the "-i" option in "sed" to edit files in place.

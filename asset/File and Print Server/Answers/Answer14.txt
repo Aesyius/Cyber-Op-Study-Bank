@@ -1,0 +1,1 @@
+A local print server is directly attached to a printer and serves print jobs from one or more local devices, while a network print server connects printers to the entire network. A network print server allows multiple clients to access and share printers over the network.

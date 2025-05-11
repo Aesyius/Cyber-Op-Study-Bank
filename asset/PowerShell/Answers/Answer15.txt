@@ -1,0 +1,1 @@
+To find all services currently running on your system, use the Get-Service cmdlet. This lists all services along with their current statuses, allowing you to identify which services are running, stopped, or paused.

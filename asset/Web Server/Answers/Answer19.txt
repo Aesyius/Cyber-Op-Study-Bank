@@ -1,0 +1,1 @@
+A web server authenticates users by verifying their credentials (like usernames and passwords) against a database. Authorization determines the permissions a user has after authentication, controlling access to specific resources or functionalities.

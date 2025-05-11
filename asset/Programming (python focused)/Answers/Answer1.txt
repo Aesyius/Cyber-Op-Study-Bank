@@ -1,0 +1,1 @@
+The purpose of a programming language is to provide a structured and standardized way for humans to communicate instructions to computers. Programming languages facilitate computer programming by allowing programmers to write code that defines algorithms, manipulates data, controls program flow, and interacts with hardware and software components.

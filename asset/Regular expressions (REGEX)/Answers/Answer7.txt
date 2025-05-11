@@ -1,0 +1,1 @@
+Regex alternation uses the "|" symbol to specify multiple alternatives for matching. Grouping parentheses "( )" are used to create subexpressions or capture groups, which can be used for extraction or backreferences.

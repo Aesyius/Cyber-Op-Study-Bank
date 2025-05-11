@@ -1,0 +1,1 @@
+Saving and exporting packet captures from tcpdump involves using the -w option to write captured packets to a file in pcap format. These capture files can then be imported into packet analysis tools like Wireshark for further analysis or reporting.

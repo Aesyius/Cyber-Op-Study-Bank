@@ -1,0 +1,1 @@
+The Internet Layer (Layer 3) of the TCP/IP model is responsible for logical addressing (IP addressing) and packet routing across networks.

@@ -1,0 +1,1 @@
+Zeek scripts are custom scripts written in the Zeek scripting language to extend the functionality of Zeek and perform specific analysis tasks. Policy scripts, on the other hand, are used to define security policies, rules, and configurations for network monitoring, alerting, and logging within Zeek deployments.

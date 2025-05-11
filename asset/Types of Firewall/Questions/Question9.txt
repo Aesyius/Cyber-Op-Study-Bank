@@ -1,0 +1,1 @@
+How does a Unified Threat Management (UTM) device integrate firewall capabilities?

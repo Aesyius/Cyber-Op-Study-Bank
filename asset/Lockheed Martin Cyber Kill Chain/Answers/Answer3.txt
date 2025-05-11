@@ -1,0 +1,1 @@
+The purpose of the Reconnaissance stage is for attackers to gather information about their target. This includes identifying potential vulnerabilities, gathering intelligence on systems and network architecture, and researching key personnel.

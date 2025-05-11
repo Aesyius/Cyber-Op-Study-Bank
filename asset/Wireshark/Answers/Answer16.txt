@@ -1,0 +1,1 @@
+Wireshark can be used to detect and troubleshoot network performance issues by analyzing packet delays (latency), packet loss, retransmissions, bandwidth utilization, and other metrics. It helps in identifying bottlenecks and optimizing network performance.

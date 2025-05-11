@@ -1,0 +1,1 @@
+How would you determine if a file is a binary or a text file without using a specialized tool?

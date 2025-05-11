@@ -1,0 +1,1 @@
+DHCP scopes define ranges of IP addresses that DHCP servers can allocate to clients. Scopes can also include additional configuration settings, such as subnet masks, default gateways, DNS servers, and lease durations, to manage IP address allocation within specific network segments.

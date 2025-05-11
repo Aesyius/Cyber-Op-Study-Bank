@@ -1,0 +1,1 @@
+A DHCP server can assign the same IP address to a device using a reservation, which maps a specific IP address to a device’s MAC address. This ensures that the device always receives the same IP.

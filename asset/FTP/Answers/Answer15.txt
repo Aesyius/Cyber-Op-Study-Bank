@@ -1,0 +1,1 @@
+FTP can handle concurrent file transfers from multiple clients by managing separate data connections for each client session, ensuring that data transfers do not interfere with each other.

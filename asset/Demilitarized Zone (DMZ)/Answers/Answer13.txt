@@ -1,0 +1,1 @@
+A DMZ mitigates the risk of external attacks by providing an isolated environment for public-facing services. Even if a DMZ server is compromised, the internal network remains protected.

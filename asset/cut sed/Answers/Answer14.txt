@@ -1,0 +1,1 @@
+The "sed" command performs text substitutions and transformations based on rules specified in the script or command line. It can replace text, delete lines, perform global substitutions, and more.

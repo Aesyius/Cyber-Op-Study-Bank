@@ -1,0 +1,1 @@
+A packet-filtering firewall works by inspecting each packet that passes through the firewall and comparing it to a set of predefined rules. If a packet matches a rule, it is either allowed or denied based on the rule’s action.

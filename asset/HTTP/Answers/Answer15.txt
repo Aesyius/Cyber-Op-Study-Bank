@@ -1,0 +1,1 @@
+HTTP handles authentication and authorization using mechanisms like Basic Authentication (username/password), Digest Authentication, OAuth, JWT (JSON Web Tokens), and session cookies to control access to resources based on user credentials or permissions.

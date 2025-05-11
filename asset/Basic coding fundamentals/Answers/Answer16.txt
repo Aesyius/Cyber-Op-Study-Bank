@@ -1,0 +1,1 @@
+A constant in programming is a variable or identifier whose value remains unchanged or immutable throughout the program's execution. Constants are typically used to represent fixed values, configuration parameters, or mathematical constants. Unlike variables, constants cannot be reassigned or modified once initialized.

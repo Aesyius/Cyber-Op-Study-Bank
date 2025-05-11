@@ -1,0 +1,1 @@
+How does endpoint detection and response (EDR) enhance endpoint security?

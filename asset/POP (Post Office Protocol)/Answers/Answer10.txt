@@ -1,0 +1,1 @@
+POP interacts with email clients (e.g., Outlook, Thunderbird) for email retrieval by establishing a connection to the POP server, authenticating the user, retrieving email messages using POP commands, and downloading the messages to the client's inbox or specified folders within the client application.

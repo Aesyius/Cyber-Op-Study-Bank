@@ -1,0 +1,1 @@
+The number "13" in ROT13 signifies the fixed key or shift amount used in the cipher. It determines the number of positions each letter is shifted in the alphabet during encryption and decryption.

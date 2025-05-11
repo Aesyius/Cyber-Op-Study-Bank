@@ -1,0 +1,1 @@
+ARP contributes to the efficiency of data transmission in local networks by providing fast and dynamic IP- to-MAC address resolution, reducing the need for manual configuration and improving communication speed.

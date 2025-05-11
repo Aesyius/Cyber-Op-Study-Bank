@@ -1,0 +1,1 @@
+The main difference between TShark and Wireshark is their user interface and usage method. Wireshark has a graphical user interface (GUI) that allows users to interactively capture and analyze packets using mouse clicks and menus. TShark, on the other hand, is entirely command-line based, requiring users to input commands and options directly in the terminal.

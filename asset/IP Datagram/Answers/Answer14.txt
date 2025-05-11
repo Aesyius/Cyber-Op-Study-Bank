@@ -1,0 +1,1 @@
+The IPv4 fragmentation offset field in fragmented datagrams indicates the position of each fragment within the original datagram. It assists in reassembling fragmented datagrams at the receiving end.

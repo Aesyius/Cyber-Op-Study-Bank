@@ -1,0 +1,1 @@
+SMTP (Simple Mail Transfer Protocol) is responsible for sending emails from a client to a mail server and from one mail server to another. It ensures that outgoing emails reach their destination by routing them across the internet.

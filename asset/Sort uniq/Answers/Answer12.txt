@@ -1,0 +1,1 @@
+Examples of using the "uniq" command: ●Remove duplicate lines from a sorted file: sort file.txt | uniq ●Count occurrences of each line: sort file.txt | uniq -c

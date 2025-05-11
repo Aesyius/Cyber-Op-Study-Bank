@@ -1,0 +1,1 @@
+A file server supports backups and disaster recovery by regularly copying files to a secure backup system. Redundant configurations, such as RAID, can also protect against data loss by duplicating data across multiple drives.

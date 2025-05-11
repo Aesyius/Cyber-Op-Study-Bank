@@ -1,0 +1,1 @@
+In shell scripting and batch processing tasks, "sed" is commonly used for automating text transformations, data cleaning, log file processing, and dynamic content generation.

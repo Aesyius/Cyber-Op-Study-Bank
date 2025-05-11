@@ -1,0 +1,1 @@
+DNS caching improves DNS query response times by storing previously resolved DNS data in cache memory. However, cached data may become stale over time, impacting response times until caches are refreshed.

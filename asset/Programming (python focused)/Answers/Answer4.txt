@@ -1,0 +1,1 @@
+Variables in programming are placeholders or containers that store data values such as numbers, strings, or objects. They allow programmers to manipulate and manage data during program execution. Variables have names (identifiers) and data types that define the kind of data they can hold.

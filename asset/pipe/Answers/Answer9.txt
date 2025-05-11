@@ -1,0 +1,1 @@
+Command substitution involves using the output of one command as part of another command. While it is related to the concept of pipes, command substitution uses backticks or "$()" syntax to substitute command output directly into another command, rather than passing it through a pipe.

@@ -1,0 +1,1 @@
+Switches handle broadcast traffic by sending broadcast frames to all devices within the same VLAN. This ensures that all devices receive the broadcast but limits the traffic to the relevant VLAN.

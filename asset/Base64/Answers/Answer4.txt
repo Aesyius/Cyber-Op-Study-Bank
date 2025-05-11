@@ -1,0 +1,1 @@
+The structure of a Base64-encoded string typically consists of characters from the Base64 alphabet, along with padding characters (=) at the end if needed. Base64 strings are case-sensitive, and each character represents 6 bits of the original binary data.

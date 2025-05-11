@@ -1,0 +1,1 @@
+Describe how understanding PE headers helps in analyzing the behavior of an executable. Why might this be critical for cybersecurity?

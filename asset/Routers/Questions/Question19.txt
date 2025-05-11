@@ -1,0 +1,1 @@
+What challenges do routers face in maintaining connection reliability in WANs compared to LANs?

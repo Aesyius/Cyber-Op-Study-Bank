@@ -1,0 +1,1 @@
+When a DHCP lease expires, the client attempts to renew it by sending a DHCPREQUEST to the server. If the lease cannot be renewed, the client may request a new IP address from the server.

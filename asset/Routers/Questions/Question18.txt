@@ -1,0 +1,1 @@
+How can a router facilitate communication between multiple LANs within a WAN?

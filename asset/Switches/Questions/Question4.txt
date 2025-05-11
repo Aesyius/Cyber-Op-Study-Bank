@@ -1,0 +1,1 @@
+What is the purpose of VLANs (Virtual Local Area Networks) in switch configurations?

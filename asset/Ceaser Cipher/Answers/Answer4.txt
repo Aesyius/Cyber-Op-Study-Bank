@@ -1,0 +1,1 @@
+Shifting letters in the alphabet means moving them forward or backward by a fixed number of positions. For instance, with a key of 3, 'A' becomes 'D' (shifted three positions to the right), 'B' becomes 'E,' and 'Y' becomes 'B' (wrap-around from 'Z' to 'A').

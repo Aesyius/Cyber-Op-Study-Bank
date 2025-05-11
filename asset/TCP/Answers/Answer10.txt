@@ -1,0 +1,1 @@
+TCP flags are control bits in the TCP header used for various purposes in TCP communication. They indicate the status and control information of TCP segments during data transmission.

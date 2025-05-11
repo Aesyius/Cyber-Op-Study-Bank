@@ -1,0 +1,1 @@
+CyberChef handles large datasets and streaming data for real-time analysis by processing data in chunks or streaming mode. This allows it to handle data of varying sizes efficiently and perform analyses on data streams as they are received.

@@ -1,0 +1,1 @@
+LAN segments are typically represented within a confined area, such as an office building or campus, and are interconnected using switches or hubs. WAN segments span larger geographical areas and are connected via routers, leased lines, or internet connections. Differentiating between LAN and WAN segments on a network diagram helps visualize the network's scope and connectivity.

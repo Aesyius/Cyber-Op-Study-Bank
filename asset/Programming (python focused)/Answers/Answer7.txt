@@ -1,0 +1,1 @@
+An array in programming is a linear data structure that stores elements of the same data type in contiguous memory locations, allowing random access to elements by index. A linked list, on the other hand, is a data structure where elements (nodes) are linked together via pointers, providing dynamic memory allocation but slower access compared to arrays.

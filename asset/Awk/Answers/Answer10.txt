@@ -1,0 +1,1 @@
+Common built-in functions in "awk" for text processing tasks include "print", "printf", "length", "tolower", "toupper", "substr", and more. These functions aid in formatting output, calculating lengths, manipulating strings, and performing case conversions.

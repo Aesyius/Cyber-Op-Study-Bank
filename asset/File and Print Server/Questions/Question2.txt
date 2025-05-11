@@ -1,0 +1,1 @@
+Explain the role of a print server and how it operates within a network.

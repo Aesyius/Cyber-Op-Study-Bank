@@ -1,0 +1,1 @@
+During the Command and Control (C2) stage, the attacker establishes a channel to remotely control the compromised system. This channel allows them to send instructions, exfiltrate data, and manage the attack.

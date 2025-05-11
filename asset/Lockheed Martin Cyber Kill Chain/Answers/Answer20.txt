@@ -1,0 +1,1 @@
+The limitations of the Cyber Kill Chain model include its focus on external threats and its linear approach, which may not fully capture the complexity of modern attacks. These limitations can be addressed by integrating additional threat models, considering insider threats, and adopting a more dynamic and adaptive defense strategy.

@@ -1,0 +1,1 @@
+How can a firewall help in preventing DDoS attacks?

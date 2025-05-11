@@ -1,0 +1,1 @@
+To create a variable in PowerShell, use the $ symbol followed by the variable name, such as $variableName = value. Variables in PowerShell are dynamically typed, meaning they can hold different data types without explicit declaration.

@@ -1,0 +1,1 @@
+DNS caching stores the results of a DNS query for a specified amount of time (TTL) to speed up future lookups. It reduces the load on DNS servers and improves performance by allowing frequently requested domains to be resolved faster.

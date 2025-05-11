@@ -1,0 +1,1 @@
+A next-generation firewall (NGFW) integrates traditional firewall capabilities with additional features such as application awareness, intrusion prevention, and deep packet inspection. NGFWs can identify and control applications regardless of port, protocol, or IP address used.

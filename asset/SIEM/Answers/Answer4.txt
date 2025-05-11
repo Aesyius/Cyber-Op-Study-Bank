@@ -1,0 +1,1 @@
+Correlation rules in a SIEM system link related logs and events to identify patterns that might indicate a security threat. These rules help in recognizing potential incidents by connecting disparate pieces of data.

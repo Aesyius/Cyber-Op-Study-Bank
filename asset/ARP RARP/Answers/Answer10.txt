@@ -1,0 +1,1 @@
+ARP proxy is a technique where a device responds to ARP requests on behalf of other devices in the network. This is useful for routing ARP requests across different network segments or VLANs, enhancing network efficiency and management.

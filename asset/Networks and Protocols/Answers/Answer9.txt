@@ -1,0 +1,1 @@
+The Application Layer in the OSI model provides services directly to end-users and application processes. Application-level protocols like HTTP, FTP, SMTP, and DNS operate at this layer.

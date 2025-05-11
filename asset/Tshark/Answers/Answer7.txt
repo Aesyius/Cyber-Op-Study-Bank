@@ -1,0 +1,1 @@
+To specify capture interfaces and filters in TShark for targeted packet capture, you can use the -i option followed by the interface name and the -f option followed by the capture filter criteria. For example: tshark -i eth0 -f "tcp port 80"

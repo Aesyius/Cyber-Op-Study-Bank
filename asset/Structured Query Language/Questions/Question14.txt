@@ -1,0 +1,1 @@
+How can you prevent SQL injection attacks in a database application?

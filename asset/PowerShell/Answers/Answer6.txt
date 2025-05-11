@@ -1,0 +1,1 @@
+You can run a script in PowerShell by typing .\ScriptName.ps1 in the console, assuming the script is in the current directory. Execution policies must also allow scripts to be run, which might require setting a less restrictive policy using Set-ExecutionPolicy.

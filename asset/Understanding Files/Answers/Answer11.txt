@@ -1,0 +1,1 @@
+To identify the type of malicious file, you would start by analyzing its behavior: a virus attaches to files and spreads locally, a worm spreads autonomously across networks, and a trojan disguises itself as legitimate software. Behavior analysis and monitoring are key to determining the type.

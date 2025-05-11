@@ -1,0 +1,1 @@
+Change management processes improve firewall rule management by ensuring that changes are reviewed, tested, and approved before implementation. This reduces the risk of errors and unintended consequences.

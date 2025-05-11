@@ -1,0 +1,1 @@
+Some advantages of the TCP/IP model compared to the OSI model include its simplicity, widespread adoption, and direct relevance to internet protocols. Limitations may include a less granular layer structure compared to the OSI model and a focus on network communication rather than broader system functions.

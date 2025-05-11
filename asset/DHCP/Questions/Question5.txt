@@ -1,0 +1,1 @@
+What are DHCP options, and how are they used in DHCP communication?

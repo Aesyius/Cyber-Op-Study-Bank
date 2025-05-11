@@ -1,0 +1,1 @@
+Public Key Infrastructure (PKI) in HTTPS involves a system of digital certificates, public and private keys, and Certificate Authorities (CAs) to establish secure connections and authenticate entities (servers and clients) in web communication.

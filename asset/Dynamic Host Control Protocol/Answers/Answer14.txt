@@ -1,0 +1,1 @@
+A DHCP relay agent is used to forward DHCP requests from clients in one network segment to a DHCP server on another segment. It allows clients and servers on different networks to communicate.

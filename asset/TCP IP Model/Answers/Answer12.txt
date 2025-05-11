@@ -1,0 +1,1 @@
+Examples of devices that operate primarily at the Network Access Layer of the TCP/IP model include switches, routers, network interface cards (NICs), Ethernet cables, and wireless access points.

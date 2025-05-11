@@ -1,0 +1,1 @@
+Challenges or limitations of IPS include potential false positives, resource consumption (especially in inline mode), and the need for continuous updates to maintain effectiveness against evolving threats and attack vectors.

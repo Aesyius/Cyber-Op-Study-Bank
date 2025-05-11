@@ -1,0 +1,1 @@
+SMTP handles email attachments by encoding them into the email message body using encoding methods such as MIME (Multipurpose Internet Mail Extensions). This allows attachments to be transmitted as part of the email content.

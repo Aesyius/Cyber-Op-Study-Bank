@@ -1,0 +1,1 @@
+How does TShark capture and process network traffic compared to Wireshark?

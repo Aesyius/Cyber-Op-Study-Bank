@@ -1,0 +1,1 @@
+Explain how Network Address Translation (NAT) is implemented in routers for both LANs and WANs.

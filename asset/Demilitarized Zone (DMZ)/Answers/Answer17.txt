@@ -1,0 +1,1 @@
+Potential risks associated with a poorly configured DMZ include unauthorized access to internal networks, exposure of sensitive data, and increased vulnerability to attacks. Proper configuration and monitoring are essential.

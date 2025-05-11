@@ -1,0 +1,1 @@
+TCP handles out-of-order packets by using sequence numbers to reorder and reassemble received packets in the correct sequence before delivering them to the application layer.

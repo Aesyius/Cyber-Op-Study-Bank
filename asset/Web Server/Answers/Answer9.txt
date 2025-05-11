@@ -1,0 +1,1 @@
+To secure a web server against common attacks: • Implement firewalls to filter malicious traffic. • Use web application firewalls (WAF) to detect and block attacks. • Keep server software up to date to patch vulnerabilities. • Validate and sanitize user input to prevent SQL injection and XSS.

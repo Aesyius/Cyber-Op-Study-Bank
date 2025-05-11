@@ -1,0 +1,1 @@
+Describe the role of the shell (e.g., Bash, Zsh) in handling command-line pipes.

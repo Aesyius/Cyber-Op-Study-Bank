@@ -1,0 +1,1 @@
+Describe the INSERT INTO statement and its use in adding data to a table.

@@ -1,0 +1,1 @@
+The SYN flag in TCP is used during connection establishment to synchronize sequence numbers between sender and receiver and initiate a TCP connection.

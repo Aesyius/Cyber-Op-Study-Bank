@@ -1,0 +1,1 @@
+Antivirus and anti-malware software play a critical role in endpoint security by detecting, blocking, and removing malicious software from devices. These tools help protect endpoints from various types of malware, including viruses, worms, Trojans, and spyware.

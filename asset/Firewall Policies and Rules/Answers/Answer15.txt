@@ -1,0 +1,1 @@
+Time-based firewall rules restrict access based on specific time periods. This can enhance security by limiting access during non-business hours or other specified times.

@@ -1,0 +1,1 @@
+A read-only domain controller (RODC) contains a read-only copy of the Active Directory database. It is useful in locations where security cannot be guaranteed, as it reduces the risk of unauthorized changes while still allowing for local authentication and access to cached credentials.

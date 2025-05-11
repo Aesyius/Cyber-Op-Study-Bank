@@ -1,0 +1,1 @@
+The difference between GET and POST HTTP methods is that GET is used to request data from a server, typically for retrieving resources, while POST is used to submit data to a server, often for processing form submissions or sending data that should not be visible in the URL.

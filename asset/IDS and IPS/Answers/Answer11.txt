@@ -1,0 +1,1 @@
+An IPS differs from an IDS in that it has the ability to automatically respond to detected threats by actively blocking or filtering malicious traffic, whereas an IDS primarily focuses on detection and alerting.

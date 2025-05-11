@@ -1,0 +1,1 @@
+What is DHCP snooping, and how does it enhance network security?

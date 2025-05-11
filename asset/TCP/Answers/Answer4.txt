@@ -1,0 +1,1 @@
+Flow control in TCP regulates the rate of data transmission between sender and receiver to prevent overwhelming the receiver's buffer. It uses sliding window algorithms and TCP window size adjustments to optimize data flow based on network conditions.

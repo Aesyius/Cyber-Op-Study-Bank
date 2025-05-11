@@ -1,0 +1,1 @@
+Understanding the OSI model helps in designing and maintaining network infrastructures by providing a framework for organizing network protocols and devices, troubleshooting network issues, and ensuring compatibility between different networking technologies and vendors.

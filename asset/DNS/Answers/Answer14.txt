@@ -1,0 +1,1 @@
+DNS resolvers provided by ISPs (Internet Service Providers) are responsible for resolving DNS queries from clients within their network. They often cache DNS records to improve query response times and manage DNS resolution for their subscribers.

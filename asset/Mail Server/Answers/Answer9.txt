@@ -1,0 +1,1 @@
+Authentication ensures that only authorized users can access the mail server to send or receive emails. This prevents unauthorized use of the server and combats email spoofing and spam.

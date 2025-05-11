@@ -1,0 +1,1 @@
+Cryptojacking attacks involve hijacking or exploiting computing resources, such as CPU or GPU processing power, to mine cryptocurrencies without users' consent or knowledge. Attackers inject malicious code into websites, applications, or devices to harness computing resources for cryptocurrency mining, slowing down systems, consuming energy, and generating revenue for attackers.

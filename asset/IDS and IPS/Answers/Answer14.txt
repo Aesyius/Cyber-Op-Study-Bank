@@ -1,0 +1,1 @@
+An IPS can handle various types of attacks, including DDoS attacks by identifying and blocking malicious traffic patterns or source IP addresses. It can also detect and prevent buffer overflow attacks by monitoring application behavior and traffic.

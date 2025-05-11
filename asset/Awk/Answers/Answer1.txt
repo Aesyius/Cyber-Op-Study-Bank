@@ -1,0 +1,1 @@
+The "awk" command in Linux/Unix is a powerful text processing tool used for pattern scanning and text manipulation. It is particularly useful for processing structured text files, extracting data, and performing calculations or transformations.

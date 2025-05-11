@@ -1,0 +1,1 @@
+A cache stores frequently accessed data to speed up retrieval times. In a web server context, caching mechanisms can store copies of web pages, reducing the need to re-generate content for each request, which improves server efficiency.

@@ -1,0 +1,1 @@
+FTP data transfer modes include: ●ASCII Mode: Used for transferring text files, where line endings are converted based on the client and server's operating systems. ●Binary Mode: Used for transferring non-text files (e.g., images, executables) without any character conversion, ensuring file integrity.

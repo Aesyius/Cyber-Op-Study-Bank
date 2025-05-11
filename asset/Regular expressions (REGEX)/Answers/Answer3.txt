@@ -1,0 +1,1 @@
+Regex quantifiers affect matching behavior by specifying how many times a character or group of characters should occur. For example, "*" matches zero or more occurrences, "+" matches one or more occurrences, and "?" matches zero or one occurrence.

@@ -1,0 +1,1 @@
+Secure access control in network design involves ensuring that only authorized users and devices can access network resources. This includes using authentication mechanisms, role-based access controls, and network segmentation.

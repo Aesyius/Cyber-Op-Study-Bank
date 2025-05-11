@@ -1,0 +1,1 @@
+Describe the Telnet client-server model and how it facilitates remote access.

@@ -1,0 +1,1 @@
+The basic syntax of a regex pattern includes literals (ordinary characters that match themselves) and metacharacters (special characters with special meanings). Examples of metacharacters include ".", "*", "+", "?", "^", "$", "[", "]", "{", "}", "(", ")", "|", "", and "/". These metacharacters are used to construct patterns that define the search criteria.

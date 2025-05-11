@@ -1,0 +1,1 @@
+The typical file extension for a PowerShell script is .ps1. This indicates that the file contains a PowerShell script that can be executed by the PowerShell engine.

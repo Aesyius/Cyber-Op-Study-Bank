@@ -1,0 +1,1 @@
+An internal firewall is used to segment and protect different parts of an internal network. It helps enforce security policies within the organization and limits the spread of potential internal threats.

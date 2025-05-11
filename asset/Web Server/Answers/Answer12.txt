@@ -1,0 +1,1 @@
+Load balancing distributes incoming network traffic across multiple servers to ensure no single server becomes overwhelmed. This improves responsiveness and increases availability by redirecting traffic to operational servers.

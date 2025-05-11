@@ -1,0 +1,1 @@
+Intrusion Prevention Policies and Rules in an IPS define criteria and actions for identifying and responding to security threats. These policies may include blocking specific IP addresses, URLs, signatures, or behavior patterns associated with known attacks.

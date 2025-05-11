@@ -1,0 +1,1 @@
+SSH authenticates users during the login process using various methods, including: ●Password authentication: Users enter a password to authenticate with the SSH server. ●Public-key authentication: Users generate a public-private key pair, with the public key stored on the server for authentication.

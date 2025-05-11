@@ -1,0 +1,1 @@
+IPv4 handles packet forwarding and routing across networks by using routing protocols and routing tables in routers. Forwarding decisions are based on destination IP addresses and routing information obtained from routing protocols.

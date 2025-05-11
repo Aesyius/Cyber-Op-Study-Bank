@@ -1,0 +1,1 @@
+Aliases in PowerShell are shortcuts for cmdlets that make commands easier and faster to type. For example, gci is an alias for Get-ChildItem. Aliases can help users work more efficiently but can also make scripts less readable to others who are unfamiliar with them.

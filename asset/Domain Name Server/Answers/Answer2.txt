@@ -1,0 +1,1 @@
+DNS converts domain names into IP addresses through a process called resolution. When a user types a domain name, the browser sends a request to the DNS server, which looks up the corresponding IP address and returns it to the browser to establish a connection.

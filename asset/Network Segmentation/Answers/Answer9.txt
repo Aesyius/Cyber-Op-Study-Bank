@@ -1,0 +1,1 @@
+Micro-segmentation involves creating very small, fine-grained segments within a network, often down to the individual workload or application level. It provides more precise control and security compared to traditional segmentation.

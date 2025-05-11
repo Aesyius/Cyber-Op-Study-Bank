@@ -1,0 +1,1 @@
+Threat intelligence in a SIEM system provides contextual information about emerging threats and attack patterns, helping to enhance threat detection by incorporating external data and insights into the analysis.

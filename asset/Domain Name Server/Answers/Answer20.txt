@@ -1,0 +1,1 @@
+To troubleshoot DNS issues, you can use tools like nslookup or dig to test DNS resolution, check for DNS server outages, verify correct DNS record entries, and flush DNS caches to remove outdated entries.

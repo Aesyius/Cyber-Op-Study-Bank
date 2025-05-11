@@ -1,0 +1,1 @@
+SQL handles NULL values by allowing columns to have NULL values, which represent unknown or missing data. SQL operations and functions may treat NULL values differently, such as ignoring them in aggregate functions or requiring explicit handling in comparisons.

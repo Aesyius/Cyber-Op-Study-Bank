@@ -1,0 +1,1 @@
+Firewall policies help in compliance with security standards by enforcing controls required by regulations, such as access restrictions and logging. Compliance frameworks often mandate specific firewall configurations.

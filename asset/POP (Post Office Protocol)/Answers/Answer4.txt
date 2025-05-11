@@ -1,0 +1,1 @@
+POP handles email deletion by allowing users to mark messages for deletion using the DELE command. Once marked for deletion, the messages are removed from the server during the session's termination or when the client explicitly issues the QUIT command to end the session.

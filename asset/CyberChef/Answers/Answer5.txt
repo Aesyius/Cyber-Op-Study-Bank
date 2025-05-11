@@ -1,0 +1,1 @@
+In CyberChef, "operations" refer to specific functions or actions that can be applied to data. These operations include encoding, decoding, hashing, compression, conversion, manipulation, visualization, and more. Users can chain multiple operations together to create complex data processing workflows.

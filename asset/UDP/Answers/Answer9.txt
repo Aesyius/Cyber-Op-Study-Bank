@@ -1,0 +1,1 @@
+Some common applications or protocols that use UDP include: ●DNS (Domain Name System) ●DHCP (Dynamic Host Configuration Protocol) ●SNMP (Simple Network Management Protocol) ●TFTP (Trivial File Transfer Protocol) ●VoIP (Voice over IP) ●Online gaming protocols ●Streaming media protocols

@@ -1,0 +1,1 @@
+How do network taps handle encrypted traffic, and what are the implications for monitoring?

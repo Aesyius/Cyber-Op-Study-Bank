@@ -1,0 +1,1 @@
+MD5 and SHA-1 have vulnerabilities to collision attacks, meaning two different inputs can produce the same hash, making them unreliable for security-critical applications. SHA-256 is preferred because it is much more resistant to such attacks.

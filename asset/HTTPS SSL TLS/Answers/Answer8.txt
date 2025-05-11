@@ -1,0 +1,1 @@
+Types of SSL/TLS certificates used in HTTPS connections include: ●Domain Validated (DV) Certificates: Verify domain ownership only. ●Organization Validated (OV) Certificates: Verify domain ownership and organization details. ●Extended Validation (EV) Certificates: Provide the highest level of validation, including legal entity verification.

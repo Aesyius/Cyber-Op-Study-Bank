@@ -1,0 +1,1 @@
+Regularly reviewing and updating firewall rules ensures that they remain effective and relevant. It helps identify and remove obsolete rules and adapt to changing security needs.

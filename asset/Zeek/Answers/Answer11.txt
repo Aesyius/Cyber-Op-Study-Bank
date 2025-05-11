@@ -1,0 +1,1 @@
+Advanced features in Zeek for detecting and analyzing network anomalies include: ●Anomaly detection scripts for identifying unusual patterns and behaviors in network traffic. ●Connection state analysis for tracking session states, retransmissions, and anomalies. ●Protocol-specific analyzers for detailed analysis of application-layer protocols and services.

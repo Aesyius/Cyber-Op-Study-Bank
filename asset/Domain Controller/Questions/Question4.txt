@@ -1,0 +1,1 @@
+How does a domain controller manage user accounts and security policies?

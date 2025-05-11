@@ -1,0 +1,1 @@
+User education and awareness are crucial for enhancing endpoint security because many attacks, such as phishing, rely on user actions to succeed. Training users to recognize and avoid threats helps reduce the likelihood of security incidents caused by human error.

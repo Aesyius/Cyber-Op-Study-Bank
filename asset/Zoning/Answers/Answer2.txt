@@ -1,0 +1,1 @@
+The primary purpose of zoning in a SAN environment is to control and manage access to storage resources such as disk arrays, tape libraries, and other storage devices. By creating zones, administrators can limit which devices can communicate with each other, ensuring that only authorized systems have access to specific storage resources.

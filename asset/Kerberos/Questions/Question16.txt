@@ -1,0 +1,1 @@
+What is the lifespan of a Ticket Granting Ticket (TGT), and how can it be renewed?

@@ -1,0 +1,1 @@
+DNS can handle load balancing and failover for web services by using techniques such as round-robin DNS (multiple IP addresses for a domain) to distribute traffic across multiple servers and DNS-based failover solutions that switch to backup servers during outages.

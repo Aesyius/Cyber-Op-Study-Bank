@@ -1,0 +1,1 @@
+The performance of regex patterns can vary based on factors such as pattern complexity, input text size, and the efficiency of the regex engine or implementation. Complex patterns or large input texts may impact performance, requiring optimization techniques.

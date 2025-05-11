@@ -1,0 +1,1 @@
+Testing firewall rules in a staging environment before deployment helps identify potential issues and ensures that the rules function as intended. This reduces the risk of disruptions in the production environment.

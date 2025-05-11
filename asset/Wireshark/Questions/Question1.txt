@@ -1,0 +1,1 @@
+What is Wireshark, and what is its primary purpose in network analysis?

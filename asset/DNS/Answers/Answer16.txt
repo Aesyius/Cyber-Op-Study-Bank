@@ -1,0 +1,1 @@
+Common DNS-related security threats include DNS spoofing, DNS cache poisoning, DNS amplification attacks, DDoS (Distributed Denial of Service) attacks targeting DNS infrastructure, and DNS hijacking. These threats can be mitigated by using DNSSEC, implementing DNS firewalling, monitoring DNS traffic, and securing DNS servers.

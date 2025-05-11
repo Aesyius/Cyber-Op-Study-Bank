@@ -1,0 +1,1 @@
+Man-in-the-middle (MitM) attacks intercept and manipulate communication between two parties without their knowledge, allowing attackers to eavesdrop, modify, or steal sensitive information exchanged between them. MitM attacks can occur in network communications, web browsing sessions, email exchanges, or encrypted connections, posing risks to data confidentiality and integrity.

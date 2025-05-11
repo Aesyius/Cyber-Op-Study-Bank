@@ -1,0 +1,1 @@
+Endpoint security refers to the protection of individual devices, such as computers, mobile phones, and other endpoints, from cyber threats. It is crucial for protecting organizational assets because endpoints are often the most vulnerable targets for attackers seeking to gain unauthorized access to a network.

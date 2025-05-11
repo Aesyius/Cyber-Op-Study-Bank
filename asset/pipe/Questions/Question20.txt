@@ -1,0 +1,1 @@
+How can you troubleshoot issues related to command-line pipes, such as unexpected output or behavior?

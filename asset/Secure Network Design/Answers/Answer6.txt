@@ -1,0 +1,1 @@
+Encryption in secure network design protects data in transit and at rest from unauthorized access. It ensures that even if data is intercepted, it remains unreadable without the decryption keys.

@@ -1,0 +1,1 @@
+The three main phases of the Unified Kill Chain model are 'In,' 'Through,' and 'Out.' These phases represent different stages of a cyber attack, from initial infiltration to the execution of malicious activities and eventual exfiltration or exit.

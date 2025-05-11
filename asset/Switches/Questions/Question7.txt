@@ -1,0 +1,1 @@
+How do switches handle broadcast traffic?

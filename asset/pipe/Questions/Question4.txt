@@ -1,0 +1,1 @@
+Explain the significance of the stdout (standard output) and stdin (standard input) streams in command- line pipes.

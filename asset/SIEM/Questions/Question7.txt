@@ -1,0 +1,1 @@
+Describe the process of event normalization in a SIEM system.

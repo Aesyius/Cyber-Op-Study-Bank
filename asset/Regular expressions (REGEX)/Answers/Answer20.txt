@@ -1,0 +1,1 @@
+Resources and tools for learning and mastering regex patterns and techniques include online tutorials, regex cheat sheets, interactive regex playgrounds, regex testing tools (e.g., RegExr, Regex101), and books specifically focused on regex fundamentals and advanced topics.

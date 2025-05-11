@@ -1,0 +1,1 @@
+Integrating network security policies into the design process ensures that security considerations are addressed from the outset. Policies guide the implementation of controls and practices throughout the network lifecycle.

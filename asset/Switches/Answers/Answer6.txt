@@ -1,0 +1,1 @@
+Common types of switches include unmanaged switches, managed switches, Layer 2 switches, and Layer 3 switches. Each type serves different needs and levels of control in a network.

@@ -1,0 +1,1 @@
+DHCP snooping is a security feature that filters DHCP messages and blocks rogue DHCP servers on a network. It helps prevent unauthorized devices from assigning IP addresses or misconfiguring the network.

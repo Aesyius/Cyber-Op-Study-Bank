@@ -1,0 +1,1 @@
+Mail server performance can be monitored using server logs, performance metrics, and diagnostic tools like mailq (for viewing mail queues), telnet (for testing connectivity), and real-time monitoring dashboards for mail flow and delivery success.

@@ -1,0 +1,1 @@
+The "Redirect" ICMP message is used to inform a host that there is a better route available for sending data. This occurs when a router detects a more optimal path to the destination than the one currently being used.

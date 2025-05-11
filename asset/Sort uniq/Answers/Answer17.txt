@@ -1,0 +1,1 @@
+To reverse sort using the "sort" command and remove adjacent duplicate lines using the "uniq" command, you can combine options like this: sort -r file.txt | uniq

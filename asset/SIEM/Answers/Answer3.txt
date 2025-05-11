@@ -1,0 +1,1 @@
+SIEM systems collect and analyze various types of data, including log data from network devices, servers, and applications, event data related to security activities, and network traffic data to monitor and identify anomalies.

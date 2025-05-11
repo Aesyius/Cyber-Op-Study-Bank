@@ -1,0 +1,1 @@
+HTTP cookies are small pieces of data sent by a web server to a client browser and stored locally. They are used for session management, tracking user preferences, maintaining state between requests, and implementing features like shopping carts or user authentication.

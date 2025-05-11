@@ -1,0 +1,1 @@
+HTTP headers in requests and responses provide additional metadata and instructions for handling the HTTP message, such as content type, content length, caching directives, authentication information, and more.

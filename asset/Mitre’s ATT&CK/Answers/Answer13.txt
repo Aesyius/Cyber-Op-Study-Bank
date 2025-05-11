@@ -1,0 +1,1 @@
+‘Data sources’ in the context of MITRE ATT&CK refer to the types of security data and logs that can be used to detect and investigate techniques. They are important because they provide the evidence needed to identify and analyze adversary actions.

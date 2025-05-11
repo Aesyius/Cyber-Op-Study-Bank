@@ -1,0 +1,1 @@
+Kerberos ensures secure communication between the client and a service by encrypting the service ticket and session keys. The session key is used to encrypt subsequent communications between the client and the service.

@@ -1,0 +1,1 @@
+CyberChef offers visualization tools and features for analyzing data structures, including: ●Frequency analysis to visualize the occurrence of characters or patterns in data. ●Bar charts to display data distribution and value frequencies. ●Heatmaps to represent data patterns and relationships visually.

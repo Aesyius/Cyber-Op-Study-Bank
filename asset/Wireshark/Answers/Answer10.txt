@@ -1,0 +1,1 @@
+Packet dissection and protocol decoding in Wireshark involve breaking down captured packets into their constituent parts (headers, payloads, etc.) and decoding protocol-specific information to analyze packet contents and behavior.

@@ -1,0 +1,1 @@
+The DHCPDISCOVER message is a broadcast sent by a client to locate DHCP servers on the network. It’s the first step in the DHCP process.

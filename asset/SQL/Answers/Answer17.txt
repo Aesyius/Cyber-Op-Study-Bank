@@ -1,0 +1,1 @@
+Transactions in SQL databases are sequences of operations (e.g., INSERT, UPDATE, DELETE) that are treated as a single unit of work. They ensure data consistency and integrity by allowing either all operations within the transaction to succeed (commit) or none of them to succeed (rollback) if an error occurs.

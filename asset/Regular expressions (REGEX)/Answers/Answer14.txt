@@ -1,0 +1,1 @@
+Regex implementation may vary slightly between programming languages due to differences in syntax, supported features, and optimizations. However, the core principles of regex remain consistent across languages.

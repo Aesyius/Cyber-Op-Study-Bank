@@ -1,0 +1,1 @@
+tcpdump plays a role in intrusion detection systems (IDS) by capturing and analyzing network traffic for suspicious or malicious activity, generating alerts or logs based on predefined rules or signatures. It also supports network forensics investigations by providing detailed packet-level data for incident response and forensic analysis.

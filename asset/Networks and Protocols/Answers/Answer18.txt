@@ -1,0 +1,1 @@
+Network devices such as routers and switches operate across multiple layers of the OSI model by examining and forwarding data based on the information in the headers or trailers added at each layer.

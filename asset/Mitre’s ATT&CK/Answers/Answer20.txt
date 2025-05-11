@@ -1,0 +1,1 @@
+Examples of how MITRE ATT&CK has been applied in real-world incident analysis include using the framework to investigate specific attacks, identify the techniques used by adversaries, and improve detection and response capabilities based on documented attack methods. This practical application helps in refining security practices and enhancing overall defense strategies.

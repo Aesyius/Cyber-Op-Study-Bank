@@ -1,0 +1,1 @@
+Scripting in Zeek allows for flexibility in customizing monitoring and analysis tasks. Users can write scripts to define custom analyzers, alerting rules, logging behaviors, and response actions based on specific network conditions and security requirements.

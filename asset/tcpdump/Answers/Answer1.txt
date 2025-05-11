@@ -1,0 +1,1 @@
+tcpdump is a command-line packet analyzer available on Unix-like operating systems, including Linux and macOS. Its primary purpose in network analysis is to capture and analyze network packets in real-time or from saved capture files.

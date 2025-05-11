@@ -1,0 +1,1 @@
+The pipe "|" operator in Linux and Unix command lines is used to connect the standard output (stdout) of one command to the standard input (stdin) of another command, allowing for the seamless flow of data between commands.

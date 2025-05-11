@@ -1,0 +1,1 @@
+What are the main components of the Kerberos authentication protocol?

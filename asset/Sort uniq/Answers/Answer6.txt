@@ -1,0 +1,1 @@
+The "sort" command can handle case sensitivity in sorting using the "-f" option. When this option is used, uppercase and lowercase letters are considered equivalent in sorting.

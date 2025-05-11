@@ -1,0 +1,1 @@
+Conditional statements in programming allow for decision-making based on specified conditions. Examples include if-else statements, which execute different code blocks based on true or false conditions, and switch-case statements, which provide multiple alternative paths based on the value of an expression.

@@ -1,0 +1,1 @@
+Fuzzy hashing is more useful for identifying variants of files that are similar but not identical. For example, it is effective in detecting malware variants that share some code but have been modified slightly to avoid detection.

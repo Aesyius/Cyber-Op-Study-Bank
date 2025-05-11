@@ -1,0 +1,1 @@
+In multi-subnet networks, DHCP relay agents forward DHCP messages between clients and DHCP servers across different subnets. They help extend DHCP services beyond local subnets by relaying DHCP Discover, Request, and Acknowledge messages between clients and remote DHCP servers.

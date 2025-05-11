@@ -1,0 +1,1 @@
+A router’s DHCP service in a LAN automatically assigns IP addresses to devices as they connect. In a WAN, DHCP can be more complex due to multiple subnets and the need to coordinate IP assignments across various locations.

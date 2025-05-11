@@ -1,0 +1,1 @@
+Common SMTP error codes and their meanings include: ●550: Requested action not taken - mailbox unavailable (e.g., recipient email address does not exist). ●554: Transaction failed (e.g., message content or attachments are not allowed). ●421: Service not available, closing transmission channel (temporary server error).

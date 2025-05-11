@@ -1,0 +1,1 @@
+ICMP plays a role in Path MTU Discovery by helping discover the maximum packet size that can be transmitted without fragmentation. If a packet is too large, an ICMP "Fragmentation Needed" message is sent back, prompting the sender to reduce the size of the packets.

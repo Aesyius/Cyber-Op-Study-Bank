@@ -1,0 +1,1 @@
+A DHCP scope defines a range of IP addresses that the DHCP server can assign to clients. It also includes information like the subnet mask, gateway, and lease duration for that range.

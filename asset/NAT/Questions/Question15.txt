@@ -1,0 +1,1 @@
+What are some NAT traversal techniques used for VPN (Virtual Private Network) connections?

@@ -1,0 +1,1 @@
+How does Wireshark handle protocol statistics and traffic trends analysis?

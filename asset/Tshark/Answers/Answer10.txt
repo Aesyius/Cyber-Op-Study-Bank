@@ -1,0 +1,1 @@
+TShark can generate statistical summaries and reports from captured packets using options such as -z (statistics) and -q (quiet mode). For example, to generate statistics on HTTP traffic, you can use: tshark -r capture.pcap -qz io,phs

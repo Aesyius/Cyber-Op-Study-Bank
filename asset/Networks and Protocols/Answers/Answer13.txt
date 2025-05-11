@@ -1,0 +1,1 @@
+The Network Layer (Layer 3) of the OSI model is responsible for logical addressing and routing.

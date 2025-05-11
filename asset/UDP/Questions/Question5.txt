@@ -1,0 +1,1 @@
+What is the advantage of using UDP for real-time applications?

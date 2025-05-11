@@ -1,0 +1,1 @@
+How do endpoint security solutions handle zero-day vulnerabilities?

@@ -1,0 +1,1 @@
+Some differences between IPv4 and IPv6 datagrams include the header structure (IPv6 has a simplified header format), address length (IPv6 addresses are 128 bits compared to IPv4's 32 bits), and support for features like autoconfiguration and flow labeling in IPv6.

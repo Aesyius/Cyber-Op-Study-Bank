@@ -1,0 +1,1 @@
+Common routing protocols for LANs include RIP (Routing Information Protocol) and OSPF (Open Shortest Path First). In contrast, WANs often use BGP (Border Gateway Protocol) to manage routing decisions between different autonomous systems.

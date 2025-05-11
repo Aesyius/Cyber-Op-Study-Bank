@@ -1,0 +1,1 @@
+Explain how an application-layer firewall functions.

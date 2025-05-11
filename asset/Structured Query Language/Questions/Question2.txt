@@ -1,0 +1,1 @@
+What are the different types of SQL statements, and what categories do they fall into?

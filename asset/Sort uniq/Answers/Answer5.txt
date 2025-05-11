@@ -1,0 +1,1 @@
+Examples of using the "sort" command: ●Sort a file alphabetically: sort file.txt ●Sort a file numerically: sort -n numbers.txt

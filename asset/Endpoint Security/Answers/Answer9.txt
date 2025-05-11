@@ -1,0 +1,1 @@
+Securing mobile devices is essential as part of an endpoint security strategy because mobile devices often contain sensitive data and can be easily lost or stolen. Mobile device management (MDM) solutions and security policies help protect these devices and the data they access.

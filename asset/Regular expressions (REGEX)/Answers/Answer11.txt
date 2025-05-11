@@ -1,0 +1,1 @@
+Backreferences in regex refer to capturing groups and allow you to reuse matched substrings within the same pattern. They are denoted by "", "", etc., referencing the first, second, etc., capturing group.

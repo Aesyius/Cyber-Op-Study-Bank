@@ -1,0 +1,1 @@
+DHCP options are additional parameters that DHCP servers can provide to clients, such as domain name, DNS server addresses, time server addresses, and network boot parameters. These options enhance DHCP communication by customizing network settings based on client requirements.

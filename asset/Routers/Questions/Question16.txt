@@ -1,0 +1,1 @@
+How do routers handle IPv4 and IPv6 traffic in both LAN and WAN settings?

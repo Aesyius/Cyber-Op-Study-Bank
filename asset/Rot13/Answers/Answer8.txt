@@ -1,0 +1,1 @@
+ROT13 is a straightforward form of substitution cipher where each letter in the plaintext is substituted with a corresponding letter 13 positions away in the alphabet. It is often used for basic text obfuscation and casual encryption needs.

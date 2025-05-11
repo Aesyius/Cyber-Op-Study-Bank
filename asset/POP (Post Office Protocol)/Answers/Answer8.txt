@@ -1,0 +1,1 @@
+POP authentication methods used for accessing email accounts securely include: ●Plain text authentication: The client sends the username and password in plain text to the server for authentication. ●APOP (Authenticated Post Office Protocol): APOP uses encrypted authentication based on MD5 hashing, providing a more secure authentication method compared to plain text.

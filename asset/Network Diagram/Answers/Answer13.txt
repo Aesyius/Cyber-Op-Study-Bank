@@ -1,0 +1,1 @@
+A network topology refers to the physical or logical arrangement of devices, connections, and communication paths in a network. It can be represented in a network diagram using topology symbols and icons to show the network's structure, layout, and connectivity.

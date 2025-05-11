@@ -1,0 +1,1 @@
+What are some common use cases for the "cut" command in shell scripting and data manipulation tasks?

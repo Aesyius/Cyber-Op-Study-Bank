@@ -1,0 +1,1 @@
+PowerShell is more advanced than the Command Prompt because it offers a rich set of commands called cmdlets, supports scripting, integrates with .NET, and allows interaction with system objects like services and registry entries, whereas Command Prompt is more limited to basic command-line functionality.

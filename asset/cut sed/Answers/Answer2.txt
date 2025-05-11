@@ -1,0 +1,1 @@
+The syntax of the "cut" command is: cut OPTION... [FILE]... Commonly used options include: ●"-f" or "--fields": Specify which fields to extract. ●"-d" or "--delimiter": Specify the delimiter character that separates fields. ●"-s" or "--only-delimited": Suppress lines without delimiters.

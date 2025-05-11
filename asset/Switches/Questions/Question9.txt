@@ -1,0 +1,1 @@
+Explain the concept of Spanning Tree Protocol (STP) and its importance in preventing loops in a network.

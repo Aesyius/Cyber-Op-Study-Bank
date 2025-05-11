@@ -1,0 +1,1 @@
+A DHCP lease is the duration of time that an IP address is assigned to a device by the DHCP server. The lease is temporary and can be renewed, released, or reassigned after expiration.

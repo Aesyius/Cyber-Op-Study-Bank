@@ -1,0 +1,1 @@
+Describe any weaknesses or vulnerabilities of the ROT13 cipher in terms of security.

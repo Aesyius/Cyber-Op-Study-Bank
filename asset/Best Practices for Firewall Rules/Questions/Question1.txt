@@ -1,0 +1,1 @@
+What is the principle of least privilege and how does it apply to firewall rules?

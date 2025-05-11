@@ -1,0 +1,1 @@
+Network zones in firewall policies refer to segments of the network with distinct security levels and policies. Traffic between zones is controlled by firewall rules, enhancing security through segmentation.

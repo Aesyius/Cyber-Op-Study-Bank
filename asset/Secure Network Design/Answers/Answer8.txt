@@ -1,0 +1,1 @@
+Secure network design helps achieve regulatory compliance by implementing necessary security controls, such as encryption, access controls, and logging. Compliance frameworks often require specific measures to protect data and ensure privacy.

@@ -1,0 +1,1 @@
+Key indicators of compromise (IoCs) observed in the 'In' phase might include unusual login attempts, phishing emails, or exploitation of known vulnerabilities. These IoCs help in detecting and preventing initial access attempts by adversaries.

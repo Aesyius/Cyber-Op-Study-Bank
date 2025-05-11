@@ -1,0 +1,1 @@
+In digital forensics and incident response investigations, CyberChef can be used for tasks such as decoding encoded data, extracting information from forensic artifacts, analyzing log files, and processing data from captured network traffic.

@@ -1,0 +1,1 @@
+Network taps have minimal impact on network performance compared to other monitoring solutions, as they do not introduce latency or bottlenecks. This is especially important in high-speed environments where packet loss can occur with less efficient monitoring tools.

@@ -1,0 +1,1 @@
+The Network Layer in the OSI model is responsible for logical addressing and routing. Common protocols used at this layer include IP (Internet Protocol), ICMP (Internet Control Message Protocol), and routing protocols like OSPF and BGP.

@@ -1,0 +1,1 @@
+In Python, you define classes using the class keyword, and you create objects (instances) of a class using the class name followed by parentheses. Classes can have methods (functions) and attributes (variables) that define their behavior and state.

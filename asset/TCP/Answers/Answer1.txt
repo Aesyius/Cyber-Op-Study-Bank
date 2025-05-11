@@ -1,0 +1,1 @@
+TCP stands for Transmission Control Protocol. Its primary function is to provide reliable, ordered, and error-checked delivery of data packets between devices over a network.

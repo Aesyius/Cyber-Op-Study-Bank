@@ -1,0 +1,1 @@
+SMTP (Simple Mail Transfer Protocol) is a protocol used for sending and routing email messages between mail servers. Its primary purpose in email communication is to handle the transmission of emails from the sender's email client or server to the recipient's email server.

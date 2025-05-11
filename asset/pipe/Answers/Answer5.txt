@@ -1,0 +1,1 @@
+Examples of using the pipe operator to filter and process text data: ●List files in a directory and filter for specific files: ls -l | grep ".txt" ●Count the number of lines in a file: cat file.txt | wc -l

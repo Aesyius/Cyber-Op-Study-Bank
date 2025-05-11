@@ -1,0 +1,1 @@
+How does NAT interact with IPv4 and IPv6 protocols?

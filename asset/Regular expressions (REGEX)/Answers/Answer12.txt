@@ -1,0 +1,1 @@
+Common regex functions or methods in programming languages and text editors include "match()", "search()", "findall()", "replace()", and "split()". Each of these functions serves different purposes in regex-based operations.

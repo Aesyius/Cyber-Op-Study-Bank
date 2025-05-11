@@ -1,0 +1,1 @@
+DHCP servers can be configured for fault tolerance by using techniques such as failover clustering, load balancing, or configuring multiple DHCP servers in different segments. This ensures continuity if one server goes down.

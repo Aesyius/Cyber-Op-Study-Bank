@@ -1,0 +1,1 @@
+An Intrusion Prevention System (IPS) enhances the capabilities of an IDS by not only detecting threats but also taking proactive measures to prevent or block malicious activities in real-time. It actively responds to detected threats by blocking or mitigating malicious traffic.

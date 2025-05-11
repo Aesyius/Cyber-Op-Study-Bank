@@ -1,0 +1,1 @@
+The installation stage of the Cyber Kill Chain focuses on establishing persistence and maintaining access to the compromised system. Attackers may install backdoors, rootkits, or remote access trojans (RATs) to ensure ongoing control and stealthy operation.

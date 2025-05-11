@@ -1,0 +1,1 @@
+ACLs are applied to network interfaces on routers and switches by configuring the ACL on the interface and specifying the direction (inbound or outbound) in which the ACL should be applied. This determines how traffic is filtered as it enters or exits the interface.

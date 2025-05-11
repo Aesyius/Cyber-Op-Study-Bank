@@ -1,0 +1,1 @@
+Dynamic DNS (DDNS) allows the automatic update of a DNS record’s IP address as it changes. It’s commonly used for home networks or small businesses with dynamically assigned IP addresses from their ISP.

@@ -1,0 +1,1 @@
+HTTPS handles encryption and decryption of data transmitted over the network using SSL/TLS protocols, ensuring that data is encrypted before transmission and decrypted upon receipt, protecting it from unauthorized access.

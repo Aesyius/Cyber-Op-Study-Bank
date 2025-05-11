@@ -1,0 +1,1 @@
+What are some common pitfalls or issues to watch out for when using the "cut" and "sed" commands?

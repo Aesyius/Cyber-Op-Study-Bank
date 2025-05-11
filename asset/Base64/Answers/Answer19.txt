@@ -1,0 +1,1 @@
+Base64 encoding can be combined with encryption techniques (e.g., AES encryption) for secure data transmission. In such cases, the data is first encrypted using encryption algorithms and then encoded in Base64 format for compatibility with text-based protocols or systems.

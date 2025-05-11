@@ -1,0 +1,1 @@
+If an ARP request is broadcasted but no reply is received, the sending device may not be able to communicate with the target device. This situation can occur due to network issues, misconfiguration, or the target device being offline or unreachable.

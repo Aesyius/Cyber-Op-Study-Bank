@@ -1,0 +1,1 @@
+The syntax of the "sed" command is: sed OPTIONS... [SCRIPT] [INPUTFILE...] Commonly used options include: ●"-e SCRIPT" or "-f SCRIPTFILE": Specify the script or script file for sed operations. ●"-i" or "--in-place": Edit files in place (without creating backups).

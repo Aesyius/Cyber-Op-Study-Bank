@@ -1,0 +1,1 @@
+DHCP lease time specifies the duration for which a DHCP client can use the assigned IP address before needing renewal. Lease times can be configured to balance network efficiency, address availability, and client connectivity stability.

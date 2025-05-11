@@ -1,0 +1,1 @@
+Having multiple domain controllers enhances redundancy and availability, as user authentication requests can be distributed across several servers. It also improves fault tolerance; if one domain controller fails, others can still handle authentication and directory queries.

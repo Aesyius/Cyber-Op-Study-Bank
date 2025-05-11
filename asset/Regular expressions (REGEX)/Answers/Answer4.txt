@@ -1,0 +1,1 @@
+Greedy matching in regex means that the pattern matches as much text as possible, while non-greedy or lazy matching matches as little text as possible. Greedy quantifiers like "" and "+" match as much as they can, while their non-greedy counterparts like "?" and "+?" match as little as possible.

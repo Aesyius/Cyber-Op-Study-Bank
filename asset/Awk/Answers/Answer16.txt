@@ -1,0 +1,1 @@
+Arrays in "awk" commands allow for storing and manipulating data in indexed or associative arrays. They are advantageous for storing data sets, performing lookups, and aggregating information during text processing tasks.

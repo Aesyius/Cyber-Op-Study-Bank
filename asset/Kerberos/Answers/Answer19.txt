@@ -1,0 +1,1 @@
+Kerberos integrates with Active Directory (AD) by providing authentication services within a Windows domain environment. AD serves as the Key Distribution Center (KDC), and Kerberos is the default authentication protocol in Windows domains.

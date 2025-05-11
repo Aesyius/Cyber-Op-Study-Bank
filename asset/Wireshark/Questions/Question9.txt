@@ -1,0 +1,1 @@
+How does Wireshark handle encrypted traffic, and what limitations exist in analyzing encrypted packets?

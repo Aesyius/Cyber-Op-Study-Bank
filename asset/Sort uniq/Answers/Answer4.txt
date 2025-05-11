@@ -1,0 +1,1 @@
+Sorting based on characters means sorting the entire line based on the ASCII values of characters in the line. Sorting based on fields using the "-k" option allows sorting based on specific fields within each line, which can be useful when dealing with structured data like CSV files.

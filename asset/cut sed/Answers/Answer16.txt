@@ -1,0 +1,1 @@
+Examples of using "sed" include: ●Replace a word in a file: sed 's/old_word/new_word/' filename ●Delete lines containing a specific pattern: sed '/pattern/d' filename ●Perform a global substitution in a file: sed 's/pattern/replacement/g' filename

@@ -1,0 +1,1 @@
+Access control lists (ACLs) on file servers define which users or groups can access certain files or directories and what actions they can perform. ACLs are essential for ensuring that only authorized personnel can access sensitive data.

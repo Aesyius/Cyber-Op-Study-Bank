@@ -1,0 +1,1 @@
+Security considerations when using Base64 encoding for sensitive data include: ●Base64 encoding does not provide encryption or data protection. It only represents data in a different format but does not secure the data itself. ●Avoid encoding sensitive information (such as passwords, cryptographic keys) without additional encryption or protection mechanisms.

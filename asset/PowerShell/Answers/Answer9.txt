@@ -1,0 +1,1 @@
+To retrieve information about the system's running processes, use the Get-Process cmdlet. It provides details like process ID, name, CPU usage, and memory consumption, helping you monitor system performance and identify problematic processes.

@@ -1,0 +1,1 @@
+ARP and ICMP (Internet Control Message Protocol) are closely related as ICMP includes messages like ICMP Echo Request/Reply (ping) used to test network connectivity and ARP includes ICMP messages for address resolution and error reporting.

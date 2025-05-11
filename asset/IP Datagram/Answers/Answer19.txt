@@ -1,0 +1,1 @@
+The IPv6 flow label field in IPv6 datagrams helps provide quality of service (QoS) by allowing routers to prioritize and handle specific traffic flows based on the flow label value. It enhances network performance and traffic management.

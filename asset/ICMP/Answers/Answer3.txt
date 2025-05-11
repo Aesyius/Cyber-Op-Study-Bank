@@ -1,0 +1,1 @@
+An ICMP Echo Request is used to check the availability of a network device, while the Echo Reply is the response confirming the device is reachable. This pair is most commonly used in the ping command to test connectivity between devices.

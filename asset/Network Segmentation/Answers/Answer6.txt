@@ -1,0 +1,1 @@
+Network segmentation helps in containing a security breach by isolating the affected segment from the rest of the network. This containment prevents the attacker from moving laterally and accessing other parts of the network.

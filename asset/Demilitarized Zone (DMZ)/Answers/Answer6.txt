@@ -1,0 +1,1 @@
+Common services hosted in a DMZ include web servers, FTP servers, email servers, and VPN gateways. These services need to be accessible from the internet while being isolated from internal resources.

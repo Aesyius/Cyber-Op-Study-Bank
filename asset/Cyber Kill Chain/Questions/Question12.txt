@@ -1,0 +1,1 @@
+Explain the installation stage in the Cyber Kill Chain and how attackers establish persistence.

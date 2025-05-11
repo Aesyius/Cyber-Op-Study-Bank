@@ -1,0 +1,1 @@
+Describe the purpose of exception handling in programming and how it helps manage errors.

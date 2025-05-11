@@ -1,0 +1,1 @@
+A stored procedure is a precompiled collection of SQL statements stored in the database. It can accept parameters and is used to encapsulate complex operations. A function, on the other hand, typically returns a single value and is used within expressions.

@@ -1,0 +1,1 @@
+A forward DNS lookup converts a domain name to an IP address, while a reverse DNS lookup converts an IP address back to a domain name. Forward lookups use A or AAAA records, while reverse lookups use PTR (Pointer) records.

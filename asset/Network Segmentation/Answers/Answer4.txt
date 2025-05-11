@@ -1,0 +1,1 @@
+VLANs (Virtual Local Area Networks) allow for logical segmentation of networks at the data link layer. They enable devices on separate VLANs to be logically separated even if they are physically connected to the same network infrastructure.

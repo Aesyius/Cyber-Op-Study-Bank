@@ -1,0 +1,1 @@
+In a VPN setup, a firewall controls and monitors the traffic between the VPN gateway and the internal network. It ensures that only authorized VPN connections are allowed and helps protect internal resources from potential threats.

@@ -1,0 +1,1 @@
+How can network monitoring capabilities in virtual environments aid in understanding the behavior of a malicious file?

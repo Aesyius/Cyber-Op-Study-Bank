@@ -1,0 +1,1 @@
+Pipes can be combined with redirection operators (">" for output and "<" for input) to manage input and output streams. For example, redirecting the output of a piped command sequence to a file: command1 | command2 > output.txt

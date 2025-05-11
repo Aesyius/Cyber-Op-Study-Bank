@@ -1,0 +1,1 @@
+Firewall rules are prioritized and processed based on their order in the rule set. Typically, the firewall processes rules from top to bottom and applies the first rule that matches the traffic criteria.

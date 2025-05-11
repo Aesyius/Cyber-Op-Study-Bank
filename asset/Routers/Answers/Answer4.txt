@@ -1,0 +1,1 @@
+NAT allows routers to translate private IP addresses in a LAN to a public IP address for WAN communication. This helps conserve IP addresses and enhances security by hiding internal network structures.

@@ -1,0 +1,1 @@
+An Access Control List (ACL) is a set of rules used to control network traffic and permissions on network devices or systems. Its primary purpose is to specify which users or systems are allowed or denied access to certain resources or network segments.

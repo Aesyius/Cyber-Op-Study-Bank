@@ -1,0 +1,1 @@
+The Network Interface Layer in the TCP/IP model is responsible for interfacing with the physical network medium. It handles protocols and technologies such as Ethernet, Wi-Fi (IEEE 802.11), MAC addresses, and network interface cards (NICs).

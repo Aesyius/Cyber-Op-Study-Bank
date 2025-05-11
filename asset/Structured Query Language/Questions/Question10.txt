@@ -1,0 +1,1 @@
+What is normalization in the context of databases, and why is it used?

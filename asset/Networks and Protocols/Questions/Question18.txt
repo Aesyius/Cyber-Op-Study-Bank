@@ -1,0 +1,1 @@
+How do network devices such as routers and switches operate across multiple layers of the OSI model?

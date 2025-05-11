@@ -1,0 +1,1 @@
+The security implications of using public cloud services compared to private cloud services include a higher risk of data breaches in public clouds due to shared infrastructure. However, public clouds are often managed by providers with advanced security expertise, while private clouds offer more control but require more effort to secure.

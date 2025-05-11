@@ -1,0 +1,1 @@
+Explain the role of SMTP commands (e.g., HELO, MAIL, RCPT, DATA) in the email sending process.

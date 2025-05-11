@@ -1,0 +1,1 @@
+Typical components found in a DMZ include web servers, email servers, DNS servers, and other public-facing services. These components handle external requests while being isolated from the internal network.

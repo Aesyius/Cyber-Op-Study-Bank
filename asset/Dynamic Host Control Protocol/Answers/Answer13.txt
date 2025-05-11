@@ -1,0 +1,1 @@
+DHCP options are additional configuration parameters that the server provides to clients, such as the default gateway, DNS servers, or specific policies. These options allow for more detailed configuration.

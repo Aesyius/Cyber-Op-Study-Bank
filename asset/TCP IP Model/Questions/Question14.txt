@@ -1,0 +1,1 @@
+Explain how the TCP/IP model facilitates communication between devices on different networks.

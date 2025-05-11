@@ -1,0 +1,1 @@
+Sequence numbers in TCP communication are used to order and identify data segments. They ensure that data is received in the correct sequence and allow for reliable data delivery and reassembly at the receiving end.

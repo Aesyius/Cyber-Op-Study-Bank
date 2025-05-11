@@ -1,0 +1,1 @@
+The primary purpose of the Physical Layer in the OSI model is to transmit raw data bits over a physical medium. Devices such as network cables, hubs, and network interface cards (NICs) operate at this layer.

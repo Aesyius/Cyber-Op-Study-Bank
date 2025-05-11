@@ -1,0 +1,1 @@
+Power over Ethernet (PoE) allows switches to deliver electrical power along with data over Ethernet cables. This is useful for powering devices like IP cameras, phones, and access points without needing separate power sources.

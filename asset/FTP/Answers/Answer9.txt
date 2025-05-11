@@ -1,0 +1,1 @@
+FTP servers host files and provide access to them for FTP clients, which are software applications or tools used by users to connect to FTP servers, upload/download files, and perform file management tasks.

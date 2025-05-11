@@ -1,0 +1,1 @@
+DNSSEC (Domain Name System Security Extensions) is a set of security protocols that add cryptographic authentication and integrity checks to DNS responses. It ensures that DNS data is not modified or tampered with during transmission, enhancing DNS security.

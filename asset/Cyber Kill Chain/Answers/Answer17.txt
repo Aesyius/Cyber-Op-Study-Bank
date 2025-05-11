@@ -1,0 +1,1 @@
+Some common objectives or outcomes sought by attackers in the actions on objectives stage include stealing sensitive data (e.g., intellectual property, customer information), disrupting business operations (e.g., DDoS attacks), causing reputational damage, financial fraud (e.g., unauthorized transactions), or espionage (e.g., spying on communications).

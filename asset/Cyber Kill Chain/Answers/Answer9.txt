@@ -1,0 +1,1 @@
+Common delivery methods used by attackers in the Cyber Kill Chain include phishing emails, watering hole attacks, malvertising (malicious advertising), and exploiting software vulnerabilities in web servers or applications.

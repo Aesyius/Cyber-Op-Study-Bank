@@ -1,0 +1,1 @@
+Examples of using tcpdump to capture specific protocols or traffic patterns include: ●Capturing HTTP traffic on port 80: tcpdump port 80 ●Capturing SSH traffic from a specific IP address: tcpdump src host 192.168.1.100 and port 22 ●Capturing DNS traffic: tcpdump udp port 53

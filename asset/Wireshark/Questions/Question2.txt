@@ -1,0 +1,1 @@
+In what scenarios is Wireshark most effective for network traffic analysis, and where might it fall short compared to other network analysis tools?

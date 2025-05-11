@@ -1,0 +1,1 @@
+The pipe operator connects commands in a way that the output of the command on the left side of the pipe is passed as input to the command on the right side. This creates a chain or pipeline of commands where each command processes the data received from the previous command.

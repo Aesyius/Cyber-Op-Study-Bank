@@ -1,0 +1,1 @@
+What are SQL injection attacks, and how do they exploit vulnerabilities in web applications?

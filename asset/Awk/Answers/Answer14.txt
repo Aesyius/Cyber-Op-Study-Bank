@@ -1,0 +1,1 @@
+"awk" can be used with regular expressions (regex) for advanced text matching and processing. Regex patterns allow for flexible and complex pattern matching, such as matching patterns within specific fields or lines.

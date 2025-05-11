@@ -1,0 +1,1 @@
+Explain the concept of "operations" in CyberChef and how they are applied to data.

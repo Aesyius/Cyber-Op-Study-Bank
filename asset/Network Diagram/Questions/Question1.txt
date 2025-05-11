@@ -1,0 +1,1 @@
+What is a network diagram, and what is its purpose in network design and documentation?

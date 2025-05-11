@@ -1,0 +1,1 @@
+Explain the concept of a distributed denial-of-service (DDoS) attack and its impact on targeted systems.

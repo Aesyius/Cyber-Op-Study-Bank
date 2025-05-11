@@ -1,0 +1,1 @@
+Inbound firewall rules control traffic entering the network from external sources, while outbound firewall rules control traffic leaving the network. Proper configuration of both types of rules is essential for comprehensive security.

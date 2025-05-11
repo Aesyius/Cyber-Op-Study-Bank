@@ -1,0 +1,1 @@
+Base64 encoding handles non-printable and special characters by representing them using a set of 64 printable ASCII characters, including letters (uppercase and lowercase), digits, and two additional characters (usually + and /). These characters are safe for transmission across various systems and protocols.

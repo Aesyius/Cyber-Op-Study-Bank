@@ -1,0 +1,1 @@
+Authoritative DNS servers store and provide authoritative DNS records for specific domains, while recursive DNS servers resolve DNS queries on behalf of clients by querying authoritative DNS servers. They serve different roles in the DNS resolution process.

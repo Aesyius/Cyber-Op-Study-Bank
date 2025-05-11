@@ -1,0 +1,1 @@
+Describe the role of HTTPS in complying with data protection regulations (e.g., GDPR).

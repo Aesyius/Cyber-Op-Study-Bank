@@ -1,0 +1,1 @@
+In Kerberos, symmetric encryption is used for encrypting tickets and messages between the client, KDC, and services. Both parties share the same key, as opposed to asymmetric encryption, where different keys are used for encryption and decryption.

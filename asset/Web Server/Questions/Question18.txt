@@ -1,0 +1,1 @@
+What is cross-site scripting (XSS), and how can a web server prevent it?

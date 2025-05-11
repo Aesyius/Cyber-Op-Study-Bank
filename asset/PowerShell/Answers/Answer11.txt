@@ -1,0 +1,1 @@
+To write text to a file in PowerShell, you can use cmdlets like Out-File, Set-Content, or Add-Content. For example, Set-Content -Path "filename.txt" -Value "Hello, World!" writes text to the file.

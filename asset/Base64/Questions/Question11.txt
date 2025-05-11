@@ -1,0 +1,1 @@
+Describe the process of decoding Base64-encoded data back to its original binary form.

@@ -1,0 +1,1 @@
+Describe the "sort" command's handling of special characters and whitespace.

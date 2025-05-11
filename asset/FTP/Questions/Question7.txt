@@ -1,0 +1,1 @@
+Explain the FTP data transfer modes: ASCII mode and binary mode.

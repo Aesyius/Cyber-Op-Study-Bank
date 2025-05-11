@@ -1,0 +1,1 @@
+How does POP handle email deletion and message storage on the server?

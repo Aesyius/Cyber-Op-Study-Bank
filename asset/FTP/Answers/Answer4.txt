@@ -1,0 +1,1 @@
+FTP authenticates users during the login process using usernames and passwords. Depending on the FTP server configuration, authentication may also involve additional security measures such as SSL/TLS certificates or SSH keys for secure connections.

@@ -1,0 +1,1 @@
+Special characters and whitespace are treated like any other characters by the "sort" command unless specific options are used to handle them differently.

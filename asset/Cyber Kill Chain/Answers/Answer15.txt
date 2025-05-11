@@ -1,0 +1,1 @@
+Attackers establish and maintain command and control channels using techniques such as remote access tools, encrypted communications (e.g., HTTPS, DNS tunneling), covert channels (e.g., steganography), and compromised legitimate services (e.g., cloud storage).

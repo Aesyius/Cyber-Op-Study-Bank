@@ -1,0 +1,1 @@
+Common mistakes or pitfalls when using regex include overcomplicating patterns, forgetting to escape special characters, neglecting edge cases, and inefficient patterns leading to poor performance.

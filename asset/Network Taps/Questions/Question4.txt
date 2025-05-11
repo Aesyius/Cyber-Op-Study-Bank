@@ -1,0 +1,1 @@
+How does a network tap differ from a network switch in terms of functionality?

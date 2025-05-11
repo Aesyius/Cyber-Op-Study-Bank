@@ -1,0 +1,1 @@
+Common protocols used by file servers include SMB (Server Message Block), NFS (Network File System), and FTP (File Transfer Protocol). These protocols allow users to access, transfer, and manage files over a network.

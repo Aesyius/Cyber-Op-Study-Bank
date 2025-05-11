@@ -1,0 +1,1 @@
+Common security measures on mail servers include encryption (SSL/TLS), anti-spam filters, anti-virus scanning, and authentication protocols (SMTP-AUTH, STARTTLS) to protect against spam, malware, and unauthorized access.

@@ -1,0 +1,1 @@
+Segmentation fits into a secure network design by creating isolated segments for different functions or departments. This limits the spread of attacks and enforces access controls.

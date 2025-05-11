@@ -1,0 +1,1 @@
+If the Key Distribution Center (KDC) is compromised, the attacker can issue valid tickets and impersonate any user or service, gaining access to the entire network. This makes the KDC a critical security asset.

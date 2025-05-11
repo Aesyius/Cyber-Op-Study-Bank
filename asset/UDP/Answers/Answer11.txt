@@ -1,0 +1,1 @@
+The maximum size of a UDP datagram is limited by the maximum transmission unit (MTU) of the underlying network. In IPv4 networks, this is typically around 1500 bytes, while in IPv6 networks, it can be larger.

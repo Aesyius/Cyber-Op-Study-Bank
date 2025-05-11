@@ -1,0 +1,1 @@
+What is Dynamic DNS (DDNS), and how does it function?

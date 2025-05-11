@@ -1,0 +1,1 @@
+Key principles of secure network design include defense in depth, least privilege, segmentation, redundancy, and strong access controls. These principles ensure comprehensive protection against various threats.

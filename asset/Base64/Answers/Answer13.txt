@@ -1,0 +1,1 @@
+Base64 encoding contributes to data obfuscation by transforming binary data into a format that is not immediately recognizable as the original data. However, it is not a secure method for data protection or anti-reverse engineering on its own.

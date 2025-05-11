@@ -1,0 +1,1 @@
+IPv4 handles addressing and routing within a network by using IP addresses for devices and routing tables in routers. Devices use subnetting and routing protocols (such as RIP, OSPF, BGP) to determine the best path for forwarding datagrams.

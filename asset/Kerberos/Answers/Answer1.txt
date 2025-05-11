@@ -1,0 +1,1 @@
+Kerberos is a network authentication protocol designed to provide secure authentication for users and services on a network. It uses secret-key cryptography and relies on a trusted third party to authenticate clients and services, preventing eavesdropping and replay attacks.

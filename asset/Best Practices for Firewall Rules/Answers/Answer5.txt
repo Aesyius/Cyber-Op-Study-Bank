@@ -1,0 +1,1 @@
+Using specific rather than broad firewall rules enhances security by limiting access to only what is necessary. Specific rules reduce the risk of unauthorized access and minimize the attack surface.

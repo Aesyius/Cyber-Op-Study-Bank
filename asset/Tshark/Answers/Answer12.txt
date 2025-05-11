@@ -1,0 +1,1 @@
+Some advanced features in TShark for packet filtering, slicing, and stream analysis include: ●Advanced display filters using complex expressions and logical operators. ●Packet slicing to extract specific parts of packets for analysis (e.g., headers, payloads). ●Stream analysis for examining TCP or UDP conversations, including follow streams and export streams options.

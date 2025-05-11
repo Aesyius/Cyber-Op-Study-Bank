@@ -1,0 +1,1 @@
+A print server manages printer drivers by ensuring that each connected client has the correct driver installed. It also handles printer configurations, allowing centralized control over printer settings and resources.

@@ -1,0 +1,1 @@
+Provide an example of a device or technology that operates primarily at the Physical Layer of the OSI model.

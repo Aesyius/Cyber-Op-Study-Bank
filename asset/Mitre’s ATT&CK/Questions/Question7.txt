@@ -1,0 +1,1 @@
+How does MITRE ATT&CK categorize the different stages of an attack?

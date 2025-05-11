@@ -1,0 +1,1 @@
+Key components typically included in a network diagram are devices (servers, routers, switches, firewalls, etc.), connections (cables, links, interfaces), IP addresses, subnets, VLANs, network segments, and communication paths.

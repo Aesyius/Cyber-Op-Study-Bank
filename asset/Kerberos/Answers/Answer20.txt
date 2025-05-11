@@ -1,0 +1,1 @@
+Common attacks on Kerberos include ticket-granting ticket theft, brute force password attacks, and replay attacks. Mitigations include enforcing strong passwords, enabling pre-authentication, regularly auditing KDC logs, and ensuring time synchronization.

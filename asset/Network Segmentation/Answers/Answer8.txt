@@ -1,0 +1,1 @@
+Access control lists (ACLs) can be used in network segmentation to define and enforce policies that control the flow of traffic between segments. ACLs specify which users or systems are allowed or denied access to specific network resources.

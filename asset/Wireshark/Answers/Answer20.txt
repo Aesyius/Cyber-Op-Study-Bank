@@ -1,0 +1,1 @@
+Wireshark plays a role in compliance auditing by allowing organizations to monitor and analyze network traffic for compliance with regulatory requirements (e.g., PCI DSS for payment card data security, HIPAA for healthcare data). It is also used for ongoing network monitoring to ensure adherence to policies and standards.

@@ -1,0 +1,1 @@
+The IPv4 version field indicates whether the datagram is using IPv4 or IPv6. The header length field specifies the length of the IP header in 32-bit words, allowing for variable-length options.

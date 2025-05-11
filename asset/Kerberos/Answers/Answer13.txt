@@ -1,0 +1,1 @@
+Kerberos handles user passwords by using them to derive encryption keys, but the passwords themselves are never transmitted over the network. This reduces the risk of interception by attackers.

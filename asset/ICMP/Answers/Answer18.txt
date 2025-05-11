@@ -1,0 +1,1 @@
+ICMP messages cannot be fragmented because they are designed to carry short messages. Fragmenting ICMP messages could lead to additional complexity and security risks, which is why they are kept small.

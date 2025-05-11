@@ -1,0 +1,1 @@
+Explain how to reverse sort using the "sort" command and remove adjacent duplicate lines using the "uniq" command.

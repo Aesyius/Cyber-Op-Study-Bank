@@ -1,0 +1,1 @@
+Administrative Distance is a value assigned to routing protocols to determine which route to use when multiple routes are available. A lower Administrative Distance indicates a more trusted route. This concept applies to both LAN and WAN routing.

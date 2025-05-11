@@ -1,0 +1,1 @@
+How does the "grep" command search for patterns in text files?

@@ -1,0 +1,1 @@
+To sort a file and remove duplicate lines simultaneously, you can use the "sort" and "uniq" commands together with a pipe ("|") as shown in the examples above.

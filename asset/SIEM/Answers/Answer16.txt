@@ -1,0 +1,1 @@
+A data repository in a SIEM system stores collected logs and event data for analysis and future reference, ensuring that historical data is available for investigations and compliance needs.

@@ -1,0 +1,1 @@
+Security considerations when deploying a network tap include ensuring physical security to prevent tampering, securing data captured to protect sensitive information, and configuring the tap to avoid creating additional vulnerabilities.

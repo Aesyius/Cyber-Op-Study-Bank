@@ -1,0 +1,1 @@
+Network design impacts the overall security of an organization by determining how traffic flows, where controls are placed, and how well the network can withstand attacks. A well-designed network enhances security and resilience.

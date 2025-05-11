@@ -1,0 +1,1 @@
+Cloud providers ensure the physical security of their data centers through measures such as controlled access, surveillance, security personnel, and environmental controls (e.g., fire suppression, temperature regulation). These measures protect the hardware and data stored within the data centers from physical threats.

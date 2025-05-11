@@ -1,0 +1,1 @@
+The key components of the MITRE ATT&CK matrix include tactics, techniques, and sub-techniques. Tactics represent the adversary’s objectives, techniques describe the methods used to achieve these objectives, and sub-techniques provide more granular details on specific variations of the main techniques.

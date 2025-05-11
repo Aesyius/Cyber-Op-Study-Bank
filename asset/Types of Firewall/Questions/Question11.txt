@@ -1,0 +1,1 @@
+What role does a firewall play in a VPN setup?

@@ -1,0 +1,1 @@
+The difference between INNER JOIN and LEFT JOIN is as follows: • INNER JOIN: Returns only the rows that have matching values in both tables. • LEFT JOIN (or LEFT OUTER JOIN): Returns all rows from the left table and the matched rows from the right table; if there is no match, NULL values are returned for columns from the right table.

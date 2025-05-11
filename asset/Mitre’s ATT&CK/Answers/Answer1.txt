@@ -1,0 +1,1 @@
+The purpose of the MITRE ATT&CK framework is to provide a comprehensive, detailed knowledge base of adversary tactics, techniques, and procedures (TTPs) used in cyber attacks. It helps organizations understand and defend against various types of threats by offering a structured approach to identifying and mitigating attack methods.

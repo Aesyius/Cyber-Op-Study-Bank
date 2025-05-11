@@ -1,0 +1,1 @@
+Saving and exporting packet captures from TShark for further analysis or reporting involves using the -w option to write captured packets to a file. For example, to capture packets and save them to a file named capture.pcap, you can use: tshark -i eth0 -w capture.pcap

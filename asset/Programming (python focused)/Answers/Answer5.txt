@@ -1,0 +1,1 @@
+In Python, you declare and initialize a variable using the following syntax: variable_name = initial_value age = 30 name = "John Doe"

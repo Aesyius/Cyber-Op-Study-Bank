@@ -1,0 +1,1 @@
+A service ticket in Kerberos is a ticket issued by the Ticket Granting Service (TGS) that allows the client to authenticate with a specific service. It contains the client’s identity and a session key, encrypted with the service's secret key.

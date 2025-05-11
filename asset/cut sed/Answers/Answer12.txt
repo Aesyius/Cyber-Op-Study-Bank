@@ -1,0 +1,1 @@
+The "sed" command in Linux/Unix, short for stream editor, is used for performing text transformations and manipulations on input streams or files. It is powerful for search and replace operations, text substitution, and line editing.

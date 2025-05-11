@@ -1,0 +1,1 @@
+Gratuitous ARP packets are ARP packets where a device announces its own IP address and MAC address to update other devices' ARP caches. They are used in scenarios like IP address conflicts, network reconfigurations, or to update ARP caches after device restarts.

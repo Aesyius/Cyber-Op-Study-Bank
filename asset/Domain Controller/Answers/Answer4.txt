@@ -1,0 +1,1 @@
+A domain controller manages user accounts by storing their credentials and associated attributes in Active Directory. It enforces security policies such as password complexity and account lockout settings through Group Policy Objects (GPOs).

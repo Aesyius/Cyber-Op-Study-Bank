@@ -1,0 +1,1 @@
+Zeek plays a role in compliance auditing and regulatory compliance efforts by providing visibility into network activities, monitoring for compliance violations, logging security events, and generating audit trails and reports required for regulatory compliance frameworks.

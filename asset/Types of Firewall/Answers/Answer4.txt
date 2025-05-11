@@ -1,0 +1,1 @@
+A proxy firewall acts as an intermediary between internal users and the external internet. It filters traffic by intercepting requests and forwarding them on behalf of the users, providing more granular control over traffic and better security.

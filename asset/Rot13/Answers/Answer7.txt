@@ -1,0 +1,1 @@
+Properties of ROT13: ●Reversibility: ROT13 is reversible because applying it twice returns the original text (due to its self- inverse nature). ●Self-Inverse: Encrypting and decrypting with ROT13 are the same operations, making it self-inverse.

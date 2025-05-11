@@ -1,0 +1,1 @@
+Explain the term "ROT" in the context of ROT13 and other ROT cipher variants.

@@ -1,0 +1,1 @@
+The Session Layer in the OSI model manages sessions or connections between applications. Examples of session-related services include authentication, authorization, and session establishment and termination.

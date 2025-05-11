@@ -1,0 +1,1 @@
+VLANs allow network administrators to segment a physical network into multiple logical networks. This enhances security, reduces broadcast domains, and improves network efficiency by controlling traffic flow.

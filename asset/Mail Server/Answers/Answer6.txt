@@ -1,0 +1,1 @@
+An MX (Mail Exchange) record in DNS specifies the mail servers responsible for receiving email for a domain. It directs email traffic to the appropriate mail server based on priority.

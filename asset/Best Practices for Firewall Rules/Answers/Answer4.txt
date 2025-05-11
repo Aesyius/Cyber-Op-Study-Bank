@@ -1,0 +1,1 @@
+Documenting firewall rules provides a clear record of the rules and their purposes. This aids in troubleshooting, audits, and rule management.

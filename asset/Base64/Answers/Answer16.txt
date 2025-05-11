@@ -1,0 +1,1 @@
+Limitations of Base64 encoding include: ●Increased data size due to encoding overhead. ●Inefficiency for large binary files or data streams. ●Not suitable for data that requires strong encryption or confidentiality.

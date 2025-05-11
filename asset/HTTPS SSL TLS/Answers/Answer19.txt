@@ -1,0 +1,1 @@
+HTTPS plays a significant role in complying with data protection regulations such as GDPR (General Data Protection Regulation) by ensuring secure transmission and protection of sensitive user data, reducing the risk of data breaches and unauthorized access.

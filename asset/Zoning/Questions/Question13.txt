@@ -1,0 +1,1 @@
+Describe the process of configuring zoning in a network or storage environment.

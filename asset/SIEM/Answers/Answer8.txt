@@ -1,0 +1,1 @@
+SIEM systems integrate with other security tools by collecting data from various sources, enhancing threat detection with information from threat intelligence platforms, and automating responses through coordination with Security Orchestration, Automation, and Response (SOAR) solutions.

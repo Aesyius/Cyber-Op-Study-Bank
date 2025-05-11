@@ -1,0 +1,1 @@
+Explain the benefits of using SSH over unsecured protocols like Telnet.

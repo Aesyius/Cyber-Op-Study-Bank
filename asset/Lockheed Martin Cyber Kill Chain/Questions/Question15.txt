@@ -1,0 +1,1 @@
+Why is it important to detect and stop malware during the Installation stage?

@@ -1,0 +1,1 @@
+Firewall rules can be tested before deployment by using a staging environment or simulation tools. This helps identify potential issues and ensures that the rules function as intended.

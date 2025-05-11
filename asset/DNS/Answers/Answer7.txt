@@ -1,0 +1,1 @@
+A DNS cache is a temporary storage location within a DNS resolver or DNS server that stores previously resolved DNS queries. It improves DNS performance by reducing query response times for frequently accessed domain names since the resolver can retrieve information from its cache instead of querying external DNS servers every time.

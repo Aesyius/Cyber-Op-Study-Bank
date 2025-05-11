@@ -1,0 +1,1 @@
+Wireshark captures network traffic by capturing packets from the network interface card (NIC) of the system it is installed on. It can capture traffic in promiscuous mode, which allows it to capture all packets on the network segment, regardless of the intended destination.

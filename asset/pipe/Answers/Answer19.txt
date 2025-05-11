@@ -1,0 +1,1 @@
+Environment variables play a role in command-line pipes by providing configuration settings, paths, and other parameters that can be accessed by commands within a pipeline.

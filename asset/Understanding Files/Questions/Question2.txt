@@ -1,0 +1,1 @@
+Can you explain how magic numbers help in identifying file tampering, and provide an example of when this might be important?

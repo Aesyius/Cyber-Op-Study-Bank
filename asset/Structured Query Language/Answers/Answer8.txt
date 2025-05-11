@@ -1,0 +1,1 @@
+Aggregate functions in SQL perform calculations on a set of values and return a single value. Examples include: • COUNT(): Counts the number of rows. • SUM(): Adds up values in a specified column. • AVG(): Calculates the average of a numeric column. • MAX(): Returns the maximum value. • MIN(): Returns the minimum value.

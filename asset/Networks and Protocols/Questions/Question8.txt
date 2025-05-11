@@ -1,0 +1,1 @@
+Which protocols are commonly used at the Presentation Layer of the OSI model, and what tasks does this layer perform?

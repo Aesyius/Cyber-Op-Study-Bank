@@ -1,0 +1,1 @@
+The "cut" command in Linux/Unix is used to extract specific fields or columns from lines of text or data. It is commonly used for text processing tasks where you need to isolate or manipulate specific portions of text.

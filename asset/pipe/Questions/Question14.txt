@@ -1,0 +1,1 @@
+Explain how to use the "tee" command in conjunction with pipes to redirect output to both a file and another command.

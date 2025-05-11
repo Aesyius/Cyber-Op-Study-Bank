@@ -1,0 +1,1 @@
+Advantages of software firewalls include flexibility and ease of deployment, while disadvantages include using host system resources and potentially lower performance. They are often easier to update but can be less robust than hardware solutions.

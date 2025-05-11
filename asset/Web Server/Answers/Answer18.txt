@@ -1,0 +1,1 @@
+Cross-site scripting (XSS) is a vulnerability that allows attackers to inject malicious scripts into webpages viewed by other users. A web server can prevent XSS by validating and sanitizing user input, using Content Security Policies (CSP), and escaping output data.

@@ -1,0 +1,1 @@
+Firewalls help prevent DDoS attacks by filtering out malicious traffic and rate-limiting requests. They can block traffic from known malicious IP addresses and detect unusual traffic patterns.

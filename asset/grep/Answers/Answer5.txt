@@ -1,0 +1,1 @@
+Examples of using the "grep" command: ●Search for a word in a file: grep "word" file.txt ●Search for a phrase in multiple files: grep "phrase" *.txt

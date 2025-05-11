@@ -1,0 +1,1 @@
+A print server manages and directs print jobs from multiple computers to one or more printers. It queues print jobs, manages printer drivers, and ensures that printing is handled efficiently within a network.

@@ -1,0 +1,1 @@
+Describe the various views and displays available in Wireshark for analyzing captured packets.

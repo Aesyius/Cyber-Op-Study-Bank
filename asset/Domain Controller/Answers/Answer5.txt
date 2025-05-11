@@ -1,0 +1,1 @@
+Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It provides a means to manage and store information about network resources, including user accounts, computers, and security policies. Domain controllers host the Active Directory database.

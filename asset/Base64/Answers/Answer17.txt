@@ -1,0 +1,1 @@
+Base64 encoding supports interoperability between systems with different character sets and encoding schemes by using a standardized set of ASCII characters for representation. This allows data to be transmitted and decoded consistently across platforms.

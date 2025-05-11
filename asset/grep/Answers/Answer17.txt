@@ -1,0 +1,1 @@
+"Grep" can be used in conjunction with other commands like "sed" or "awk" for text manipulation tasks. For example, using "grep" to filter lines and then using "sed" to perform replacements.

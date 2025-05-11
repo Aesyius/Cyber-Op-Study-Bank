@@ -1,0 +1,1 @@
+Tools or software commonly used for creating network diagrams include Microsoft Visio, Lucidchart, Cisco Network Assistant, draw.io, and network management platforms like SolarWinds Network Topology Mapper or ManageEngine OpManager.

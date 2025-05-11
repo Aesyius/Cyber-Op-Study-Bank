@@ -1,0 +1,1 @@
+‘Procedures’ in MITRE ATT&CK refer to the specific methods or tools used by adversaries to implement a technique. They provide real-world examples of how techniques are applied in actual attacks.

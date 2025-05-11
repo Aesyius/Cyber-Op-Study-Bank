@@ -1,0 +1,1 @@
+During the ‘Out’ phase, strategies to prevent further damage and ensure recovery include conducting thorough incident response, performing forensic analysis, and restoring affected systems to a secure state. This phase also involves lessons learned and improving defenses to prevent similar attacks in the future.

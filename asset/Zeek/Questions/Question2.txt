@@ -1,0 +1,1 @@
+What situations are most suited for using Zeek for network monitoring, and in which scenarios might its use be less effective or impractical?

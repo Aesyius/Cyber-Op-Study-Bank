@@ -1,0 +1,1 @@
+Access controls in a DMZ environment are managed through firewall rules, ACLs, and strict authentication mechanisms. This ensures that only authorized users and services can interact with the DMZ.

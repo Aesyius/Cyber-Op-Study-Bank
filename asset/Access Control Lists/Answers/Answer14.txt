@@ -1,0 +1,1 @@
+ACLs support network segmentation and isolation by controlling traffic between different network segments or zones. This helps enforce security policies by limiting access and ensuring that only authorized traffic is allowed between segments.

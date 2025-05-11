@@ -1,0 +1,1 @@
+Describe the SELECT statement in SQL and its use in retrieving data.

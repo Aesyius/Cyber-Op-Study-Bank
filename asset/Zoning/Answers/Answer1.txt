@@ -1,0 +1,1 @@
+Zoning in computer networks or storage systems refers to the practice of logically partitioning or segregating devices, resources, or traffic within a network or storage area to control access, improve security, and optimize performance.

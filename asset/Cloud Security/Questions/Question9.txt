@@ -1,0 +1,1 @@
+How do cloud providers ensure the physical security of their data centers?

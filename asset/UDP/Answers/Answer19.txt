@@ -1,0 +1,1 @@
+UDP does not handle lost packets automatically. If a UDP datagram is lost in transit, it is not retransmitted, and the receiving application may need to handle packet loss or reordering if necessary.

@@ -1,0 +1,1 @@
+An application-layer firewall operates at the application layer of the OSI model and can inspect the content of the traffic. It can understand and filter traffic based on specific application data, providing more detailed filtering compared to lower-layer firewalls.

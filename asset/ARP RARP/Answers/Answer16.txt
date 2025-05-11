@@ -1,0 +1,1 @@
+ARP and RARP differ in their direction of address resolution (IP to MAC for ARP, MAC to IP for RARP) and their primary use cases (ARP for IP address resolution in Ethernet networks, RARP for legacy systems and diskless workstations).

@@ -1,0 +1,1 @@
+In a typical LAN setup, a switch connects devices such as computers, printers, and servers, facilitating communication between them. It enables efficient data transfer within the local network.

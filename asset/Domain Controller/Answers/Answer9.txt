@@ -1,0 +1,1 @@
+Potential security risks associated with domain controllers include unauthorized access to user credentials, attacks on the server itself (e.g., DDoS), and vulnerabilities in the Active Directory. Compromising a domain controller can provide an attacker with extensive access to the entire domain.

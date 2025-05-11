@@ -1,0 +1,1 @@
+Character Handling: ●Letters: Alphabetic characters are shifted by 13 positions, wrapping around if necessary. ●Numbers: Numeric characters (0-9) and other non-alphabetic symbols remain unchanged. ●Special Symbols: Punctuation marks, spaces, and special symbols are unaffected by ROT13.

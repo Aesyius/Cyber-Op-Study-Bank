@@ -1,0 +1,1 @@
+Explain how endpoint security solutions can be integrated with security information and event management (SIEM) systems.

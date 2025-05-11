@@ -1,0 +1,1 @@
+A primary key is a unique identifier for a record in a database table. It ensures that no two records have the same key value, maintaining data integrity and enabling efficient data retrieval.

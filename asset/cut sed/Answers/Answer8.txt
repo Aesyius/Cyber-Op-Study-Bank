@@ -1,0 +1,1 @@
+The "-s" option in "cut" suppresses lines that do not contain delimiters specified with the "-d" option. It is typically used to filter out lines that do not match the expected format.

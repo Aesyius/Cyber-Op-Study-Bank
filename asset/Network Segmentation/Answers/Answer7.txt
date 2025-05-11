@@ -1,0 +1,1 @@
+Firewalls play a crucial role in network segmentation by controlling and monitoring traffic between different network segments. They enforce security policies and block unauthorized access.

@@ -1,0 +1,1 @@
+Network security in cloud environments is implemented through various measures, including virtual firewalls, security groups, network segmentation, and encryption of data in transit. These measures protect cloud networks from unauthorized access and attacks.

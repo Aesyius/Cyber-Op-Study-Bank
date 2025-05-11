@@ -1,0 +1,1 @@
+Techniques used by attackers to maintain access and control include establishing hidden user accounts, modifying system configurations, using rootkits to hide malicious activities, and periodically updating malware to evade detection.

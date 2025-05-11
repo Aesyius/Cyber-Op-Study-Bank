@@ -1,0 +1,1 @@
+To troubleshoot DHCP issues, you can use tools like ipconfig or ifconfig to check for IP configuration, verify DHCP server availability, and check network connectivity or address conflicts. Debugging logs on the server can also help identify errors.

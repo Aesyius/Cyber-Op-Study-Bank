@@ -1,0 +1,1 @@
+Telnet handles authentication by prompting users for login credentials (username and password) when establishing a connection to the Telnet server. However, Telnet transmits these credentials in plain text, making it vulnerable to eavesdropping and interception.

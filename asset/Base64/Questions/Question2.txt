@@ -1,0 +1,1 @@
+Describe the process of converting binary data into Base64 format.

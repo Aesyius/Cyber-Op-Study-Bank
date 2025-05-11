@@ -1,0 +1,1 @@
+Domain controllers interact with DNS by registering and resolving domain names within the Active Directory environment. They maintain DNS records for domain resources, allowing users and computers to locate services and devices on the network.

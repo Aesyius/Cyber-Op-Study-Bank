@@ -1,0 +1,1 @@
+How can CyberChef be used for data obfuscation and anti-forensic techniques?

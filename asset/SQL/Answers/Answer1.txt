@@ -1,0 +1,1 @@
+SQL stands for Structured Query Language, and its primary purpose is to manage and manipulate data in relational database management systems (RDBMS). It provides a standardized language for interacting with databases, including querying, inserting, updating, and deleting data.

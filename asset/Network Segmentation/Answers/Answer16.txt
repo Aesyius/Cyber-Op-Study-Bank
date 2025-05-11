@@ -1,0 +1,1 @@
+Segmentation plays a role in protecting sensitive data within a network by isolating it from less secure segments. This reduces the risk of unauthorized access and data breaches.

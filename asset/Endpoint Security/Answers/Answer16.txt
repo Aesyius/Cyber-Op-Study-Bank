@@ -1,0 +1,1 @@
+Endpoint security solutions handle zero-day vulnerabilities by using behavioral analysis, machine learning, and threat intelligence to detect and respond to suspicious activity that may indicate an unknown threat. They provide a proactive defense against new and emerging threats that do not yet have signatures.

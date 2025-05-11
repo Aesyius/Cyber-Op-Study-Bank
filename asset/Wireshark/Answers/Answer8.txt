@@ -1,0 +1,1 @@
+Wireshark supports a wide range of protocols and technologies, including Ethernet, TCP/IP, UDP, HTTP, DNS, SSL/TLS, VoIP protocols (SIP, RTP), and many more. It can analyze both wired and wireless network traffic.

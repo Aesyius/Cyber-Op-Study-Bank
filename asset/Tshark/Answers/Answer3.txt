@@ -1,0 +1,1 @@
+TShark captures and processes network traffic similarly to Wireshark, but it does so entirely from the command line. While Wireshark provides a GUI for interactively capturing and analyzing packets, TShark allows users to perform the same tasks using command-line commands and options.

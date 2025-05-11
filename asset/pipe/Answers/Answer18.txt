@@ -1,0 +1,1 @@
+Error messages and warnings from piped commands are typically displayed as part of the standard error (stderr) stream. The pipe operator redirects only the stdout stream, so error messages are not affected by pipes unless explicitly managed with redirection.

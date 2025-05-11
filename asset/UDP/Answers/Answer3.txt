@@ -1,0 +1,1 @@
+The UDP header structure consists of four fields: ●Source Port: Identifies the sending application or service. ●Destination Port: Identifies the receiving application or service. ●Length: Specifies the length of the UDP header and data. ●Checksum: Provides error detection for the UDP header and data.

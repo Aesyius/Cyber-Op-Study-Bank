@@ -1,0 +1,1 @@
+The Caesar Cipher handles spaces, punctuation, and non-alphabetic characters by leaving them unchanged during encryption and decryption. Only alphabetic characters are shifted in the process.

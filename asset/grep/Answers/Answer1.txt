@@ -1,0 +1,1 @@
+The "grep" command in Linux is used for searching text files or input streams for lines that match a specified pattern. Its primary purpose is to extract and display lines of text that contain the desired pattern.

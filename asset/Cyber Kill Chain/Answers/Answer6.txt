@@ -1,0 +1,1 @@
+The weaponization stage in the Cyber Kill Chain involves developing or acquiring malicious tools, exploits, or payloads that can be used to compromise target systems. The objectives include creating weaponized documents, malware, or other attack vectors tailored to exploit specific vulnerabilities.

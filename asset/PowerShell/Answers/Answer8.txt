@@ -1,0 +1,1 @@
+The Get-ChildItem cmdlet is used to list all files and subdirectories in a directory. It functions similarly to the dir command in Command Prompt but is more versatile, allowing advanced filtering and selection.

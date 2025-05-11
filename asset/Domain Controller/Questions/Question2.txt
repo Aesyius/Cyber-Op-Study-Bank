@@ -1,0 +1,1 @@
+Explain the process of authentication and authorization in a domain controlled environment.

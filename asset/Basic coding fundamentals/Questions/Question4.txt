@@ -1,0 +1,1 @@
+Explain the concept of data types and provide examples of different data types.

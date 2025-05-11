@@ -1,0 +1,1 @@
+What is a DHCP scope, and how does it define IP address allocation?

@@ -1,0 +1,1 @@
+Wireshark is a network protocol analyzer used for capturing and analyzing network traffic in real-time. Its primary purpose is to help network administrators and security professionals troubleshoot network issues, analyze network protocols, and detect anomalies or security threats.

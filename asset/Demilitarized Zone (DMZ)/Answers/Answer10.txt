@@ -1,0 +1,1 @@
+Intrusion detection/prevention systems (IDS/IPS) in a DMZ help detect and block malicious activities targeting the DMZ components. They provide an additional layer of security by monitoring traffic for known threats.

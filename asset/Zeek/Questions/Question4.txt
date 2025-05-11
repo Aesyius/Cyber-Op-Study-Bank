@@ -1,0 +1,1 @@
+Explain the difference between Zeek scripts and policy scripts in Zeek deployments.

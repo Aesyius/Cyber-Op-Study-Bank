@@ -1,0 +1,1 @@
+What is a DHCP lease, and how is it managed?

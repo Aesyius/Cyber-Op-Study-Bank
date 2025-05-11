@@ -1,0 +1,1 @@
+Explain the concept of command substitution and its relationship with the pipe operator.

@@ -1,0 +1,1 @@
+The "-v" option in "grep" inverts the match, meaning it displays lines that do not match the specified pattern.

@@ -1,0 +1,1 @@
+What is Active Directory, and how is it related to domain controllers?

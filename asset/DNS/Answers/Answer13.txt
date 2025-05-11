@@ -1,0 +1,1 @@
+Forward DNS lookups involve resolving domain names to IP addresses (e.g., resolving www.example.com to 192.0.2.1), while reverse DNS lookups involve resolving IP addresses to domain names (e.g., resolving 192.0.2.1 to www.example.com).

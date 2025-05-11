@@ -1,0 +1,1 @@
+tcpdump can capture and analyze live network streams, including VoIP traffic, by filtering packets based on specific protocols (e.g., SIP, RTP) or ports associated with VoIP applications.

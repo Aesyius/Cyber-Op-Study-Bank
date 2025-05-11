@@ -1,0 +1,1 @@
+Describe the limitations of Base64 encoding, particularly in terms of data size and efficiency.

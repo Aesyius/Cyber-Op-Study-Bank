@@ -1,0 +1,1 @@
+IMAP4 (Internet Message Access Protocol version 4) is a protocol used for accessing and managing email messages on a mail server. Its primary purpose in email communication is to provide users with more advanced features and flexibility for handling emails compared to POP.

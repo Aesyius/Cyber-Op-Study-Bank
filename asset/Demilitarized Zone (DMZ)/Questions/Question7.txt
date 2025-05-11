@@ -1,0 +1,1 @@
+How does traffic flow between the DMZ, internal network, and external network?

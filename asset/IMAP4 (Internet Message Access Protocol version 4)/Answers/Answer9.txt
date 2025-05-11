@@ -1,0 +1,1 @@
+IMAP4 supports features such as email flags (e.g., read/unread status, flagged messages), search capabilities (e.g., searching emails based on criteria), and message threading (displaying related messages in conversation view). These features enhance email management and organization for users.

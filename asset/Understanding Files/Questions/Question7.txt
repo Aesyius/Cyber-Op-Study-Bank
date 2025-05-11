@@ -1,0 +1,1 @@
+Why might simply extracting strings from a file be insufficient to determine its overall intent or threat level?

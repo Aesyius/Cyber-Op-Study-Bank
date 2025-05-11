@@ -1,0 +1,1 @@
+The term "ROT" stands for "rotate." In ROT ciphers like ROT13, the number following "ROT" indicates the fixed rotation or shift amount applied to the alphabet.

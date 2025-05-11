@@ -1,0 +1,1 @@
+How do brute force attacks work, and what are common targets of brute force attacks?

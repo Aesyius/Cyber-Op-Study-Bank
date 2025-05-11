@@ -1,0 +1,1 @@
+Describe the difference between Base64 encoding and other encoding schemes (e.g., hexadecimal, ASCII).

@@ -1,0 +1,1 @@
+Indexes in SQL databases are data structures that improve the speed of data retrieval operations by providing quick access to rows based on indexed columns. They can significantly impact query performance, especially for large datasets and complex queries.

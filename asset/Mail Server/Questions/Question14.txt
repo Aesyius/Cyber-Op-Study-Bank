@@ -1,0 +1,1 @@
+What is a mail user agent (MUA), and how does it interact with a mail server?

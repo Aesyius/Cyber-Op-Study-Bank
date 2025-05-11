@@ -1,0 +1,1 @@
+Explain how to use the "-l" option in "grep" to list filenames containing matched patterns.

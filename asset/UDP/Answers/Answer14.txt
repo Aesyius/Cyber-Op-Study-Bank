@@ -1,0 +1,1 @@
+A UDP socket is a combination of IP address and port number that uniquely identifies a UDP endpoint or communication channel. It consists of a source IP address, source port, destination IP address, and destination port.

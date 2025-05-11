@@ -1,0 +1,1 @@
+A switch builds its MAC address table by learning the MAC addresses of devices connected to its ports. When a frame is received, the switch records the source MAC address and the corresponding port in the table, allowing it to forward future frames to the correct destination.

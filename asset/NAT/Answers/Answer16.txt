@@ -1,0 +1,1 @@
+NAT overload, also known as PAT (Port Address Translation), allows multiple internal devices to share a single public IP address by using different source port numbers to distinguish between connections. This technique enables efficient utilization of limited public IP address resources.

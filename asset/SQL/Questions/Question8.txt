@@ -1,0 +1,1 @@
+Explain the GROUP BY clause and its use in SQL aggregation.

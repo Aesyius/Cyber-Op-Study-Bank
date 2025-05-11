@@ -1,0 +1,1 @@
+How does ICMP help with network diagnostics and troubleshooting?

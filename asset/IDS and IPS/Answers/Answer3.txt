@@ -1,0 +1,1 @@
+An IDS detects and analyzes network traffic by examining packets for patterns that match known attack signatures or deviations from normal behavior. It utilizes various detection techniques, such as signature-based detection, anomaly-based detection, and behavior-based detection, to identify potential security incidents.

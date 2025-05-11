@@ -1,0 +1,1 @@
+What role does the Authentication Server (AS) play in the Kerberos protocol?

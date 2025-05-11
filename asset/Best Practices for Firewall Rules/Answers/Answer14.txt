@@ -1,0 +1,1 @@
+Firewall rules enforce network segmentation by controlling traffic between different network segments. This helps isolate sensitive areas and limit the spread of attacks.

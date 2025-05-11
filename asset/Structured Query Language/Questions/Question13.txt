@@ -1,0 +1,1 @@
+What is a stored procedure, and how does it differ from a function in SQL?

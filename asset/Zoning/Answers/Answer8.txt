@@ -1,0 +1,1 @@
+Zoning by application or service involves grouping devices or resources based on the applications or services they provide. For example, storage devices related to a specific application can be placed in a dedicated zone, ensuring that only the authorized application or service has access to those resources.

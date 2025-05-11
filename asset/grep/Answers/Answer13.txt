@@ -1,0 +1,1 @@
+Metacharacters in regex patterns used with "grep": ●"^": Anchors the pattern to the beginning of a line. ●"$": Anchors the pattern to the end of a line. ●".": Matches any single character except newline. ●"*": Matches zero or more occurrences of the preceding character. ●"[ ]": Matches any character within the brackets. ●"[^ ]": Matches any character not within the brackets.

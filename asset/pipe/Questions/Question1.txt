@@ -1,0 +1,1 @@
+What is the purpose of the pipe "|" operator in Linux and Unix command lines?

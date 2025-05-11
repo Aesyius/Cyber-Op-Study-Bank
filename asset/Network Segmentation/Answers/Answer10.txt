@@ -1,0 +1,1 @@
+Network segmentation can impact network performance by introducing additional overhead for managing and monitoring segments. However, properly designed segmentation can also improve performance by reducing broadcast traffic and network congestion.

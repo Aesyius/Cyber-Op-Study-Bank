@@ -1,0 +1,1 @@
+Firewalls play a critical role in secure network design by filtering traffic, enforcing security policies, and preventing unauthorized access. They are often placed at key points in the network to protect sensitive areas.

@@ -1,0 +1,1 @@
+You filter results in a SQL query using the WHERE clause by specifying conditions that the retrieved data must meet. For example: SELECT * FROM employees WHERE age > 30; retrieves only employees older than 30.

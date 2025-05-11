@@ -1,0 +1,1 @@
+The concept of least privilege in endpoint security involves restricting user access rights to the minimum necessary to perform their job functions. This limits the potential damage that can be caused by compromised accounts or insider threats.

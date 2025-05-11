@@ -1,0 +1,1 @@
+How can regex be used for data validation and input sanitization in web applications?

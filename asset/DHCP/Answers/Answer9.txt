@@ -1,0 +1,1 @@
+Advantages of using DHCP compared to static IP address assignment include: ●Automated IP address management, reducing manual configuration errors. ●Dynamic allocation and reallocation of IP addresses, optimizing address usage. ●Centralized administration and easier scalability in large networks. ●Flexibility to update network configurations without manual device reconfiguration.

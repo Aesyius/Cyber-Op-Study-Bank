@@ -1,0 +1,1 @@
+Methods in Python classes are functions defined inside a class that operate on objects of that class. Attributes are variables associated with objects or classes that store data or state information. Methods and attributes are accessed using dot notation (object.method() or object.attribute).

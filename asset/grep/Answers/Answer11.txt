@@ -1,0 +1,1 @@
+The "-c" option in "grep" counts occurrences of matched patterns instead of displaying the actual matched lines.

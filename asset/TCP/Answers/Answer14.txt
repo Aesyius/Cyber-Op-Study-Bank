@@ -1,0 +1,1 @@
+The ACK flag in TCP contributes to reliable data transfer by acknowledging received data segments and confirming successful data delivery, enabling sender-side retransmissions if needed.

@@ -1,0 +1,1 @@
+The difference between SQL and NoSQL databases is as follows: • SQL databases: Are relational, structured, and use predefined schemas; they are best for complex queries and transactions. • NoSQL databases: Are non-relational, can handle unstructured data, and are more flexible; they are suitable for large volumes of data and high-velocity transactions.

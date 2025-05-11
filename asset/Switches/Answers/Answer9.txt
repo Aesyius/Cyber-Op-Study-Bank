@@ -1,0 +1,1 @@
+Spanning Tree Protocol (STP) prevents loops in a network by creating a loop-free logical topology. It identifies and disables redundant paths, ensuring that frames can travel without creating loops that would cause broadcast storms.

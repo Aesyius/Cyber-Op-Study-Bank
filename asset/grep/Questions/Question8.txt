@@ -1,0 +1,1 @@
+What is the purpose of the "-v" option in "grep," and how does it work?

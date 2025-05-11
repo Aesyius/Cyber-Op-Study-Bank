@@ -1,0 +1,1 @@
+Attackers use various methods to establish Command and Control, such as encrypted communications, DNS tunneling, or using legitimate web services. These methods help them control compromised systems and evade detection.

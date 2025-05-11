@@ -1,0 +1,1 @@
+A well-organized network diagram follows a hierarchical structure, with core devices (routers, core switches) at the top, distribution devices (distribution switches) in the middle, and access devices (end- user devices, access switches) at the bottom. This structure helps visualize network traffic flows and communication paths.

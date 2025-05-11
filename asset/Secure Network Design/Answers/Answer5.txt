@@ -1,0 +1,1 @@
+Redundancy and high availability contribute to secure network design by ensuring that critical services remain operational even during failures or attacks. This includes using backup systems, failover mechanisms, and load balancing.

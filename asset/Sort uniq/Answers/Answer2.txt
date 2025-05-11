@@ -1,0 +1,1 @@
+The syntax of the "sort" command is: sort [OPTION]... [FILE]... Commonly used options with the "sort" command include: ●-r: Sort in reverse order (descending). ●-n: Sort numerically. ●-k: Specify a key for sorting based on fields. ●-f: Ignore case distinctions in sorting. ●-u: Output only unique lines. ●-o [OUTPUT_FILE]: Direct output to a file.

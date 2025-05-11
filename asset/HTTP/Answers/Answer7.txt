@@ -1,0 +1,1 @@
+The URL (Uniform Resource Locator) in HTTP specifies the location and identifier of a resource on the web. It consists of a protocol (e.g., http:// or https://), domain name or IP address, optional port number, and path to the resource.

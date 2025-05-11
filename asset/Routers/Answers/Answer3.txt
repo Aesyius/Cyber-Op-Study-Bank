@@ -1,0 +1,1 @@
+A static routing table consists of manually configured routes that do not change unless modified by an administrator. A dynamic routing table updates automatically based on network conditions using protocols like OSPF or EIGRP.

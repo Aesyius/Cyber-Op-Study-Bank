@@ -1,0 +1,1 @@
+A 404 error is returned by a web server when the requested resource cannot be found. This typically occurs when the URL is incorrect or the resource has been moved or deleted. Web servers can be configured to provide custom 404 error pages for better user experience.

@@ -1,0 +1,1 @@
+The purpose of the 'In' phase is to identify and understand the methods and techniques used by adversaries to gain initial access to the target environment. This phase includes activities like spear phishing, exploiting vulnerabilities, and other methods of breaching defenses.

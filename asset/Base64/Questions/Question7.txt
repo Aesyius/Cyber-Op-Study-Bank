@@ -1,0 +1,1 @@
+How does Base64 encoding handle text data, images, and binary files?

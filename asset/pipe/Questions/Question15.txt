@@ -1,0 +1,1 @@
+How can you check the exit status of commands within a piped command sequence?

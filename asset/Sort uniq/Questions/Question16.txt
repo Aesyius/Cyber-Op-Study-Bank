@@ -1,0 +1,1 @@
+How can you use the output of one command as input for the other command using pipes ("|") in Linux?

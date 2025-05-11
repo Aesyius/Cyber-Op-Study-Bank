@@ -1,0 +1,1 @@
+HTTPS helps protect against common vulnerabilities and attacks such as: ●Man-in-the-Middle (MITM) attacks ●Eavesdropping and data interception ●Session hijacking and cookie theft ●Phishing and spoofing ●Data tampering and injection

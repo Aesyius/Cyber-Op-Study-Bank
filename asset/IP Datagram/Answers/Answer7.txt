@@ -1,0 +1,1 @@
+The IPv4 header checksum is a value calculated over the header contents to ensure data integrity during transmission. It helps detect errors in the header caused by network transmission issues.

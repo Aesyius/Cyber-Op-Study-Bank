@@ -1,0 +1,1 @@
+Advanced options for customizing the behavior of "sort" and "uniq" commands include specifying multiple keys for sorting, using custom comparison functions, handling specific delimiters or field separators, and dealing with numeric or human-readable values.

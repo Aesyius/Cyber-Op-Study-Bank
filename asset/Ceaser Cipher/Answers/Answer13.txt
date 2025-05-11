@@ -1,0 +1,1 @@
+Compared to other substitution ciphers like the Atbash Cipher (which substitutes each letter with its reverse) or the Vigenère Cipher (which uses a keyword for multiple Caesar shifts), the Caesar Cipher is straightforward but less secure.

@@ -1,0 +1,1 @@
+Padding in Base64 encoding ensures that the length of the Base64-encoded data is a multiple of 4 characters, as required by the encoding algorithm. Padding is represented by one or two = characters at the end of the encoded string to indicate the number of missing characters.

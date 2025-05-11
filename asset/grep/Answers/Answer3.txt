@@ -1,0 +1,1 @@
+The "grep" command searches for patterns in text files by comparing each line of the file with the specified pattern. It looks for exact matches or matches based on regular expressions if specified.

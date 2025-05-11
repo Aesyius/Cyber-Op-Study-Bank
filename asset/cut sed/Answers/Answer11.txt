@@ -1,0 +1,1 @@
+Common use cases for the "cut" command include data extraction from structured files (e.g., CSV, TSV), processing output from other commands, and manipulating text data in shell scripts.

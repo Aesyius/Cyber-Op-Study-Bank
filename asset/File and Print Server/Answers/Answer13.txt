@@ -1,0 +1,1 @@
+Storage usage on a file server can be monitored and managed by tracking disk space usage, setting storage quotas, and using file management tools to identify large or unused files. Administrators may also configure alerts for storage limits.

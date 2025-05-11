@@ -1,0 +1,1 @@
+Event normalization in a SIEM system involves converting data from different sources into a standardized format. This process ensures that all collected data can be effectively compared, analyzed, and correlated.

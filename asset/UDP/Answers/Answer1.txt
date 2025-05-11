@@ -1,0 +1,1 @@
+UDP stands for User Datagram Protocol. Its primary purpose is to provide a lightweight, connectionless communication protocol for sending datagrams (packets) across networks without the reliability mechanisms of TCP.

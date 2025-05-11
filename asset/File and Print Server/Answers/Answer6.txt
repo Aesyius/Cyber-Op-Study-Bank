@@ -1,0 +1,1 @@
+A file server primarily stores and manages file-based data, whereas a database server stores and manages structured data in databases. The database server is optimized for complex queries and transaction management, while a file server handles unstructured data like documents and media.

@@ -1,0 +1,1 @@
+What are some security considerations when using Base64 encoding for sensitive data?

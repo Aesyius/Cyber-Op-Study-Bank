@@ -1,0 +1,1 @@
+NAT handles ICMP (Internet Control Message Protocol) packets by translating their IP headers like any other IP packet. However, certain ICMP types, such as ICMP echo request/reply (ping), may require special handling in NAT configurations to ensure proper network functionality.

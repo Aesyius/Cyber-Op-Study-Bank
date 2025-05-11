@@ -1,0 +1,1 @@
+A DHCP server is responsible for leasing IP addresses and network configuration parameters to clients within its local subnet. A DHCP relay agent, on the other hand, forwards DHCP messages between clients and DHCP servers across different subnets or networks, allowing clients to obtain IP addresses from remote DHCP servers.

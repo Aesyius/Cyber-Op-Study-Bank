@@ -1,0 +1,1 @@
+SFTP (SSH File Transfer Protocol) is a secure extension of FTP that uses SSH (Secure Shell) for encryption and authentication, providing secure file transfer capabilities. Unlike FTP, which operates over port 21 (control) and port 20 (data), SFTP typically uses a single secure connection over SSH port 22.

@@ -1,0 +1,1 @@
+HTTPS handles authentication of servers and clients through digital certificates and SSL/TLS protocols. Servers present their digital certificates to clients during the SSL/TLS handshake for authentication, while clients validate the certificates to ensure secure and trusted connections.

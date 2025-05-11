@@ -1,0 +1,1 @@
+How could understanding file headers and magic numbers aid in distinguishing between a legitimate file and one that has been disguised?

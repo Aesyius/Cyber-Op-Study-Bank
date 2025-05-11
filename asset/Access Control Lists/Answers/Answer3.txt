@@ -1,0 +1,1 @@
+Different types of ACLs commonly used in networking include standard ACLs, extended ACLs, and named ACLs. Standard ACLs filter traffic based only on source IP addresses, while extended ACLs can filter based on both source and destination IP addresses, protocols, and ports. Named ACLs allow for more descriptive rule sets.

@@ -1,0 +1,1 @@
+A static IP address is manually assigned to a device, while an IP address assigned by DHCP is temporary and managed by the DHCP server. Static IPs are used for servers and devices requiring a consistent address.

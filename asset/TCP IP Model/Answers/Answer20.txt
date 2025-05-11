@@ -1,0 +1,1 @@
+The TCP/IP model influences the design and implementation of network architectures by providing a standardized framework for communication protocols, addressing, and routing. It guides the development of networking technologies, devices, and systems that are interoperable and compatible with TCP/IP protocols.

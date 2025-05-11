@@ -1,0 +1,1 @@
+Explain the concept of VLANs and how they relate to network segmentation.

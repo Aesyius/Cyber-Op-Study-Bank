@@ -1,0 +1,1 @@
+Piping (|) in PowerShell allows you to pass the output of one cmdlet as the input to another cmdlet. This creates a chain of operations, making it easier to perform complex tasks by combining multiple commands.

@@ -1,0 +1,1 @@
+If the output of a command piped to another command is too large to fit into memory, the system may use temporary storage or buffers to handle the data flow efficiently. However, excessive data can lead to performance issues or resource constraints.

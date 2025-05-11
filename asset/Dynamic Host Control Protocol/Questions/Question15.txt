@@ -1,0 +1,1 @@
+How can DHCP be configured to assign the same IP address to a device each time it connects?

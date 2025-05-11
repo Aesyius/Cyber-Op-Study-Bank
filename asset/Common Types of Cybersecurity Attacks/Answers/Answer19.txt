@@ -1,0 +1,1 @@
+Internet of Things (IoT) attacks target connected devices, sensors, or smart systems to exploit vulnerabilities, gain unauthorized access, or compromise data. IoT attacks can impact critical infrastructure, healthcare systems, industrial control systems, and consumer devices, posing risks to privacy, safety, security, and network integrity.

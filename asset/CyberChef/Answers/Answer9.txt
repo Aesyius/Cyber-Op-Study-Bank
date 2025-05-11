@@ -1,0 +1,1 @@
+Regular expressions (regex) play a significant role in CyberChef for pattern matching, data extraction, and text manipulation tasks. Users can use regex-based operations to search for specific patterns within data and extract relevant information.

@@ -1,0 +1,1 @@
+What is a primary key, and why is it important in a database table?

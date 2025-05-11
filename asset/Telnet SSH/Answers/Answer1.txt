@@ -1,0 +1,1 @@
+Telnet is a network protocol used for remote access to devices over a network. Its primary purpose in computer networking is to provide a command-line interface (CLI) to manage and configure remote systems.

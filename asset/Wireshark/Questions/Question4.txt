@@ -1,0 +1,1 @@
+How does Wireshark capture and analyze network traffic?

@@ -1,0 +1,1 @@
+The "sort" and "uniq" commands are commonly used together when processing text data, such as log files, CSV files, or output from other commands, to analyze and manipulate data efficiently.

@@ -1,0 +1,1 @@
+Network segmentation enhances security by limiting the access and movement of attackers within the network. If one segment is compromised, it does not necessarily mean the entire network is compromised.

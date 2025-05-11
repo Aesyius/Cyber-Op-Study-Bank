@@ -1,0 +1,1 @@
+How can a DHCP server be configured for fault tolerance and high availability?

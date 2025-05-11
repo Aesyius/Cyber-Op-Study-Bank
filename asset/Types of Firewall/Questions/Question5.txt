@@ -1,0 +1,1 @@
+What distinguishes a next-generation firewall (NGFW) from traditional firewalls?

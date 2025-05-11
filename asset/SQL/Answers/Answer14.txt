@@ -1,0 +1,1 @@
+The INSERT INTO statement in SQL is used to add new rows of data into a table. It specifies the table name and the values to be inserted into each column.

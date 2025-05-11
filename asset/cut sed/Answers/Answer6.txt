@@ -1,0 +1,1 @@
+The "-f" option in "cut" specifies which fields to extract. For example, "-f 1" extracts the first field, "-f 2,4" extracts the second and fourth fields, and so on.

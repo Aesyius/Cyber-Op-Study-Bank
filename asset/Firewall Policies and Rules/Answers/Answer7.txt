@@ -1,0 +1,1 @@
+Common criteria used to define firewall rules include IP addresses, port numbers, protocols, and application-specific parameters. These criteria help identify and control traffic based on various attributes.

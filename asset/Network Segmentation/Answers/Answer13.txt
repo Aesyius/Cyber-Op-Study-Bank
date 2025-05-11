@@ -1,0 +1,1 @@
+The principle of least privilege means granting users or systems only the access necessary to perform their functions. In network segmentation, this principle ensures that each segment has minimal access to other segments.

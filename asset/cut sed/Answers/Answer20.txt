@@ -1,0 +1,1 @@
+Common pitfalls or issues to watch out for when using "cut" and "sed" commands include incorrect delimiter specifications, improper regex usage, unintended data truncation, and overwriting files without backups when using the "-i" option with "sed". It's important to test commands on sample data and understand their behavior before applying them to critical files or scripts.

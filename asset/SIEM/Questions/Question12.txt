@@ -1,0 +1,1 @@
+Describe the role of a data collector in a SIEM system.

@@ -1,0 +1,1 @@
+What is the significance of the Administrative Distance in routing protocols, and how does it apply to both LAN and WAN environments?

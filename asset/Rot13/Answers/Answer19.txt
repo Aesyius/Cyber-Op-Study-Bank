@@ -1,0 +1,1 @@
+Combining ROT13 with other encryption techniques, such as applying it as an additional layer over more secure ciphers, can add a layer of obfuscation or complexity to enhance security.

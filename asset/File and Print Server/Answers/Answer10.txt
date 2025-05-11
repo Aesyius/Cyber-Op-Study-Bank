@@ -1,0 +1,1 @@
+Common security risks for file servers include unauthorized access, data breaches, malware attacks, and data loss. These risks can be mitigated by implementing strong access controls, encryption, regular security updates, and robust backup solutions.

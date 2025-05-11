@@ -1,0 +1,1 @@
+How can redundant or obsolete firewall rules impact network security?

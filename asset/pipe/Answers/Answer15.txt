@@ -1,0 +1,1 @@
+You can check the exit status of commands within a piped command sequence using special shell variables like "$?" immediately after the command. A non-zero exit status indicates an error or failure in the command.

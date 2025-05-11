@@ -1,0 +1,1 @@
+A network tap can capture both inbound and outbound traffic simultaneously by providing separate output ports for each direction. This dual capture capability allows for comprehensive monitoring of all network communications.

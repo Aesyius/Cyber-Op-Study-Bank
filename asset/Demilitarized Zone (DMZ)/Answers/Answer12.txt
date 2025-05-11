@@ -1,0 +1,1 @@
+A reverse proxy in a DMZ forwards requests from external clients to internal servers. It provides an additional layer of security by masking the internal server details and handling incoming traffic.

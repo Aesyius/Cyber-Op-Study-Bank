@@ -1,0 +1,1 @@
+How do routers manage broadcast traffic in a LAN, and how is this different from how they handle multicast traffic in a WAN?

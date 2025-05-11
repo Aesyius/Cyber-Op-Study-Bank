@@ -1,0 +1,1 @@
+How would understanding the type of malicious file help you decide on the mitigation strategy?

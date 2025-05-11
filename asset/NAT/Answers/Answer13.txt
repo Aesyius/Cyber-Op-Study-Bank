@@ -1,0 +1,1 @@
+NAT gateways serve as intermediaries between internal networks with private IP addresses and external networks with public IP addresses. They manage the translation of IP addresses and port numbers to enable communication between devices in different address realms.

@@ -1,0 +1,1 @@
+Why is it crucial to use a virtual environment when analyzing suspicious files, and how does this help mitigate risk?

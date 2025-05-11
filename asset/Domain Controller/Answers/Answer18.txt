@@ -1,0 +1,1 @@
+Time synchronization is important in a domain environment to ensure that all domain controllers and client machines have the same time settings. This is crucial for Kerberos authentication, which relies on timestamps to prevent replay attacks.

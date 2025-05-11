@@ -1,0 +1,1 @@
+A DMZ helps protect internal network resources by acting as a barrier between external users and the internal network. Only necessary traffic is allowed to pass through controlled gateways.

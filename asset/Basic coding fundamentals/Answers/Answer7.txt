@@ -1,0 +1,1 @@
+A while loop in programming repeats a block of code as long as a specified condition remains true. It checks the condition before each iteration. A for loop, on the other hand, repeats a block of code for a specified number of times or based on an iterable sequence, such as elements in an array or range of values.

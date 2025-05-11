@@ -1,0 +1,1 @@
+SSL/TLS (Secure Sockets Layer/Transport Layer Security) protocols play a crucial role in establishing HTTPS connections by encrypting data transmitted between the client and server, authenticating the server's identity using digital certificates, and ensuring the integrity of data exchanged.

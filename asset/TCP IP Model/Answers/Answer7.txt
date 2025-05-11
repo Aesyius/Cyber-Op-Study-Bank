@@ -1,0 +1,1 @@
+The Internet Layer in the TCP/IP model handles routing, addressing, and packet forwarding across different networks. It uses protocols such as IP (Internet Protocol) for logical addressing, ICMP (Internet Control Message Protocol) for error reporting and diagnostics, and ARP (Address Resolution Protocol) for mapping IP addresses to MAC addresses.

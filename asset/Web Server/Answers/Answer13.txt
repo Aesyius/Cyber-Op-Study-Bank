@@ -1,0 +1,1 @@
+An SSL certificate is a digital certificate that authenticates the identity of a website and enables an encrypted connection between the web server and the client. It is implemented by installing the certificate on the server and configuring it to use HTTPS.

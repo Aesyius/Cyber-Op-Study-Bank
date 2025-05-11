@@ -1,0 +1,1 @@
+What is Identity and Access Management (IAM) in cloud security, and why is it critical?

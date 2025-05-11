@@ -1,0 +1,1 @@
+A virtual router allows multiple logical routers to exist on a single physical router. This is useful in both LANs and WANs to segment traffic or manage different routing policies without needing additional hardware.

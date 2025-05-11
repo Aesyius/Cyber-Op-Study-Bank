@@ -1,0 +1,1 @@
+The "uniq" command handles adjacent duplicate lines, meaning it compares lines sequentially and removes duplicates that occur consecutively. Non-adjacent duplicates are not removed unless the file is sorted appropriately.

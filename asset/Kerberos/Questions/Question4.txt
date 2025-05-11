@@ -1,0 +1,1 @@
+How does the Ticket Granting Ticket (TGT) work in the Kerberos process?

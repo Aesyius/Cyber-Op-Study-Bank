@@ -1,0 +1,1 @@
+The ORDER BY clause sorts the result set of a SQL query by one or more columns in ascending or descending order. For example: SELECT * FROM employees ORDER BY last_name ASC; sorts employees by their last names in ascending order.

@@ -1,0 +1,1 @@
+How does a file server ensure high availability and redundancy in an enterprise network?

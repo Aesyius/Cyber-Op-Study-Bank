@@ -1,0 +1,1 @@
+The "printf" function in "awk" is used for formatted output, similar to the "printf" function in C programming. It allows you to specify the format of output using placeholders and formatting options. For example: awk '{printf "Name: %-10s Age: %d ", $1, $2}' filename

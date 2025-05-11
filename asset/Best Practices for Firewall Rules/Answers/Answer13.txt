@@ -1,0 +1,1 @@
+Regular audits and assessments of firewall rules identify vulnerabilities and ensure compliance with security policies. They help keep rules up-to-date and aligned with security goals.

@@ -1,0 +1,1 @@
+DHCP stands for Dynamic Host Configuration Protocol, and its primary purpose in computer networking is to automate the process of assigning IP addresses and other network configuration settings to devices on a network.

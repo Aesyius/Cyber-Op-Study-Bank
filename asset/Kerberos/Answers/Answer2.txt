@@ -1,0 +1,1 @@
+The main components of Kerberos are: • Client: The entity (user or service) requesting authentication. • Key Distribution Center (KDC): Includes the Authentication Server (AS) and Ticket Granting Service (TGS). • Service Server (SS): The resource the client wants to access.

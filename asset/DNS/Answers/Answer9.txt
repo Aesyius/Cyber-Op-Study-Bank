@@ -1,0 +1,1 @@
+Root DNS servers are a crucial part of the DNS hierarchy and maintain information about top-level domain (TLD) DNS servers. They are the starting point for DNS resolution and help direct queries to the appropriate TLD DNS servers.

@@ -1,0 +1,1 @@
+Describe how file permissions are managed on a file server.

@@ -1,0 +1,1 @@
+The Ticket Granting Ticket (TGT) is a temporary credential that allows the client to request service tickets from the Ticket Granting Service (TGS) without re-entering their credentials. It is issued after initial authentication and is used to obtain service tickets.

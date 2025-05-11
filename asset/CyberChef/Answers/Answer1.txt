@@ -1,0 +1,1 @@
+CyberChef is a web-based data analysis and manipulation tool designed for performing a wide range of data transformation tasks. Its primary purpose is to help users decode, encode, transform, analyze, and visualize data in various formats quickly and efficiently.

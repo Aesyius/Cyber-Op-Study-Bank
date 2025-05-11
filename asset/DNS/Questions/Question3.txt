@@ -1,0 +1,1 @@
+How does DNS resolve domain names to IP addresses?

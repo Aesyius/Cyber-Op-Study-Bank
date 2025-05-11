@@ -1,0 +1,1 @@
+Analyzing a trojan would involve identifying its method of disguise and payload delivery, while a keylogger analysis would focus on detecting its logging functionality and understanding how it captures user input.

@@ -1,0 +1,1 @@
+A virtual host allows multiple domain names to be served by a single web server instance. This is done by configuring the server to respond to different domain requests and serving the corresponding content for each domain.

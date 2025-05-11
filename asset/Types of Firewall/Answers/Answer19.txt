@@ -1,0 +1,1 @@
+Firewalls can be used to segment a network by creating different security zones and applying specific rules to control traffic between these zones. This helps isolate sensitive areas and control access based on security policies.

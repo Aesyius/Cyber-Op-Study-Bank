@@ -1,0 +1,1 @@
+Regex escape sequences, such as "\d" (matches digits), "\w" (matches word characters), and "\s" (matches whitespace characters), provide shorthand for common character classes or special characters.

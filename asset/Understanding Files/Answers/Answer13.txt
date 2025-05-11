@@ -1,0 +1,1 @@
+Ransomware encrypts data and demands payment, making it distinct from spyware, which covertly collects information, or rootkits, which provide persistent privileged access. Ransomware’s goal is financial gain, while the others focus on data theft or system control.

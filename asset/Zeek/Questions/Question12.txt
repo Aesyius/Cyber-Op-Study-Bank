@@ -1,0 +1,1 @@
+Explain the concept of scripting in Zeek and its flexibility for customizing monitoring and analysis.

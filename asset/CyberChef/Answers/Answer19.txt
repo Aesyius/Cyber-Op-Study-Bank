@@ -1,0 +1,1 @@
+CyberChef can be used for data obfuscation and anti-forensic techniques by applying encoding, encryption, and manipulation operations to hide or alter data in ways that make it difficult for adversaries or forensic tools to analyze or recover.

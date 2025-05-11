@@ -1,0 +1,1 @@
+A segmented network architecture example could include separate segments for different departments, such as HR, finance, and IT. Each segment has specific security policies and limited access to other segments.

@@ -1,0 +1,1 @@
+Threat intelligence plays a crucial role in the Unified Kill Chain model by providing insights into known adversary tactics, techniques, and procedures (TTPs). This information helps in identifying indicators of compromise (IoCs) and understanding potential threats at each phase of the attack.

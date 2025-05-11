@@ -1,0 +1,1 @@
+FTP passive mode data transfer involves the client initiating both control and data connections to the server. In passive mode, the server listens on a specified data port for incoming data connections from the client, allowing for better compatibility with firewalls and network configurations.

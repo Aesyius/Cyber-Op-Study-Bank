@@ -1,0 +1,1 @@
+Explain how VPNs can be integrated with a DMZ for secure remote access.

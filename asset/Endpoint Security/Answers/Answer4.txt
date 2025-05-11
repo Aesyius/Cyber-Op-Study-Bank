@@ -1,0 +1,1 @@
+Endpoint detection and response (EDR) enhances endpoint security by providing continuous monitoring, detection, and automated response to threats on endpoints. EDR solutions can identify suspicious activity, isolate compromised devices, and provide forensic analysis to help mitigate and prevent future attacks.

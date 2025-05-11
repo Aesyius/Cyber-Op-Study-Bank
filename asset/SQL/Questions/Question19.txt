@@ -1,0 +1,1 @@
+How does SQL handle NULL values in database operations?

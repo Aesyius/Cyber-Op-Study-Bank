@@ -1,0 +1,1 @@
+File sharing can be configured on a file server using the SMB protocol by enabling file sharing services and assigning shared folders with appropriate permissions. This is typically done through the server's operating system or management interface.

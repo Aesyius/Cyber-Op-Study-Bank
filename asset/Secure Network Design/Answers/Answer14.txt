@@ -1,0 +1,1 @@
+Secure network design addresses DDoS attacks by using rate limiting, traffic filtering, and load balancing to mitigate the impact of large-scale traffic floods. Redundant pathways and resources also help maintain service availability.

@@ -1,0 +1,1 @@
+Network links, connections, and interfaces are represented in network diagrams using lines, arrows, or icons to show how devices are interconnected. For example, Ethernet cables between switches, serial connections between routers, or virtual connections between servers.

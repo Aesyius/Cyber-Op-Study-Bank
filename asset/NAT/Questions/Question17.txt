@@ -1,0 +1,1 @@
+Describe the impact of NAT on end-to-end connectivity and application compatibility.

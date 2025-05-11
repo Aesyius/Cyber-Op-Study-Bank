@@ -1,0 +1,1 @@
+The DHCPOFFER message is sent by the DHCP server to the client in response to a DHCPDISCOVER. It contains an available IP address and other network configuration details (e.g., subnet mask, default gateway).

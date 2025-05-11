@@ -1,0 +1,1 @@
+TShark handles encrypted traffic similarly to Wireshark. It can capture encrypted packets, but it cannot decrypt them unless the encryption keys are available. Encrypted packets will appear in the capture with encrypted payloads, and TShark cannot decipher their contents without the necessary keys.

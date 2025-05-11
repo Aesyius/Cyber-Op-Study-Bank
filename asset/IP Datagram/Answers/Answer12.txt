@@ -1,0 +1,1 @@
+The IPv4 source and destination address fields are essential for identifying the sender and recipient of IP datagrams. They play a crucial role in routing decisions and end-to-end communication.

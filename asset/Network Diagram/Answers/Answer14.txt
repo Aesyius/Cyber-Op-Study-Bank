@@ -1,0 +1,1 @@
+Common network design principles reflected in network diagrams include redundancy (redundant paths for fault tolerance), segmentation (logical separation of network segments), scalability (ability to expand or accommodate growth), security (implementation of firewalls, access controls), and performance optimization (load balancing, traffic shaping).

@@ -1,0 +1,1 @@
+Subqueries are queries nested inside another SQL query. They can be used in SELECT, INSERT, UPDATE, or DELETE statements to perform operations that depend on the results of the outer query. For example: SELECT * FROM employees WHERE department_id IN (SELECT id FROM departments WHERE name = 'Sales');

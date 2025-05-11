@@ -1,0 +1,1 @@
+A DMZ is used in network security architecture to provide an additional layer of security for external-facing services. It isolates these services from the internal network, reducing the risk of external attacks reaching internal systems.

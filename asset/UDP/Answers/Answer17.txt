@@ -1,0 +1,1 @@
+The UDP length field in the header specifies the total length of the UDP datagram, including the header and data. It helps the receiving end know how much data to expect in the UDP packet.

@@ -1,0 +1,1 @@
+Explain the role of regular expressions (regex) in CyberChef for pattern matching and data extraction.

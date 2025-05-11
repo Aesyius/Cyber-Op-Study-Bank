@@ -1,0 +1,1 @@
+The Set-ExecutionPolicy cmdlet is used to set the policy that controls the conditions under which PowerShell scripts are allowed to run on the system, such as Restricted, RemoteSigned, or Unrestricted. This helps ensure security when executing scripts.

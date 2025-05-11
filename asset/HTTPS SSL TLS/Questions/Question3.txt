@@ -1,0 +1,1 @@
+How does HTTPS ensure secure communication over the internet?

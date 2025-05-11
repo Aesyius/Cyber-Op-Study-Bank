@@ -1,0 +1,1 @@
+What is the difference between interior routing protocols (like OSPF) used in LANs and exterior routing protocols (like BGP) used in WANs?

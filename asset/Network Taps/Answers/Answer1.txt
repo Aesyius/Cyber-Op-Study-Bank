@@ -1,0 +1,1 @@
+A network tap (Test Access Point or Terminal Access Point) is a hardware device that allows access to the data flowing across a network. It captures all traffic between two endpoints without interfering with the data flow, enabling monitoring and analysis.

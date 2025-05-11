@@ -1,0 +1,1 @@
+A standard ACL filters traffic based solely on the source IP address. For example, a standard ACL might permit or deny traffic from a specific IP range, such as allowing traffic from the IP address 192.168.1.0/24 while denying all other addresses.

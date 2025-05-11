@@ -1,0 +1,1 @@
+A Mail User Agent (MUA) is the software (like Outlook, Gmail, Thunderbird) that users interact with to send, receive, and manage their emails. The MUA communicates with the mail server using SMTP, POP3, or IMAP protocols.

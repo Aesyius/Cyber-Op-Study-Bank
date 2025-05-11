@@ -1,0 +1,1 @@
+The ARP timeout period is the duration for which ARP cache entries are considered valid before they expire. A longer timeout period can improve network performance by reducing ARP overhead, but it can also lead to outdated cache entries in dynamic network environments.

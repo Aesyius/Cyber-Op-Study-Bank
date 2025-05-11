@@ -1,0 +1,1 @@
+PowerShell is primarily used for task automation, configuration management, and system administration in Windows environments, allowing users to automate routine tasks and manage system configurations effectively.

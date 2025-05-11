@@ -1,0 +1,1 @@
+SMTPS (SMTP over SSL/TLS) is a secure version of SMTP that encrypts SMTP communication using SSL/TLS protocols. It adds a layer of security to SMTP transmissions, protecting email content and credentials from eavesdropping and interception.

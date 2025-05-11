@@ -1,0 +1,1 @@
+Zero trust is a security model that assumes no implicit trust for any user or device, regardless of location. It requires continuous verification and strict access controls for all network interactions.

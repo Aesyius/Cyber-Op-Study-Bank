@@ -1,0 +1,1 @@
+How does a SIEM system handle large volumes of data?

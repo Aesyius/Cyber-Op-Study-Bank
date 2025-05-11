@@ -1,0 +1,1 @@
+Explain the concept of a virtual router and how it is utilized in both LAN and WAN scenarios.

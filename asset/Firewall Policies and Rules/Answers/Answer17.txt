@@ -1,0 +1,1 @@
+Firewall rules can block specific IP addresses by specifying the addresses in the rule criteria. This prevents traffic from known malicious or unauthorized sources.

@@ -1,0 +1,1 @@
+Server-side scripts like PHP, Python, or ASP.NET are executed on the web server to generate dynamic content. These scripts can interact with databases and produce customized responses based on user input or other variables.

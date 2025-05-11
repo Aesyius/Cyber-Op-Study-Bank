@@ -1,0 +1,1 @@
+Exception handling in programming is a mechanism for handling errors, exceptions, and unexpected conditions that may arise during program execution. It allows programs to gracefully handle errors, recover from failures, log error messages, and prevent crashes or unexpected behavior.

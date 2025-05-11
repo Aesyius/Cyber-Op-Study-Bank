@@ -1,0 +1,1 @@
+TShark can capture and analyze live network streams, including VoIP traffic (e.g., SIP, RTP), video/audio streams (e.g., RTSP, HLS), and various protocols used in network communication. It provides visibility into packet-level details for these streams, aiding in troubleshooting and analysis.

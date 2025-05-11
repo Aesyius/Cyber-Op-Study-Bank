@@ -1,0 +1,1 @@
+tcpdump's output formats include ASCII for human-readable packet details, hexadecimal for raw packet data, and pcap format for saving captured packets in a format compatible with other packet analysis tools like Wireshark.

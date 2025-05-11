@@ -1,0 +1,1 @@
+An FTP bounce attack involves an attacker exploiting the FTP protocol's data connection mechanism to connect to other FTP servers through the compromised FTP server, potentially bypassing firewall restrictions. It can be prevented by disabling FTP bounce functionality on the server and implementing strict firewall rules.

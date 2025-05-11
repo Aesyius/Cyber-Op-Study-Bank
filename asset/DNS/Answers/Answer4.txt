@@ -1,0 +1,1 @@
+A DNS resolver is a client-side software or device that initiates DNS queries to resolve domain names to IP addresses. A DNS server, on the other hand, is a server that stores DNS records and responds to DNS queries from resolvers by providing IP address information.

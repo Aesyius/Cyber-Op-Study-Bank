@@ -1,0 +1,1 @@
+Explain the shared responsibility model in cloud security.

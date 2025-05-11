@@ -1,0 +1,1 @@
+To configure a domain controller for high availability, organizations often implement multiple domain controllers in different locations and use replication to ensure data consistency. Load balancing and clustering can also be used for improved uptime.

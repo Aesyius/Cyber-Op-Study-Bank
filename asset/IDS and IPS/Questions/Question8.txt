@@ -1,0 +1,1 @@
+How can IDS be deployed in different network architectures, such as inline and passive modes?

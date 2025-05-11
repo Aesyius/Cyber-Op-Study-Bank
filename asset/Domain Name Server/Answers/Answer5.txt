@@ -1,0 +1,1 @@
+A CNAME record is a DNS record that maps one domain name (an alias) to another domain name. Unlike an A record, which maps directly to an IP address, a CNAME points to another domain name, which then resolves to an IP address.

@@ -1,0 +1,1 @@
+Aggregation taps combine traffic from multiple sources and provide a single output stream for monitoring tools. This simplifies the analysis of traffic from diverse devices and locations, enhancing overall visibility.

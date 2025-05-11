@@ -1,0 +1,1 @@
+tcpdump captures network traffic by putting the specified network interface into promiscuous mode, which allows it to capture all packets passing through that interface, regardless of their intended destination. It then analyzes these packets based on user-defined filters and displays or saves the captured data accordingly.

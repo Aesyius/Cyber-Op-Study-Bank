@@ -1,0 +1,1 @@
+What is the difference between allow and deny rules in a firewall?

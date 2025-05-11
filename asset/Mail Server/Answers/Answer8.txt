@@ -1,0 +1,1 @@
+When a message cannot be delivered, the mail server generates a bounce-back email (Non-Delivery Report) and sends it to the sender. The email may be retried for a set period before being marked as undeliverable.

@@ -1,0 +1,1 @@
+To search for patterns in compressed files, you can use "zgrep" for gzip files or "bzgrep" for bzip2 files. For example: zgrep "pattern" file.gz

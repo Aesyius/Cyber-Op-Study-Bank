@@ -1,0 +1,1 @@
+The process of converting binary data into Base64 format involves the following steps: ●Divide the binary data into groups of 6 bits each. ●Convert each 6-bit group into its corresponding Base64 character. ●Concatenate the Base64 characters to form the Base64-encoded string.

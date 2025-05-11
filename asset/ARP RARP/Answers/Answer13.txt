@@ -1,0 +1,1 @@
+RARP is used in scenarios where devices need to obtain IP addresses dynamically without manual configuration, such as diskless workstations, embedded systems, or legacy network configurations.

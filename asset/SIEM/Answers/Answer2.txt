@@ -1,0 +1,1 @@
+The two main components of a SIEM system are data collection and data analysis. Data collection involves gathering logs and event data from different sources, while data analysis includes processes such as correlation and normalization to detect and investigate security incidents.

@@ -1,0 +1,1 @@
+Firewalls handle encrypted traffic by allowing or blocking it based on policies, but they cannot inspect the content of encrypted traffic. To inspect encrypted traffic, additional measures such as SSL/TLS interception are required.

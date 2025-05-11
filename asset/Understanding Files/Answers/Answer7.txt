@@ -1,0 +1,1 @@
+Simply extracting strings from a file may not reveal all malicious functionality, especially if the file includes encrypted sections or dynamically generated content. Deeper analysis, such as reverse engineering or dynamic analysis, is needed to uncover hidden behaviors.

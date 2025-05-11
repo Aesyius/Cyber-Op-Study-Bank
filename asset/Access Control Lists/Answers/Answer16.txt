@@ -1,0 +1,1 @@
+Common mistakes to avoid when configuring ACLs include creating overly broad rules, forgetting to apply the ACL to the correct interface, and failing to test rules before deployment. Proper planning and testing are essential for effective ACL management.

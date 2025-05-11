@@ -1,0 +1,1 @@
+Advantages of the OSI model in modern networking include its comprehensive and structured approach to networking concepts, which helps in understanding complex systems. Limitations may include its theoretical nature and the complexity of mapping real-world protocols to its layers.

@@ -1,0 +1,1 @@
+SIEM stands for Security Information and Event Management. Its primary function is to provide comprehensive real-time analysis of security alerts by collecting and correlating data from various sources within an organization to identify and respond to potential threats.

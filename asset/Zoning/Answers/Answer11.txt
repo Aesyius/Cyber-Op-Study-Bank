@@ -1,0 +1,1 @@
+Zoning impacts network scalability and flexibility by providing granular control over resource access. It allows administrators to scale networks without compromising security or performance by segmenting traffic and resources logically.

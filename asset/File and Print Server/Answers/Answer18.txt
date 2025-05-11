@@ -1,0 +1,1 @@
+Print quotas can be enforced on a print server by configuring settings that limit the number of pages or print jobs a user or group can print. This helps manage resources and control printing costs.

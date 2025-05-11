@@ -1,0 +1,1 @@
+What are aggregate functions in SQL, and can you provide examples?

@@ -1,0 +1,1 @@
+The Caesar Cipher has significant limitations in terms of security due to its simplicity and vulnerability to brute-force attacks. With only 25 possible keys, it's easy for attackers to try all combinations to decrypt the message.

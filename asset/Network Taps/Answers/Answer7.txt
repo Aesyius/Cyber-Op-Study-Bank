@@ -1,0 +1,1 @@
+Network taps can capture all types of traffic, including unicast, multicast, and broadcast traffic, across various protocols. This comprehensive data collection allows for in-depth analysis and monitoring.

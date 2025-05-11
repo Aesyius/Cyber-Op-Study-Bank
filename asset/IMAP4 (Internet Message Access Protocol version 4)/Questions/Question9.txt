@@ -1,0 +1,1 @@
+How does IMAP4 support features like email flags, search capabilities, and message threading?

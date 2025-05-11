@@ -1,0 +1,1 @@
+An Intrusion Detection System (IDS) plays a crucial role in network security by continuously monitoring network traffic and system activities for signs of unauthorized access, anomalies, or potential security breaches. Its primary purpose is to detect and alert IT teams or security personnel about suspicious behavior or potential threats within the network.

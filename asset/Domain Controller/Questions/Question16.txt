@@ -1,0 +1,1 @@
+How can a domain controller be configured for high availability?

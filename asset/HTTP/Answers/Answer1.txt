@@ -1,0 +1,1 @@
+HTTP stands for Hypertext Transfer Protocol. Its primary purpose in web communication is to facilitate the transfer of hypertext (text with embedded links) and other media between web servers and clients, enabling the retrieval and display of web pages and resources.

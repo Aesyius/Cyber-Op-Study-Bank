@@ -1,0 +1,1 @@
+The SSH key exchange process involves: ●Client and server negotiate key exchange algorithms and cryptographic parameters. ●Server sends its public key to the client. ●Client verifies the server's public key and generates session keys for encryption.

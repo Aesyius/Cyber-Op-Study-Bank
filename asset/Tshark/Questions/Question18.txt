@@ -1,0 +1,1 @@
+Explain the role of TShark in intrusion detection systems (IDS), network forensics investigations, and malware analysis.

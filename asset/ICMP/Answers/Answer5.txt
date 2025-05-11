@@ -1,0 +1,1 @@
+ICMP helps with network diagnostics by providing error reporting and network testing tools, such as ping and traceroute. These tools use ICMP to check device availability, network performance, and routing paths.

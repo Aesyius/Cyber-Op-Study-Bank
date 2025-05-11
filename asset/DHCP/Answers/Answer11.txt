@@ -1,0 +1,1 @@
+DHCP handles IP address conflicts by detecting duplicate IP addresses within its scope. When a conflict occurs, DHCP initiates conflict resolution processes, such as sending DHCP Decline messages or temporarily suspending the conflicting IP address.

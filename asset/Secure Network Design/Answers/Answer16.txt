@@ -1,0 +1,1 @@
+Secure network design addresses insider threats by implementing strict access controls, monitoring user activities, and applying the principle of least privilege. This reduces the risk of internal misuse or breaches.

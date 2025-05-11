@@ -1,0 +1,1 @@
+Common issues with mail servers include configuration errors, DNS issues, and server overload. These are resolved by checking server logs, verifying DNS records, optimizing performance, and maintaining server software updates.

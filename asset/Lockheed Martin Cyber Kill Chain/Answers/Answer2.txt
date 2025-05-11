@@ -1,0 +1,1 @@
+There are seven stages in the Cyber Kill Chain: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), and Actions on Objectives. Each stage represents a phase in the attack lifecycle.

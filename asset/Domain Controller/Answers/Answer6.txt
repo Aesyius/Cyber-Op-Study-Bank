@@ -1,0 +1,1 @@
+A primary domain controller (PDC) is the main domain controller that handles all authentication requests and maintains the master copy of the domain's user accounts and security policies. A backup domain controller (BDC) acts as a standby to the PDC and provides redundancy; however, it does not handle authentication requests in real-time.

@@ -1,0 +1,1 @@
+FTP handles resuming interrupted file transfers by supporting the REST command, allowing clients to specify a starting point for file transfers to resume from where they left off.

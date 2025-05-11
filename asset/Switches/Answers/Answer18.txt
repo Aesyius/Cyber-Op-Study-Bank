@@ -1,0 +1,1 @@
+A switch’s broadcast domain includes all devices that can receive broadcast frames, while a collision domain is the network segment where data packets can collide. Switches reduce collision domains by creating separate segments for each connected device.

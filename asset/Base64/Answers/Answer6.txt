@@ -1,0 +1,1 @@
+Base64 encoding differs from other encoding schemes like hexadecimal and ASCII by using a larger character set to represent binary data more efficiently in a text-based format. Hexadecimal encoding represents data using the digits 0-9 and letters A-F, while ASCII encoding uses 7 or 8 bits to represent characters directly.

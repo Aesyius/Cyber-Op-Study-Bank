@@ -1,0 +1,1 @@
+CyberChef can be integrated with other tools and scripts by utilizing its export/import functionality for recipes and data. Users can export CyberChef recipes as JSON files and import them into other instances of CyberChef or integrate them into automation scripts and workflows.

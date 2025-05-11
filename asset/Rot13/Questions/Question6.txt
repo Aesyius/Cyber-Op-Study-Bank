@@ -1,0 +1,1 @@
+How does the ROT13 cipher handle different types of characters, such as letters, numbers, and special symbols?

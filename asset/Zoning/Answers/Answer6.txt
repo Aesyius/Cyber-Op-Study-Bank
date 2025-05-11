@@ -1,0 +1,1 @@
+In Fibre Channel (FC) SANs, zoning is used to create isolated zones based on WWN or port numbers of FC devices. Zoning in FC SANs provides benefits such as improved security by preventing unauthorized access, optimized traffic management, and simplified administration of storage resources.

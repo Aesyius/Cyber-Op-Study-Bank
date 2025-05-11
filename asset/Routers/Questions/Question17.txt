@@ -1,0 +1,1 @@
+What is the purpose of routing tables, and how do their entries differ between LAN and WAN routers?

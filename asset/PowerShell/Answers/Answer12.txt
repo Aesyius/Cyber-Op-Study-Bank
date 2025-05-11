@@ -1,0 +1,1 @@
+The Stop-Process cmdlet allows you to stop a running process by specifying either the process ID (-Id) or the process name (-Name). This is useful for terminating unresponsive or unwanted processes.

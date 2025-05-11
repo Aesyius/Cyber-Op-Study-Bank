@@ -1,0 +1,1 @@
+HTTP status codes are returned by a web server to indicate the result of an HTTP request. For example, a 200 status code indicates success, while a 404 status code indicates that the requested resource was not found.

@@ -1,0 +1,1 @@
+What is delegation in Kerberos, and when is it used?

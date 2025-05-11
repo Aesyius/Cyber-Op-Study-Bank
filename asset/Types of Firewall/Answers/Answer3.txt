@@ -1,0 +1,1 @@
+A stateful inspection firewall tracks the state of active connections and makes decisions based on the context of the traffic. It monitors the state of connections, such as TCP streams, and only allows traffic that is part of a valid, established connection.

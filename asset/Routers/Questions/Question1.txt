@@ -1,0 +1,1 @@
+What is a router, and what functions does it serve in both LANs and WANs?

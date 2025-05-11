@@ -1,0 +1,1 @@
+Encryption keys are used to encrypt and decrypt data in the cloud, ensuring that data remains secure. Managing these keys involves practices such as using hardware security modules (HSMs), rotating keys regularly, and storing keys separately from the data they protect.

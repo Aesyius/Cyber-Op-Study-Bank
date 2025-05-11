@@ -1,0 +1,1 @@
+When an IDS detects suspicious activity, it generates alerts or notifications to notify security personnel or administrators. These alerts may include information about the type of threat detected, the affected system or network segment, and recommended actions for response or mitigation.

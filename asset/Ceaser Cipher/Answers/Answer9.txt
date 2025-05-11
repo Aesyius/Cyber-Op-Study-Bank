@@ -1,0 +1,1 @@
+The term "modulus" in the Caesar Cipher's key calculation refers to the remainder obtained when dividing the shift amount by 26 (the number of letters in the English alphabet). This ensures that the key wraps around if it exceeds 25, maintaining the shift within the alphabet's bounds.

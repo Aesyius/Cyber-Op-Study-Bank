@@ -1,0 +1,1 @@
+Explain the role of Base64 encoding in web technologies, such as transmitting data in URLs and HTML attributes.

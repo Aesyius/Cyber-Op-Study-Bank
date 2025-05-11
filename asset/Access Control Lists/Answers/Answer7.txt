@@ -1,0 +1,1 @@
+In an operating system environment, ACLs manage permissions by defining which users or groups have access to specific files or resources and what actions they can perform (e.g., read, write, execute). They help enforce security policies by controlling access based on user identity and roles.

@@ -1,0 +1,1 @@
+In a small business network, a DMZ might be used to host a public website and email server. These services are accessible from the internet but isolated from the internal business network to enhance security.

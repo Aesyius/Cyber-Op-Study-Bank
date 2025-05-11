@@ -1,0 +1,1 @@
+During the Weaponization stage, attackers create or acquire the tools needed to exploit the vulnerabilities identified in the Reconnaissance stage. This often involves developing malware, creating phishing emails, or preparing other malicious payloads.

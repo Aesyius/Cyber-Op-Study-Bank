@@ -1,0 +1,1 @@
+SSH agents are programs that manage SSH keys and handle authentication on behalf of users. They store encrypted private keys and facilitate secure authentication without requiring users to enter passwords for each SSH session.

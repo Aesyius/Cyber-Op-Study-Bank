@@ -1,0 +1,1 @@
+What is a read-only domain controller (RODC), and in what scenarios is it useful?

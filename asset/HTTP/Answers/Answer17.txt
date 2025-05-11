@@ -1,0 +1,1 @@
+Cross-Origin Resource Sharing (CORS) in HTTP allows servers to specify which origins (domains) are allowed to access resources on the server. It helps prevent Cross-Origin Resource Sharing (CORS) restrictions and protect against unauthorized cross-domain requests.

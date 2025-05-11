@@ -1,0 +1,1 @@
+The TTL (Time to Live) field in an IPv4 datagram specifies the maximum number of hops (routers) the datagram can pass through before being discarded. It prevents datagrams from circulating endlessly in case of routing loops.

@@ -1,0 +1,1 @@
+ARP resolves IP addresses to MAC addresses in a local network by broadcasting an ARP request packet to all devices on the network. The device with the matching IP address responds with its MAC address, allowing the requesting device to establish communication.

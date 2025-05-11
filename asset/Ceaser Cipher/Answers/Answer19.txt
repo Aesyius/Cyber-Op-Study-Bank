@@ -1,0 +1,1 @@
+The Caesar Box or Caesar Wheel visualizes the encryption process by arranging the alphabet in a grid and shifting rows or columns according to the key. This visualization helps understand how letters are substituted during encryption.

@@ -1,0 +1,1 @@
+TTL (Time to Live) in DNS records defines how long a record is cached before it must be refreshed. Shorter TTL values result in more frequent updates, while longer values keep the record cached longer, reducing DNS queries.

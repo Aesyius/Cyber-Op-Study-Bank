@@ -1,0 +1,1 @@
+Endpoint encryption involves encrypting data stored on an endpoint device to protect it from unauthorized access. This is important for data protection, especially if the device is lost or stolen, as encryption ensures that the data remains inaccessible to unauthorized users.

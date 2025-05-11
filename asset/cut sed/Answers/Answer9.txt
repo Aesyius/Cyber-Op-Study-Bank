@@ -1,0 +1,1 @@
+You can use the "cut" command in combination with pipes ("|") and other commands for text processing tasks. For example, to extract specific fields and then sort the output: cut -d ',' -f 2,4 filename.csv | sort

@@ -1,0 +1,1 @@
+To determine if a file is binary or text without specialized tools, you can try opening it in a text editor. If the content is readable with recognizable characters, it's likely a text file. If it contains mostly garbled symbols and non-printable characters, it's a binary file.

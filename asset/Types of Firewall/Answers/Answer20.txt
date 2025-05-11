@@ -1,0 +1,1 @@
+In a zero trust architecture, a firewall plays a role by enforcing strict access controls and continuously verifying the legitimacy of network traffic. It ensures that only authenticated and authorized traffic can access network resources.

@@ -1,0 +1,1 @@
+How do switches maintain security, and what are some common security features?

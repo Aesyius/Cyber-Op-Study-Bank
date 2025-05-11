@@ -1,0 +1,1 @@
+Routers implement security features like Access Control Lists (ACLs) to filter traffic based on defined rules. In LANs, this might restrict access to certain devices, while in WANs, it can control the flow of traffic between different networks.

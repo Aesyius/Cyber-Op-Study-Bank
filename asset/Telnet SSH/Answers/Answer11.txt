@@ -1,0 +1,1 @@
+SSH sessions are encrypted communication channels established between a client and server for remote access or file transfer. They are managed by the SSH protocol and can include interactive sessions (CLI access) or non-interactive sessions (scripted commands).

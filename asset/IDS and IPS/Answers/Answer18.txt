@@ -1,0 +1,1 @@
+IDS and IPS can work together in a layered defense strategy, where IDS detects threats and generates alerts, while IPS takes proactive measures to block or mitigate identified threats in real-time.

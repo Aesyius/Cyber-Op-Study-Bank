@@ -1,0 +1,1 @@
+SSH protocol versions include SSH-1 (legacy) and SSH-2 (current). SSH-2 offers enhanced security features, better encryption algorithms, and improved protocol design compared to SSH-1.

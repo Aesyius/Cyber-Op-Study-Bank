@@ -1,0 +1,1 @@
+Routers determine the best path for data packets using routing protocols and algorithms. In LANs, they typically use simpler protocols like RIP or OSPF, which focus on local paths. In WANs, they utilize protocols like BGP that take into account broader network policies and path optimization.

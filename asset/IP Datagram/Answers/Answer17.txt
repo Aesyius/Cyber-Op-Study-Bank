@@ -1,0 +1,1 @@
+IPv6 extension headers are additional headers that follow the main IPv6 header and provide various functionalities such as routing, fragmentation, security, and mobility. They allow for more flexibility and extensibility in IPv6 datagrams.

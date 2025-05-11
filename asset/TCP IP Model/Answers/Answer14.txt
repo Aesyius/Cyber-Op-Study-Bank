@@ -1,0 +1,1 @@
+The TCP/IP model facilitates communication between devices on different networks by providing standardized protocols for addressing, routing, and data transmission. Devices on the Internet can communicate using IP addresses, and routers use IP routing protocols to forward packets across networks.

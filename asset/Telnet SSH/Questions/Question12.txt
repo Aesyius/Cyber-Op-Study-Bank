@@ -1,0 +1,1 @@
+How does SSH handle data encryption and integrity verification?

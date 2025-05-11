@@ -1,0 +1,1 @@
+How can segmentation be used to support different security policies for different parts of a network?

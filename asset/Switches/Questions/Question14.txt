@@ -1,0 +1,1 @@
+Explain the concept of Power over Ethernet (PoE) and its use in switches.

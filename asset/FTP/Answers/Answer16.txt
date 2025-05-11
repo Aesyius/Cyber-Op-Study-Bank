@@ -1,0 +1,1 @@
+Anonymous FTP allows users to access FTP servers without providing authentication credentials, typically using a default username (anonymous) and an email address as the password. Security considerations for anonymous FTP include restricting access to sensitive files/directories, monitoring anonymous access, and limiting privileges.

@@ -1,0 +1,1 @@
+Recursive DNS resolution is the process where a DNS resolver queries multiple DNS servers on behalf of a client to fully resolve a domain name to its corresponding IP address. It involves iterative queries from authoritative DNS servers until the final IP address is obtained.

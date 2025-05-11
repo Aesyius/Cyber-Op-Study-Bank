@@ -1,0 +1,1 @@
+Regex lookaheads "(?=)" and lookbehinds "(?<=)" assert conditions without consuming characters during matching. They are used for advanced pattern matching and validation.

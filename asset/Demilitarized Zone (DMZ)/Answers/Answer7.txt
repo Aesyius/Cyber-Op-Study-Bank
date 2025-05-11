@@ -1,0 +1,1 @@
+Traffic flow between the DMZ, internal network, and external network is tightly controlled using firewalls and access control policies. External traffic can access the DMZ, but internal network access is restricted and carefully monitored.

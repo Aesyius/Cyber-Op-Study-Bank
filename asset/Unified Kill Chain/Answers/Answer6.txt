@@ -1,0 +1,1 @@
+The Unified Kill Chain model helps in understanding the lifecycle of a cyber attack by breaking it down into distinct phases, each with specific tactics and objectives. This comprehensive view allows for better identification, prevention, and response to attacks.

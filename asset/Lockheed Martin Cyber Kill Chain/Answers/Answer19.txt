@@ -1,0 +1,1 @@
+The Cyber Kill Chain framework can be applied in threat hunting by helping security teams identify indicators of compromise and detect attacks at various stages. This proactive approach can help prevent breaches and limit damage.

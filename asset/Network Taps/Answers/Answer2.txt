@@ -1,0 +1,1 @@
+A passive tap simply copies the traffic without affecting the original data flow, while an active tap may require power and can potentially modify the data. Passive taps are more common for monitoring because they don’t alter the traffic.

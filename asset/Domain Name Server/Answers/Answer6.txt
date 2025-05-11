@@ -1,0 +1,1 @@
+An MX (Mail Exchange) record specifies the mail servers responsible for receiving email on behalf of a domain. It includes a priority value, which determines the order in which servers should be used.

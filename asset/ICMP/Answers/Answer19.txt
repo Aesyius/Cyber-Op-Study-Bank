@@ -1,0 +1,1 @@
+Firewalls often handle ICMP traffic by allowing necessary diagnostic messages (like Echo Request/Reply) while blocking potentially harmful types (like Redirect or Source Quench). This selective handling helps maintain network security while allowing essential functionality.

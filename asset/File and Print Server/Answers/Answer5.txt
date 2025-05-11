@@ -1,0 +1,1 @@
+A file server ensures data integrity and security by implementing access controls, encryption, and regular backups. Permissions limit access to files, and encryption can protect the data during transmission.

@@ -1,0 +1,1 @@
+Common threats that endpoint security solutions are designed to protect against include malware, ransomware, phishing attacks, zero-day exploits, and insider threats. These solutions aim to prevent unauthorized access, data breaches, and other security incidents.

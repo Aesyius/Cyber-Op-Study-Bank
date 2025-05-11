@@ -1,0 +1,1 @@
+"awk" can perform calculations and aggregate data by using arithmetic expressions and built-in functions. For instance, to calculate the average of a column: awk '{total += $2} END {print "Average:", total/NR}' filename

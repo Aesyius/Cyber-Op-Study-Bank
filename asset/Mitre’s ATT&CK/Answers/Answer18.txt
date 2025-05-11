@@ -1,0 +1,1 @@
+The ‘ATT&CK Navigator’ is a tool that allows users to visualize, explore, and interact with the MITRE ATT&CK knowledge base. It helps in mapping out attack techniques, identifying gaps in defenses, and planning security measures based on the framework.

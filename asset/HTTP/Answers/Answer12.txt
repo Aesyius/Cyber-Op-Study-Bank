@@ -1,0 +1,1 @@
+Content negotiation in HTTP requests allows clients and servers to negotiate the most suitable content format (e.g., HTML, JSON, XML) based on client preferences, supported formats by the server, and language preferences.

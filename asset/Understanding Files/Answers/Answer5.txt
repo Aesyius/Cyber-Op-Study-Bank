@@ -1,0 +1,1 @@
+When content is obfuscated, extracted strings may appear scrambled or encrypted. To address this, you could use tools or scripts to attempt to decode or deobfuscate the strings, making it possible to analyze the readable content.

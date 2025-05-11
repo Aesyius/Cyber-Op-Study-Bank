@@ -1,0 +1,1 @@
+How does HTTPS impact the performance of web applications compared to HTTP?

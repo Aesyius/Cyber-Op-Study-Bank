@@ -1,0 +1,1 @@
+Describe the use of the "-E" option in "grep" to enable extended regex syntax.

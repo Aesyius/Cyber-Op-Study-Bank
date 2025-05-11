@@ -1,0 +1,1 @@
+The DHCPACK message is sent by the DHCP server to confirm that the client’s lease request has been accepted. It finalizes the process by assigning the IP address and configuration to the client.

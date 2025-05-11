@@ -1,0 +1,1 @@
+Explain the structure of a Base64-encoded string and its characteristics.

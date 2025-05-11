@@ -1,0 +1,1 @@
+The stdout stream represents the standard output where command output is normally directed. The stdin stream represents the standard input where command input is normally read from. The pipe operator redirects the stdout of one command to the stdin of another command, allowing for data flow between them.

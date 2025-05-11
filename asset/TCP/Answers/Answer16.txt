@@ -1,0 +1,1 @@
+The PSH flag in TCP segments indicates immediate data delivery without waiting for a full buffer, prompting the receiver to process and deliver the data promptly.

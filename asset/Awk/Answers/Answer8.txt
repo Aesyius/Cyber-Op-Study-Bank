@@ -1,0 +1,1 @@
+The "NF" variable in "awk" represents the number of fields in the current input record (line). It is often used to loop through all fields in a line or to access the last field. For example: awk '{print "Last field:", $NF}' filename

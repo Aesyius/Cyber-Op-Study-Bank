@@ -1,0 +1,1 @@
+Brute force attacks on the Caesar Cipher involve trying all possible keys (1 to 25) until the correct decryption is found. Frequency analysis, which examines the frequency of letters in the ciphertext, can also be used to deduce the most likely key.

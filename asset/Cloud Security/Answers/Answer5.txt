@@ -1,0 +1,1 @@
+Data encryption in cloud security involves encoding data so that only authorized parties can access it. Encryption can be applied to data at rest, in transit, and sometimes even in use. This ensures that even if data is intercepted or accessed by unauthorized parties, it remains unreadable.

@@ -1,0 +1,1 @@
+UDP handles data delivery by simply sending datagrams from sender to receiver without reliability mechanisms like acknowledgments, retransmissions, or sequencing. It is faster but less reliable than TCP.

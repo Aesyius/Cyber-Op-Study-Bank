@@ -1,0 +1,1 @@
+The Authentication Server (AS) verifies the client's identity by checking their credentials (typically a password) and issues a Ticket Granting Ticket (TGT). This TGT is then used for subsequent access to services.

@@ -1,0 +1,1 @@
+ICMP is a network layer protocol used by network devices, like routers, to send error messages and operational information. It is primarily used for diagnostic and control purposes, helping with the management of network traffic.
