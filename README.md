@@ -4,7 +4,7 @@ v0.1
 
 # Usage
 
-Should work on Linux and Windows. Not tested on Mac.
+Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens.
 
 ## To run
 1. Open terminal
@@ -43,8 +43,9 @@ Python must be installed
 ## To do
 
 - [ ] Prettify GUI
-- [ ] Fix 'no topic selected' bug randomize button clicked too fast
+- [ ] Fix 'no topic selected' bug randomize button if clicked too fast
 - [ ] Build help page
+- [ ] Self adjusting screen size. Currently hardcoded.
 
 ## Credit
 
