@@ -4,7 +4,11 @@ v0.1
 
 # Usage
 
-Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens.
+Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens. Disregard puller.py, this is script used to pull questions/answers from the pdf with regex.
+
+# Prequisites
+
+Python must be installed
 
 ## To run
 1. Open terminal
@@ -36,9 +40,6 @@ Click reveal to reveal answer
 
 ![Screenshot](readmeImages/Question%20with%20Answer.png)
 
-# Prequisites
-
-Python must be installed
 
 ## To do
 
