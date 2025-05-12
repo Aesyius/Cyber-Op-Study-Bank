@@ -4,7 +4,7 @@ v0.1
 
 # Usage
 
-Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens. Disregard puller.py, this is script used to pull questions/answers from the pdf with regex.
+Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens. Disregard puller.py, this is the script used to pull questions/answers from the pdf with regex.
 
 # Prequisites
 
