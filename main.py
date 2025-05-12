@@ -80,6 +80,7 @@ class FKSAStudyBank:
                 each.set(state)
 
         # Configures top window
+
         top = tk.Toplevel(self.window)
         top.title("Topic Selector")
         top.config(padx=10,pady=10)
@@ -160,7 +161,7 @@ class FKSAStudyBank:
                 top.config(padx=10,pady=10)
                 topText = tk.Label(top, text=f"No topics selected")
                 topText.pack()
-                button = tk.Button(top,text="Oh shit.", command=top.destroy)
+                button = tk.Button(top,text="Oh no!", command=top.destroy)
                 button.pack(pady=10)
             
             else:
@@ -182,7 +183,7 @@ class FKSAStudyBank:
             top.config(padx=10,pady=10)
             topText = tk.Label(top, text=f"No topics selected")
             topText.pack()
-            button = tk.Button(top,text="Oh shit.", command=top.destroy)
+            button = tk.Button(top,text="Oh no!", command=top.destroy)
             button.pack(pady=10)
 
             print(e)
