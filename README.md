@@ -4,7 +4,11 @@ v0.1
 
 # Usage
 
-Should work on Linux and Windows. Not tested on Mac. Maybe break on smaller screens. Disregard puller.py, this is the script used to pull questions/answers from the pdf with regex.
+Should work on Linux and Windows. Not tested on Mac. 
+
+Might break on smaller screens. 
+
+Disregard puller.py, this is the script used to pull questions/answers from the pdf with regex.
 
 # Prequisites
 
@@ -44,9 +48,11 @@ Click reveal to reveal answer
 ## To do
 
 - [ ] Prettify GUI
-- [ ] Fix 'no topic selected' bug randomize button if clicked too fast
+- [ ] Fix 'no topic selected' bug if randomize button clicked too fast
 - [ ] Build help page
 - [ ] Self adjusting screen size. Currently hardcoded.
+- [ ] Reorganize topic selector
+- [ ] Add function to select topics by chapters
 
 ## Credit
 
