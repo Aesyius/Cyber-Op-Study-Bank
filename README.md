@@ -4,7 +4,7 @@ v0.1
 
 # Usage
 
-Should work on Linux and Windows. Not tested on Mac
+Should work on Linux and Windows. Not tested on Mac.
 
 ## To run
 1. Open terminal
@@ -39,6 +39,12 @@ Click reveal to reveal answer
 # Prequisites
 
 Python must be installed
+
+## To do
+
+- [ ] Prettify GUI
+- [ ] Fix 'no topic selected' bug randomize button clicked too fast
+- [ ] Build help page
 
 ## Credit
 
