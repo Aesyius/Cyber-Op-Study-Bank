@@ -156,13 +156,18 @@ class FKSAStudyBank:
             selectedTopics = [topic for topic, var in self.topicState.items() if var.get()]
             
             if not selectedTopics:
-                top = tk.Toplevel(self.window)
-                top.title("Error!")
-                top.config(padx=10,pady=10)
-                topText = tk.Label(top, text=f"No topics selected")
-                topText.pack()
-                button = tk.Button(top,text="Oh no!", command=top.destroy)
-                button.pack(pady=10)
+                self._generateWindow(title="Error!",
+                                 content=f"No topic selected",
+                                 buttonText="Oh no!")
+                
+                
+                # top = tk.Toplevel(self.window)
+                # top.title("Error!")
+                # top.config(padx=10,pady=10)
+                # topText = tk.Label(top, text=f"No topics selected")
+                # topText.pack()
+                # button = tk.Button(top,text="Oh no!", command=top.destroy)
+                # button.pack(pady=10)
             
             else:
                 # Creates path to the selected topics
@@ -178,15 +183,21 @@ class FKSAStudyBank:
                 
                 
         except Exception as e:
-            top = tk.Toplevel(self.window)
-            top.title("Error!")
-            top.config(padx=10,pady=10)
-            topText = tk.Label(top, text=f"No topics selected")
-            topText.pack()
-            button = tk.Button(top,text="Oh no!", command=top.destroy)
-            button.pack(pady=10)
+            self._generateWindow(title="Error!",
+                                 content=f"No topic selected\n{e}",
+                                 buttonText="Oh no!")
 
-            print(e)
+
+        # except Exception as e:
+        #     top = tk.Toplevel(self.window)
+        #     top.title("Error!")
+        #     top.config(padx=10,pady=10)
+        #     topText = tk.Label(top, text=f"No topics selected")
+        #     topText.pack()
+        #     button = tk.Button(top,text="Oh no!", command=top.destroy)
+        #     button.pack(pady=10)
+
+        #     print(e)
             
 
     def _answerDisplay(self, arg):
@@ -213,6 +224,36 @@ class FKSAStudyBank:
     def _placeholder(self):
         print("_placeholder - it works!")
         pass
+
+    def _generateWindow(self, **kwargs):
+        """
+        Generates a window 1 button window to fill with content
+        
+        Keyword Args:
+            title (str): Title text for the window.
+            content (str): Main content or message to display.
+            buttonText (str): Label text for the button.
+        """
+        
+        
+        title = kwargs.get("title")
+        label = kwargs.get("content")
+        buttonText = kwargs.get("buttonText")
+
+        top = tk.Toplevel(self.window)
+        top.title(title)    
+        top.config(padx=10,pady=10)
+
+        topText = tk.Label(top, text=label)
+        topText.pack()
+
+        button = tk.Button(top,text=buttonText, command=top.destroy)
+        button.pack(pady=10)
+
+
+
+
+
 
     # def _resizeWindow(self,event):
     #     width = event.width
