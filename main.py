@@ -159,15 +159,6 @@ class FKSAStudyBank:
                 self._generateWindow(title="Error!",
                                  content=f"No topic selected",
                                  buttonText="Oh no!")
-                
-                
-                # top = tk.Toplevel(self.window)
-                # top.title("Error!")
-                # top.config(padx=10,pady=10)
-                # topText = tk.Label(top, text=f"No topics selected")
-                # topText.pack()
-                # button = tk.Button(top,text="Oh no!", command=top.destroy)
-                # button.pack(pady=10)
             
             else:
                 # Creates path to the selected topics
@@ -186,19 +177,6 @@ class FKSAStudyBank:
             self._generateWindow(title="Error!",
                                  content=f"No topic selected\n{e}",
                                  buttonText="Oh no!")
-
-
-        # except Exception as e:
-        #     top = tk.Toplevel(self.window)
-        #     top.title("Error!")
-        #     top.config(padx=10,pady=10)
-        #     topText = tk.Label(top, text=f"No topics selected")
-        #     topText.pack()
-        #     button = tk.Button(top,text="Oh no!", command=top.destroy)
-        #     button.pack(pady=10)
-
-        #     print(e)
-            
 
     def _answerDisplay(self, arg):
         if arg:
